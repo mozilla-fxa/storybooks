@@ -1,0 +1,1 @@
+chore(build): updated payments-server test-ci.sh
