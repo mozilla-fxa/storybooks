@@ -1,0 +1,19 @@
+commit 0f6ef98ae99a0c2f3a6ee781487d1902899b4ae7
+Merge: 5c0a818a8 93538542f
+Author: Jackie Munroe <jackiemunroe@users.noreply.github.com>
+Date:   Tue May 26 14:32:50 2020 -0700
+
+    Merge pull request #5406 from jackiemunroe/fxa-1875-bug-support-form-popup-text
+    
+    bug (content server): fix support form success message
+    
+    Because:
+    
+        the support form success message is missing the product value
+    
+    This commit:
+    
+        fix the message creation function to reference the correct form value
+        remove the 'FxA - ' prefix that is added for Zendesk Agents, to match mockups and to show users the value they selected accurately
+    
+    fixes #5298
