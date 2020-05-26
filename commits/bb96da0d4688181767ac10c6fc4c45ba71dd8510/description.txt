@@ -1,0 +1,5 @@
+commit bb96da0d4688181767ac10c6fc4c45ba71dd8510
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue May 26 21:01:16 2020 +0000
+
+    chore(deps): pin dependencies
