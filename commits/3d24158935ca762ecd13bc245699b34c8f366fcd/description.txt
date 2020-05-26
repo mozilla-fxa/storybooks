@@ -1,0 +1,8 @@
+commit 3d24158935ca762ecd13bc245699b34c8f366fcd
+Merge: cc0655c8f fec460f6d
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue May 26 15:32:13 2020 -0700
+
+    Merge pull request #5441 from mozilla/update-deps
+    
+    chore(deps): update some dependencies
