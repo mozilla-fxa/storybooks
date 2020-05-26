@@ -1,0 +1,8 @@
+commit e0941842040dd1bf5290bc73a4920836ac2536b3
+Merge: 3d2415893 b19124ad3
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Tue May 26 15:46:03 2020 -0700
+
+    Merge pull request #5455 from lmorchard/fix-payment-server-secrets
+    
+    fix(payments-server): correct location for secrets.json alongside config
