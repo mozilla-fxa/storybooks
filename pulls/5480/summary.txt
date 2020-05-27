@@ -1,0 +1,1 @@
+chore(fxa-react): update jest and storybook to support CRA-style importing SVGs as a component
