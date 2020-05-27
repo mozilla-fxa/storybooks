@@ -1,0 +1,8 @@
+commit c97da3952d3b2d38c8a5edcb4f29b30339b5a655
+Merge: 3b01d0e49 dfc355e28
+Author: Vlad Filippov <vlad.filippov@gmail.com>
+Date:   Wed May 27 10:45:56 2020 -0400
+
+    Merge pull request #5467 from mozilla/i2298-v2
+    
+    feat(sentry): reduce Sentry 'info' logging from the content-server
