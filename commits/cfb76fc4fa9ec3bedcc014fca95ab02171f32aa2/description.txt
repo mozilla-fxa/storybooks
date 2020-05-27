@@ -1,0 +1,8 @@
+commit cfb76fc4fa9ec3bedcc014fca95ab02171f32aa2
+Merge: e09418420 e6f60d288
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue May 26 16:58:29 2020 -0700
+
+    Merge pull request #5409 from mozilla/co-hook
+    
+    feat(dev): added post-checkout git hook to keep deps in sync
