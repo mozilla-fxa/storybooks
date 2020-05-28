@@ -1,0 +1,8 @@
+commit 369e4e54588ea3a712b759ccd905166ad252574d
+Merge: 7da368316 abb9696d8
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu May 28 12:26:50 2020 -0400
+
+    Merge pull request #5483 from mozilla/fxa-1854, r=@jackiemunroe
+    
+    feat(experiments): Enable newsletter sync experiment
