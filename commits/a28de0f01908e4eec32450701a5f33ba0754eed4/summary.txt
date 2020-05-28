@@ -1,0 +1,1 @@
+Merge pull request #5485 from mozilla/i500-details, r=@vbudhram
