@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Storybooks for 21fe09b72037c03fd0c1f9b58a8d0d1feb12bb4d</title>
+      
+    </head>
+    <body>
+      <h1>Storybooks for 21fe09b72037c03fd0c1f9b58a8d0d1feb12bb4d</h1>
+      <ul>
+        <li>
+    <a href="./fxa-payments-server/index.html">fxa-payments-server</a>
+    
+    
+  </li><li>
+    <a href="./fxa-react/index.html">fxa-react</a>
+    
+    
+  </li><li>
+    <a href="./fxa-settings/index.html">fxa-settings</a>
+    
+    
+  </li>
+      </ul>
+      <h2>Description</h2>
+          <pre>commit 21fe09b72037c03fd0c1f9b58a8d0d1feb12bb4d
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu May 28 17:01:58 2020 -0700
+
+    fix(build): fix paths to fxa-shared
+    
+    fxa-shared is a mix of typescript and javascript. When we started using workspace:* references I converted all of our require paths for fxa-shared to remove the ../../ relative paths. In doing so I also changed some requires that looked like require('fxa-shared').l10n.localizeTimestamps to require('fxa-shared/l10n/localizeTimestamps'). The problem with that isn't immediately clear because in local development and CI it works fine because of ts-node/register. The problem is that localizeTimestamps is typescript and production doesn't use ts-node so it has no idea how to load it. Going through the object chain on require('fxa-shared') works because 'fxa-shared' resolves to the compiled 'dist/index.js'. The other way resolves to the source directory where there is no js file. Ok, so we should always do require('fxa-shared').whatever, well, no. There's currently cases where we have to go the other way. It's inconsistent, and we should fix it.
+    
+    This commit fixes those require paths.
+    
+    It also fixes a runtime path issue with our docker images. Our current production configuration expects each app to be located at /app, but now after switching to yarn most of our dependencies live two directories up from the app code, and the way that our internal dependencies, like fxa-shared, are accessed is via a relative symlink setup by yarn. So there's not room for these paths without changes. Instead of copying things like before, this change creates a root /fxa directory with the whole project and creates a symlink to /app for whichever service it's for.</pre>
+    </body>
+  </html>
