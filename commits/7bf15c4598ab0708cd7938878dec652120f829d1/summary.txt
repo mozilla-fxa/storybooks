@@ -1,0 +1,1 @@
+Merge pull request #5500 from mozilla/fxa-shared-path
