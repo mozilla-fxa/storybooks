@@ -1,0 +1,5 @@
+commit e97295ae318499e89a55eead48a6169bac2978a9
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Fri May 29 16:04:28 2020 -0400
+
+    feat(storybook) compile tailwind for use in fxa-react, fxa-settings, and fxa-admin-panel
