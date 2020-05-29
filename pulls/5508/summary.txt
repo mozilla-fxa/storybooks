@@ -1,0 +1,1 @@
+fix(auth): fixed test-local.sh in fxa-auth-server
