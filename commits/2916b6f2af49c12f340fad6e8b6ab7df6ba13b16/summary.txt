@@ -1,0 +1,1 @@
+Merge pull request #5508 from mozilla/fix-auth-test
