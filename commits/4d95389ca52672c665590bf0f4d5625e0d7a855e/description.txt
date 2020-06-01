@@ -1,0 +1,8 @@
+commit 4d95389ca52672c665590bf0f4d5625e0d7a855e
+Merge: eb3c9dfd4 f1d645bb1
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Mon Jun 1 14:07:43 2020 -0400
+
+    Merge pull request #5512 from mozilla/issue-5511, r=@lmorchard
+    
+    Fixes #5511
