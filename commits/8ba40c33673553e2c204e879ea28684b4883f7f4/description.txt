@@ -1,0 +1,8 @@
+commit 8ba40c33673553e2c204e879ea28684b4883f7f4
+Merge: 2916b6f2a dae87b3cc
+Author: Ryan Kelly <rfkelly@mozilla.com>
+Date:   Tue Jun 2 10:32:27 2020 +1000
+
+    Merge pull request #5462 from mozilla/i5367-push-statsd; r=vbudhram
+    
+    feat(metrics): Emit statsd metrics around push message sending.
