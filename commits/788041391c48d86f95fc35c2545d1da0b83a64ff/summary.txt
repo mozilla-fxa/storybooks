@@ -1,0 +1,1 @@
+feat(settings): Pull account query into HOC, add Avatar component
