@@ -1,0 +1,8 @@
+commit fc6dbcaec5da17da1ef2e9c0c8e28b79780d7252
+Merge: 1a188043c ddcbda4e3
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Tue Jun 9 12:28:54 2020 -0500
+
+    Merge pull request #5594 from mozilla/issues/5552
+    
+    chore(docs): Update fxa-settings README with Tailwind + shared component details
