@@ -1,0 +1,8 @@
+commit 5d36b4cd121ee09d8f177c24a4a1e48b88c9510a
+Merge: 172bbd71b a2a028b25
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Jun 9 10:53:47 2020 -0700
+
+    Merge pull request #5617 from mozilla/coolit
+    
+    fix(css): stop the endless css rebuilds
