@@ -1,0 +1,1 @@
+Merge pull request #5601 from mozilla/fix-amplitude-version-regex, r=@vbudhram

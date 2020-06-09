@@ -1,0 +1,8 @@
+commit 2e0aa2a9607f33845d5c7285a8f44c176b0791b6
+Merge: 46854d363 ee8e69d25
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Tue Jun 9 09:56:28 2020 -0400
+
+    Merge pull request #5601 from mozilla/fix-amplitude-version-regex, r=@vbudhram
+    
+    fix(tests): fix test regex used in amplitude test
