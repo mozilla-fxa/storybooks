@@ -1,0 +1,1 @@
+fix(settings): Fix layout and fixed nav width
