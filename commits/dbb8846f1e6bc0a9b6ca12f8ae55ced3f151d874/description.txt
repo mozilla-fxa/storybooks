@@ -1,0 +1,8 @@
+commit dbb8846f1e6bc0a9b6ca12f8ae55ced3f151d874
+Merge: 7ebceaed5 0090ca5de
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Wed Jun 10 14:14:18 2020 -0500
+
+    Merge pull request #5622 from mozilla/settings-style-fix
+    
+    fix(settings): Fix layout and fixed nav width
