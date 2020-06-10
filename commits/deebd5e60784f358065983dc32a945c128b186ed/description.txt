@@ -1,0 +1,8 @@
+commit deebd5e60784f358065983dc32a945c128b186ed
+Merge: 12ccf7370 638170424
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Jun 10 12:58:42 2020 -0700
+
+    Merge pull request #5621 from mozilla/feat/issue-5592
+    
+    feat: add must-change-password script
