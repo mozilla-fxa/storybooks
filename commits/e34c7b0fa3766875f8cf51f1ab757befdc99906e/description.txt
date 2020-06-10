@@ -1,0 +1,8 @@
+commit e34c7b0fa3766875f8cf51f1ab757befdc99906e
+Merge: 07ce536e1 41fb60f63
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Wed Jun 10 11:08:22 2020 -0400
+
+    Merge pull request #5563 from mozilla/jh/5550/settings-server-config
+    
+    feat(settings): start injecting server config into beta settings

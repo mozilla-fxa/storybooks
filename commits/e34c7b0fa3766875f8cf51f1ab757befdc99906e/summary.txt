@@ -1,0 +1,1 @@
+Merge pull request #5563 from mozilla/jh/5550/settings-server-config
