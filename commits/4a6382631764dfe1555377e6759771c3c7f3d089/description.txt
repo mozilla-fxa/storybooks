@@ -1,0 +1,8 @@
+commit 4a6382631764dfe1555377e6759771c3c7f3d089
+Merge: 386c6d96c 71639d8c9
+Author: Vlad Filippov <vlad.filippov@gmail.com>
+Date:   Wed Jun 10 13:46:29 2020 -0400
+
+    Merge pull request #5630 from mozilla/jh/fix-proxy-middleware
+    
+    fix(content server): make http-proxy-middleware a proper dep
