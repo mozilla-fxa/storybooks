@@ -1,0 +1,1 @@
+Merge pull request #5623 from chenba/1960-survey-rate
