@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Storybooks for c873ad0a2551b598663602d2f0ae9ea1ed10aa2f</title>
+      
+    </head>
+    <body>
+      <h1>Storybooks for c873ad0a2551b598663602d2f0ae9ea1ed10aa2f</h1>
+      <ul>
+        <li>
+    <a href="./fxa-settings/index.html">fxa-settings</a>
+    
+    
+  </li>
+      </ul>
+      <h2>Description</h2>
+          <pre>commit c873ad0a2551b598663602d2f0ae9ea1ed10aa2f
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Wed Jun 10 17:16:42 2020 -0400
+
+    refactor(settings): build settings with content-server config interpolation
+    
+    Because:
+    
+    - Currently we are modifying the response of /beta/settings to include server config, which only applies to local development when we also need it for actual builds
+    
+    This commit:
+    
+    - Stops modifying any fxa-settings/fxa-content-server response to inject server config
+    - Utilizes the already available interpolate-html-plugin provided by CRA to inject server config during builds, both in development and production</pre>
+    </body>
+  </html>
