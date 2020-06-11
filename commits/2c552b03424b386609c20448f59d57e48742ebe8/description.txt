@@ -1,0 +1,8 @@
+commit 2c552b03424b386609c20448f59d57e48742ebe8
+Merge: 0b79117db 38624143e
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Jun 11 11:59:59 2020 -0400
+
+    Merge pull request #5501 from imskr/dead-links, r=@vbudhram
+    
+    style(README files): Fix dead links in READMEs
