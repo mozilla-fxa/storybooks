@@ -1,0 +1,8 @@
+commit bb10dca6b86776a1e92666bed67b596b2c45ba6a
+Merge: c3571864b 52771fe3b
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Thu Jun 11 12:10:22 2020 -0400
+
+    Merge pull request #5648 from mozilla/jh/revert-5550/settings-server-config
+    
+    Revert "feat(settings): start injecting server config into beta settings"

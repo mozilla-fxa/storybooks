@@ -1,0 +1,1 @@
+Merge pull request #5648 from mozilla/jh/revert-5550/settings-server-config
