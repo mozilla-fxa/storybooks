@@ -1,0 +1,1 @@
+Merge pull request #5624 from mozilla/auth-require-pw-change
