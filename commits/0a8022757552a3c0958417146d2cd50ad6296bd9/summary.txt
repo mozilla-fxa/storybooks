@@ -1,0 +1,1 @@
+feat(settings | content server): inject server config into settings requests
