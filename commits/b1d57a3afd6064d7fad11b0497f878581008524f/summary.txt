@@ -1,0 +1,1 @@
+Merge pull request #5668 from mozilla/jh/better-settings-config-v2
