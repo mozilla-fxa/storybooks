@@ -1,0 +1,8 @@
+commit c0ba80f050c35f74ad05901fa193b398caacf30e
+Merge: c1ee3fca7 eb03d818a
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Jun 16 11:12:29 2020 -0700
+
+    Merge pull request #5674 from mozilla/ci-test-report
+    
+    feat(ci): use store_test_results in circleci
