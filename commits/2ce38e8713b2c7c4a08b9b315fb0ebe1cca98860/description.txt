@@ -1,0 +1,10 @@
+commit 2ce38e8713b2c7c4a08b9b315fb0ebe1cca98860
+Merge: 4dbc211bb 2babb8908
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Jun 17 19:11:32 2020 -0400
+
+    Merge pull request #5688 from mozilla/fix-enrollment-attempt, r=@6a68
+    
+    Fixes #5476 maybe?
+    
+    This removes the newsletterCadChooser check that should have in theory made the qr code and newsletter experiment exclusive. Since we are not running the newsletter experiment yet, it is probably safe to remove the check to see if it was interfering with the qr code experiment.
