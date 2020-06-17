@@ -1,0 +1,1 @@
+Merge pull request #5625 from mozilla/fxa-2070, r=@chenba
