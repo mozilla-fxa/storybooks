@@ -1,0 +1,8 @@
+commit 91313ca9fbcef01cdfbbc438438ffa21f660e718
+Merge: 2ce38e871 9a1f4fa07
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Wed Jun 17 16:12:06 2020 -0700
+
+    Merge pull request #5684 from mozilla/fxa-2106-storybook-pr-history
+    
+    feat(storybooks): link to commit rather than pull request for status check target URL
