@@ -1,0 +1,8 @@
+commit 2ebbdef493514122c91809d9fb45d5825f5b958f
+Merge: 91313ca9f c13ff2867
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Thu Jun 18 10:13:22 2020 -0400
+
+    Merge pull request #5673 from byrw/issue5607
+    
+    fix(content-server): mark the element as invalid.
