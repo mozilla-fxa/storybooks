@@ -1,0 +1,1 @@
+feat(fxa-settings): add a design guide to storybook
