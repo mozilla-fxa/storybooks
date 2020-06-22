@@ -1,0 +1,8 @@
+commit 9638548584de3629b3dfb0d17a8c510b0f2081f4
+Merge: 9a6abc75c 2c5630adb
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Mon Jun 22 09:27:38 2020 -0700
+
+    Merge pull request #5692 from mozilla/pm2-timestamps
+    
+    chore(pm2): Add ISO timestamp to pm2 log lines
