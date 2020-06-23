@@ -1,0 +1,8 @@
+commit b6497a91d07b734733f9c71ccc8f60eea4da5096
+Merge: 963854858 3fa952919
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Jun 22 17:58:29 2020 -0700
+
+    Merge pull request #5681 from mozilla/updeps
+    
+    Update / consolidate some dependencies
