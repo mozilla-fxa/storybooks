@@ -1,0 +1,8 @@
+commit 47a2f50d8cba71826dc2cb941147c4a85a038946
+Merge: c1fe6a25b 582cacaca
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Tue Jun 23 15:49:12 2020 -0700
+
+    Merge pull request #5738 from mozilla/add-fpn-browser-icons-to-cdn
+    
+    chore(icons): add fpn browser image icons to cdn

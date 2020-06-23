@@ -1,0 +1,1 @@
+Merge pull request #5738 from mozilla/add-fpn-browser-icons-to-cdn
