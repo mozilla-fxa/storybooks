@@ -1,0 +1,8 @@
+commit 0f5dcfda85db7e10a87cf1f5d656f71b25484b31
+Merge: b6497a91d 92e750a82
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Tue Jun 23 09:46:07 2020 -0700
+
+    Merge pull request #5723 from mozilla/5711-payments-legal-from-metadata
+    
+    feat(payments): Use Stripe metadata for terms & privacy URLs in payments-server

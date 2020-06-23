@@ -1,0 +1,1 @@
+Merge pull request #5723 from mozilla/5711-payments-legal-from-metadata
