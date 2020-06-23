@@ -1,0 +1,1 @@
+Merge pull request #5735 from mozilla/fxa-shared-ts-tests-fix
