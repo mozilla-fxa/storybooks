@@ -1,0 +1,1 @@
+Merge pull request #5724 from mozilla/5584-confirm-legal-links
