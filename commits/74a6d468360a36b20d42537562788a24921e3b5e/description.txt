@@ -1,0 +1,17 @@
+commit 74a6d468360a36b20d42537562788a24921e3b5e
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Mon Jun 22 20:44:14 2020 -0400
+
+    feat(payments): Add legal doc links to payment confirmation checkbox label
+    
+    - replace "according to payment term" in all FTL strings with
+      "according to <termsOfServiceLink>Terms of Service</termsOfServiceLink>
+      and <privacyNoticeLink>Privacy Notice</privacyNoticeLink>"
+    
+    - supply legal doc URLs to localized rendering of confirmation checkbox
+      label from Stripe metadata product details
+    
+    - enable storybook MockApp to accept a locale to exercise localized
+      content
+    
+    fixes #5584
