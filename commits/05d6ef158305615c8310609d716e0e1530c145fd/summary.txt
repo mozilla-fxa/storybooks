@@ -1,0 +1,1 @@
+Merge pull request #5746 from mozilla/5174-email-footer-links-from-metadata
