@@ -1,0 +1,8 @@
+commit 14719f494b53e54ca47314658c6a04d7b0b8c906
+Merge: 4bc1fd596 0611a62a7
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Jun 24 17:11:57 2020 -0400
+
+    Merge pull request #5742 from ashrivastava-qa/fix-delete-security-events-test
+    
+    fix(security-events):fix delete security events test by adding refresh function
