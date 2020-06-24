@@ -1,0 +1,8 @@
+commit d846271026695195a855db1cf1436f5d2766cafc
+Merge: 9d2e15e43 18f7a1af8
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Jun 24 11:31:51 2020 -0700
+
+    Merge pull request #5713 from mozilla/5662-supported-langs-payments
+    
+    task(payments-server): use shared lang list
