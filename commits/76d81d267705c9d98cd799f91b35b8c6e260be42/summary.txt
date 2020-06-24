@@ -1,0 +1,1 @@
+Merge pull request #5690 from mozilla/5683-use-await-hook
