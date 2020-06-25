@@ -1,0 +1,1 @@
+Merge pull request #5729 from mozilla/jh/5703/cad-reminder-auth
