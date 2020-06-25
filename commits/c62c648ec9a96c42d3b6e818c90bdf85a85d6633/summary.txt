@@ -1,0 +1,1 @@
+Merge pull request #5763 from chenba/2161-no-zip-validation

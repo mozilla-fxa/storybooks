@@ -1,0 +1,8 @@
+commit c62c648ec9a96c42d3b6e818c90bdf85a85d6633
+Merge: a864752e9 0619df7f2
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Thu Jun 25 15:04:12 2020 -0500
+
+    Merge pull request #5763 from chenba/2161-no-zip-validation
+    
+    chore(payments): remove zip code validation
