@@ -1,0 +1,1 @@
+Merge pull request #5767 from mozilla/jh/4467-amo-fxa-deletion
