@@ -1,0 +1,8 @@
+commit 729789a8bca2d1177ff45daf226106b01c57a0d2
+Merge: 5707b442a ce0788085
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Jun 25 09:52:41 2020 -0700
+
+    Merge pull request #5655 from mozilla/skip-ci-label
+    
+    feat(dev): handle skip ci label to skip tests
