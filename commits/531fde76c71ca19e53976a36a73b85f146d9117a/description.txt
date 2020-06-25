@@ -1,0 +1,8 @@
+commit 531fde76c71ca19e53976a36a73b85f146d9117a
+Merge: 740ce28da 854b65164
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Jun 25 12:16:16 2020 -0400
+
+    Merge pull request #5758 from mozilla/i2344-v11, r=@dannycoates
+    
+    fix(sentry): Do not report "No Such Channel" events to Sentry
