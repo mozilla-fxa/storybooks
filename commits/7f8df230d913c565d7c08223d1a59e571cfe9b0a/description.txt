@@ -1,0 +1,8 @@
+commit 7f8df230d913c565d7c08223d1a59e571cfe9b0a
+Merge: c5c60f61c f6aff2941
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Jun 25 16:07:44 2020 -0700
+
+    Merge pull request #5772 from mozilla/docker-openssl
+    
+    fix(docker): added openssl to fxa-node docker image
