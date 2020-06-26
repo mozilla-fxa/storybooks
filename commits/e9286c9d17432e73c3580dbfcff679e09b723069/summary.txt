@@ -1,0 +1,1 @@
+Merge pull request #5787 from mozilla/update-yarn
