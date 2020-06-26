@@ -1,0 +1,1 @@
+Merge pull request #5785 from mozilla/shared-postinstall
