@@ -1,0 +1,8 @@
+commit 525a6c4fd64712af32e89a9e5a96697f81487a5b
+Merge: e9286c9d1 306660102
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Jun 26 13:42:39 2020 -0700
+
+    Merge pull request #5781 from ashrivastava-qa/remove-duplicate-tests
+    
+    refactor(functional): remove duplicate and outdated tests
