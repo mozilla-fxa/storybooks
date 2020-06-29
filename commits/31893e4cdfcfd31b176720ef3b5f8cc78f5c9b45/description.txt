@@ -1,0 +1,8 @@
+commit 31893e4cdfcfd31b176720ef3b5f8cc78f5c9b45
+Merge: d33a26a6c bbcae8a88
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Mon Jun 29 16:55:04 2020 -0500
+
+    Merge pull request #5807 from chenba/l10n-fix-fallback-tests
+    
+    fix(tests): fix l10n fallback language tests

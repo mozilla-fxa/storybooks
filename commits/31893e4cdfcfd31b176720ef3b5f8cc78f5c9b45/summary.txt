@@ -1,0 +1,1 @@
+Merge pull request #5807 from chenba/l10n-fix-fallback-tests
