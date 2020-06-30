@@ -1,0 +1,8 @@
+commit f731af30f59e86f36d2a72642b850f76cebddc1a
+Merge: db9ca5575 777a31e74
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Tue Jun 30 16:47:34 2020 -0500
+
+    Merge pull request #5817 from mozilla/issues/5553-rf
+    
+    feat(emails): Add onMobileDevice mailOption for post registration email
