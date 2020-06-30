@@ -1,0 +1,8 @@
+commit c9aee1babbc281f403ac4f4e37941dc2d6966ccf
+Merge: 0dbf559e3 5705fe683
+Author: Ryan Kelly <rfkelly@mozilla.com>
+Date:   Tue Jun 30 15:01:08 2020 +1000
+
+    Merge pull request #5546 from mozilla/device-commands-delivery-funnel; r=6a68,vladikoff
+    
+    feat(devices): Emit events for a basic "device commands" delivery funnel.
