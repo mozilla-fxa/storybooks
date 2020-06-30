@@ -1,0 +1,21 @@
+commit d5e652449cfa94d98d2874d6b24cc8965900ef94
+Merge: c9aee1bab 0d47f5a49
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Tue Jun 30 13:21:40 2020 -0400
+
+    Merge pull request #5806 from mozilla/train-177-fxa-2087, r=@chenba
+    
+    ## Because
+    
+    * Our QR code experiment cohorting rules were not grouping users correctly
+    * QR code experiment had half the volume of users as SMS and non-sms groups
+    * Targeted against train-177 since this is metrics related
+    
+    ## This commit
+    
+    * Updates our flow events matching based on https://github.com/mozilla/fxa/issues/5628#issuecomment-649739353
+    * The previous rules were matching sign-in users only, the New Rules match sign-in/sign-up/direct flows
+    
+    ## Issue that this pull request solves
+    
+    Closes: #5628
