@@ -1,0 +1,1 @@
+Merge pull request #5814 from mozilla/fix-code-cov2, r=@lmorchard
