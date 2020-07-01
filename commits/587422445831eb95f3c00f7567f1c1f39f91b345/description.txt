@@ -1,0 +1,8 @@
+commit 587422445831eb95f3c00f7567f1c1f39f91b345
+Merge: babfd7547 1f8d51c05
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Wed Jul 1 10:25:35 2020 -0700
+
+    Merge pull request #5808 from lmorchard/5733-payment-no-legal-links-without-plan
+    
+    fix(payments): further l10n updates for payment update form
