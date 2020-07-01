@@ -1,0 +1,8 @@
+commit 4ded94556c0a8c799606f851d02e1e20a4df8a65
+Merge: a866b6d25 c342deb86
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Jul 1 09:22:46 2020 -0700
+
+    Merge pull request #5792 from mozilla/refactor/add-ts-to-stripe
+    
+    refactor(auth-server): restore TS check on stripe

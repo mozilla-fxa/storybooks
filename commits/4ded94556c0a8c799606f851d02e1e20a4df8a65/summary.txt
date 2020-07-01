@@ -1,0 +1,1 @@
+Merge pull request #5792 from mozilla/refactor/add-ts-to-stripe
