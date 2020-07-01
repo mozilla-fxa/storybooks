@@ -1,0 +1,8 @@
+commit e3e7e90a47e4c01e68ed7e55247aab6815a4d9d2
+Merge: 219738a2d cbe94f4ec
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Jul 1 13:28:06 2020 -0700
+
+    Merge pull request #5720 from ccarruitero/hawk
+    
+    chore: update hawk to @hapi/hawk
