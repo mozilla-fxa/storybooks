@@ -1,0 +1,1 @@
+Merge pull request #5790 from lmorchard/5626-broken-links-within-legal

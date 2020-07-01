@@ -1,0 +1,8 @@
+commit 240c5f4cc05dcff65585f67f430e0a2414c4a211
+Merge: c63d22ef9 d29286584
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Wed Jul 1 09:43:55 2020 -0700
+
+    Merge pull request #5790 from lmorchard/5626-broken-links-within-legal
+    
+    fix(content-server): fix broken links within legal pages
