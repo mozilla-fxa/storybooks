@@ -1,0 +1,8 @@
+commit a866b6d25c0487df5939dcc9e9182ab381e78a7d
+Merge: 8a6205b10 2a2fcf7ed
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Wed Jul 1 10:47:15 2020 -0500
+
+    Merge pull request #5819 from chenba/2202-intl-polyfill
+    
+    fix(l10n): polyfill Intl.NumberFormat for emails
