@@ -1,0 +1,1 @@
+Merge pull request #5810 from jackiemunroe/fxa-2154_convert_legal_docs
