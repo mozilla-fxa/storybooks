@@ -1,0 +1,8 @@
+commit 83f2509cac2b05baf17aa441e14644b8be7aad1d
+Merge: ace7c18a4 5556f6335
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Jul 1 12:29:13 2020 -0700
+
+    Merge pull request #5823 from mozilla/fix/remove-plan-name-requirement
+    
+    fix(auth-server): remove plan_name requirement
