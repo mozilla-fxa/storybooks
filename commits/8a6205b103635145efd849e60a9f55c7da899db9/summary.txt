@@ -1,0 +1,1 @@
+Merge pull request #5812 from mozilla/5719-l10n-error-messages-form
