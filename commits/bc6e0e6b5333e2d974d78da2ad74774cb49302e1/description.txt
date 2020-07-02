@@ -1,0 +1,18 @@
+commit bc6e0e6b5333e2d974d78da2ad74774cb49302e1
+Merge: 043224cf5 9f03c12e9
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Jul 2 13:18:47 2020 -0400
+
+    Merge pull request #5822 from mozilla/fxa-2204, r=@jodyheavener
+    
+    ## Because
+    
+    * Users were getting the reminder emails even though they already logged into another device
+    
+    ## This commit
+    
+    * Deletes the reminders on a successful login or verifying a session
+    
+    ## Issue that this pull request solves
+    
+    Closes: #5799
