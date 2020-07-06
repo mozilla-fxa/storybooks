@@ -1,0 +1,17 @@
+commit 6efe5a5ee18327b9f2c391a4d6df93997e9191ab
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Mon Jul 6 16:31:53 2020 -0400
+
+    feat(payments): New PaymentFormV2 component with Stripe upgrades
+    
+    - new PaymentFormV2 component using new Stripe components, based on
+      PaymentForm with tweaks for all-in-one card widget and shifts
+      responsibility for card processing onto parent component
+    
+    - plumbing in AppContext for new method for loading Stripe API
+    
+    - add @stripe/react-stripe-js and @stripe/stripe-js dependencies
+    
+    - switch to explicit tooltip parent wrapper for Stripe elements
+    
+    fixes #4294
