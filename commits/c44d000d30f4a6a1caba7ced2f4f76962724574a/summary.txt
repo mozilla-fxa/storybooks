@@ -1,0 +1,1 @@
+feat(payments): add @svgr/webpack to storybook can properly compile svgs
