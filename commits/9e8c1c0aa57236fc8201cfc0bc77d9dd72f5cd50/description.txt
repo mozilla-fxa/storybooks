@@ -1,0 +1,8 @@
+commit 9e8c1c0aa57236fc8201cfc0bc77d9dd72f5cd50
+Merge: 0937e986f 3b980c6c9
+Author: Ryan Kelly <rfkelly@mozilla.com>
+Date:   Tue Jul 7 06:18:15 2020 +1000
+
+    Merge pull request #5851 from mozilla/bz1647126-attached-clients-clientid; r=6a68
+    
+    fix(attached-clients): Ignore a device's refreshTokenId if it's not a live token
