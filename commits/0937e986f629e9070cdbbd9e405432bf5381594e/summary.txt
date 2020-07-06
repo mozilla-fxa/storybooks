@@ -1,0 +1,1 @@
+Merge pull request #5861 from mozilla/jh/5753/storybook-svgs
