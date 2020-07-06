@@ -1,0 +1,8 @@
+commit 2a96bdc3c7a2706b07dfed378aa5a8b8090d0b07
+Merge: 1ee83af4c d3716bab0
+Author: Ben Bangert <ben@groovie.org>
+Date:   Mon Jul 6 10:07:50 2020 -0700
+
+    Merge pull request #5863 from mozilla/fix/issue-5862
+    
+    fix(gql-api): use envPrefix correctly
