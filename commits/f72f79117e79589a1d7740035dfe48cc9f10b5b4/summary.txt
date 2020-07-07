@@ -1,0 +1,1 @@
+feat(surveys): Replace minimize/maximize functionality with close
