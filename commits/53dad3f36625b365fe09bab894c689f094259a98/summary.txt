@@ -1,0 +1,1 @@
+Merge pull request #5864 from mozilla/fix/payload-validation
