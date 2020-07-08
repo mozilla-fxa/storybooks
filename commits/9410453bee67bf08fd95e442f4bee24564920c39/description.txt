@@ -1,0 +1,8 @@
+commit 9410453bee67bf08fd95e442f4bee24564920c39
+Merge: fcd82ad77 1187f6efb
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Wed Jul 8 15:48:43 2020 -0400
+
+    Merge pull request #5828 from byrw/issue932
+    
+    fix(content-server): create fake hidden input
