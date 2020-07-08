@@ -1,0 +1,1 @@
+Merge pull request #5868 from mozilla/4294-payment-form-with-new-elements

@@ -1,0 +1,8 @@
+commit 46f02be0f2e8871503401efa6b1bb44c5fdb7967
+Merge: 4213a6f47 05c0a47a7
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Tue Jul 7 16:55:35 2020 -0700
+
+    Merge pull request #5868 from mozilla/4294-payment-form-with-new-elements
+    
+    feat(payments): New PaymentFormV2 component with Stripe upgrades
