@@ -1,0 +1,8 @@
+commit 7924b5ab6ff972d0fa490e2a58867dc83e6d5c10
+Merge: 7b75a5b1d a2f3ded59
+Author: Wil Clouser <wclouser@mozilla.com>
+Date:   Wed Jul 8 10:03:12 2020 -0700
+
+    Merge pull request #5892 from mozilla/clouserw-patch-1
+    
+    Rename mozill-vpn-web.svg to mozilla-vpn-web.svg
