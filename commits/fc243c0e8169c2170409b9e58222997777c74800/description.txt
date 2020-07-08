@@ -1,0 +1,8 @@
+commit fc243c0e8169c2170409b9e58222997777c74800
+Merge: 47d18e361 21685ef29
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Wed Jul 8 16:08:39 2020 -0700
+
+    Merge pull request #5899 from mozilla/fix/issue-5898
+    
+    fix(auth-server): allow customer to not have source on file
