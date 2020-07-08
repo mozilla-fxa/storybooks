@@ -1,0 +1,8 @@
+commit 6ae8df3cd24dac7741c4d838db1c701c8b6bdf2f
+Merge: 46f02be0f 4318c3ff3
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Wed Jul 8 09:05:50 2020 -0500
+
+    Merge pull request #5871 from mozilla/issues/5842
+    
+    feat(surveys): Replace minimize/maximize functionality with close
