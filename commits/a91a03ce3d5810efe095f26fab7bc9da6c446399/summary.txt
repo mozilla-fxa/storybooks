@@ -1,0 +1,1 @@
+Merge pull request #5888 from mozilla/jwt-access-token-typ-docs; r=chenba
