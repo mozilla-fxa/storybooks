@@ -1,0 +1,1 @@
+Merge pull request #5907 from mozilla/FXA-2260-correctly-handle-stripe-style
