@@ -1,0 +1,8 @@
+commit 63810f8f7c97824baa0dbefbc096a3a0574470b1
+Merge: c310a071e b8fdf796d
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Thu Jul 9 10:39:38 2020 -0400
+
+    Merge pull request #5905 from byrw/issue2220
+    
+    fix(content-server): clean the password input
