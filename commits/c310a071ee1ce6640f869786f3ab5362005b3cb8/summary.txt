@@ -1,0 +1,1 @@
+Merge pull request #5908 from byrw/issue1472
