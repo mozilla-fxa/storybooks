@@ -1,0 +1,1 @@
+Merge pull request #5900 from chenba/2253-resolves-not-returns
