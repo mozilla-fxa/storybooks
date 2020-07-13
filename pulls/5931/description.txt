@@ -1,0 +1,5 @@
+commit 62229a5a5f3fc43f776c5a67df8f8a253fe9b62d
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Mon Jul 13 17:34:15 2020 -0500
+
+    Release 1.179.2
