@@ -1,0 +1,1 @@
+Merge pull request #5923 from mozilla/jh/pr-template-updates
