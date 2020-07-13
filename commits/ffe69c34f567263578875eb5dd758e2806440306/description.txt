@@ -1,0 +1,8 @@
+commit ffe69c34f567263578875eb5dd758e2806440306
+Merge: 508163577 56f28f7a1
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Mon Jul 13 14:01:31 2020 -0700
+
+    Merge pull request #5885 from mozilla/5745-payment-v2
+    
+    In-progress reworking of product subscription page for new payment flows
