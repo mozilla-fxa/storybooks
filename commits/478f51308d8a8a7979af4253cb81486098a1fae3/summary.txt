@@ -1,0 +1,1 @@
+Merge pull request #5916 from mozilla/fxa-2246, r=@vladikoff
