@@ -1,0 +1,1 @@
+Merge pull request #5927 from mozilla/transpile-only-tests

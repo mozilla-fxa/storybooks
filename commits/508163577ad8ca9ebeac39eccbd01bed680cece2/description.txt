@@ -1,0 +1,8 @@
+commit 508163577ad8ca9ebeac39eccbd01bed680cece2
+Merge: 285cffb32 48fc0ac65
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Jul 13 12:46:42 2020 -0700
+
+    Merge pull request #5927 from mozilla/transpile-only-tests
+    
+    fix(test): use ts-node in transpile only mode for script tests
