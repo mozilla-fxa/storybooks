@@ -1,0 +1,1 @@
+test(l10n): follow-up test for #5948 (currency l10n)
