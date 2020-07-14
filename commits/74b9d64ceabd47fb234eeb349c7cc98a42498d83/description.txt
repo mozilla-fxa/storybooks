@@ -1,0 +1,6 @@
+commit 74b9d64ceabd47fb234eeb349c7cc98a42498d83
+Merge: 5046949e7 eb71dd4db
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Tue Jul 14 13:11:30 2020 -0400
+
+    Merge pull request #5911 from mozilla/jh/4332/profile-auth-anonid-howdy
