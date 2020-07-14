@@ -1,0 +1,1 @@
+Merge pull request #5938 from eNote-GmbH/feature/graceful-shutdown-support
