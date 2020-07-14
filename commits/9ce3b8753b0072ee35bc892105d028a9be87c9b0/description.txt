@@ -1,0 +1,5 @@
+commit 9ce3b8753b0072ee35bc892105d028a9be87c9b0
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Tue Jul 14 15:41:28 2020 -0400
+
+    feat(admin): set referrer-policy header, form-action csp directive
