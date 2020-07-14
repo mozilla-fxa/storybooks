@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Storybooks for 79f6eebd9a10342eb2c51a7252953ff9b0d22f4a</title>
+      
+    </head>
+    <body>
+      <h1>Storybooks for 79f6eebd9a10342eb2c51a7252953ff9b0d22f4a</h1>
+      <ul>
+        <li>
+    <a href="./fxa-payments-server/index.html">fxa-payments-server</a>
+    
+    
+  </li>
+      </ul>
+      <h2>Description</h2>
+          <pre>commit 79f6eebd9a10342eb2c51a7252953ff9b0d22f4a
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Jul 14 14:17:42 2020 -0700
+
+    fix(l10n): fixed currency localization for "other than US" locales
+    
+    For en locales that don't have their own ftl file this change
+    sets their FluentResource to be that of en-GB, which does have
+    an ftl file in order for the currency to be rendered as 'US$x.xx'
+    instead of the US fallback of '$x.xx' which is ambiguous in which
+    currency is meant.
+    
+    These locales are currently hard coded in AppLocalizationProvider
+    because other services fail when they can't load l10n files that
+    are present in supportedLanguages.json but not in the l10n repo.</pre>
+    </body>
+  </html>
