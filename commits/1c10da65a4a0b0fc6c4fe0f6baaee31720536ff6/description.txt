@@ -1,0 +1,14 @@
+commit 1c10da65a4a0b0fc6c4fe0f6baaee31720536ff6
+Merge: b1803b301 9b3c53992
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Jul 15 16:57:33 2020 -0400
+
+    Merge pull request #5958 from mozilla/disable-qr-code, r=@6a68
+    
+    ## Because
+    
+    - We have gathered enough experiment data and don't need to keep running while we do the analysis
+    
+    ## This pull request
+    
+    - Stops the qr code experiment
