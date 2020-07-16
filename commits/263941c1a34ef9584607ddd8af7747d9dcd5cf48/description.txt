@@ -1,0 +1,8 @@
+commit 263941c1a34ef9584607ddd8af7747d9dcd5cf48
+Merge: 0158563e2 9ce3b8753
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Thu Jul 16 10:38:54 2020 -0400
+
+    Merge pull request #5946 from mozilla/jh/5944/admin-observatory-recs
+    
+    feat(admin): set referrer-policy header, form-action csp directive
