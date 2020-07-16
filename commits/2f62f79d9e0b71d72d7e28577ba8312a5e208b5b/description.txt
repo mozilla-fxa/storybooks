@@ -1,0 +1,8 @@
+commit 2f62f79d9e0b71d72d7e28577ba8312a5e208b5b
+Merge: 17f022908 4ceb4f291
+Author: Ben Bangert <ben@groovie.org>
+Date:   Thu Jul 16 10:37:38 2020 -0700
+
+    Merge pull request #5959 from mozilla/refactor/stripe-to-ts
+    
+    refactor(auth-server): convert stripe.js to TS
