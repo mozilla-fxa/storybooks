@@ -1,0 +1,8 @@
+commit 5d8febb70b87c3266a555414e124f4aa24b0e24f
+Merge: 24019be2a 13ab4bc4a
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Thu Jul 16 13:09:13 2020 -0500
+
+    Merge pull request #5964 from mozilla/issues/5884
+    
+    fix(delete account): Filter active subscriptions for unique product names
