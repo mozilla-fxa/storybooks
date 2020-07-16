@@ -1,0 +1,1 @@
+Merge pull request #5940 from mozilla/jh/5915/admin-email-clarification
