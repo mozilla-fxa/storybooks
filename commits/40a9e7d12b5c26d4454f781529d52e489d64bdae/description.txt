@@ -1,0 +1,8 @@
+commit 40a9e7d12b5c26d4454f781529d52e489d64bdae
+Merge: a7304340e 8e57d7b07
+Author: Ben Bangert <ben@groovie.org>
+Date:   Fri Jul 17 16:24:31 2020 -0700
+
+    Merge pull request #5971 from mozilla/feat/issue-5943
+    
+    refactor(admin-server): use subquery for index use
