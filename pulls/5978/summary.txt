@@ -1,0 +1,1 @@
+fix(payments): hide mention of card in reactivate dialog when unavailable
