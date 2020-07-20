@@ -1,0 +1,1 @@
+Merge pull request #5978 from mozilla/5901-further-no-card-cleanup
