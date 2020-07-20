@@ -1,0 +1,1 @@
+Merge pull request #5974 from mozilla/update-content-server-fpn-vpn-icons
