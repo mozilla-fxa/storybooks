@@ -1,0 +1,1 @@
+Merge pull request #5972 from mozilla/5903-subscription-emails-no-payment
