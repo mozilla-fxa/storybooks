@@ -1,0 +1,8 @@
+commit 96161f37753101c1a64d9588d5cdc5434243e91f
+Merge: 97c83dbd3 ab231fa37
+Author: John Gruen <3323249+johngruen@users.noreply.github.com>
+Date:   Mon Jul 20 14:04:18 2020 +0200
+
+    Merge pull request #5973 from mozilla/make-product-icon-bg-metadata
+    
+    chore(styles): make subscription icon background configurable as metadata

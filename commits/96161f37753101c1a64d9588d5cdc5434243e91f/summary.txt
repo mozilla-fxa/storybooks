@@ -1,0 +1,1 @@
+Merge pull request #5973 from mozilla/make-product-icon-bg-metadata
