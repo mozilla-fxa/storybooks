@@ -1,0 +1,8 @@
+commit fe236d4781c5c96f6bcc59c9e78b2e1f7db2b688
+Merge: 96161f377 cb17f7703
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Mon Jul 20 16:01:51 2020 -0500
+
+    Merge pull request #5984 from chenba/2288-create-sub-without-payment
+    
+    feat(auth-server): create a subs w/out a payment method in req
