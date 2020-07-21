@@ -1,0 +1,8 @@
+commit d4fb60db38d66ded0b92681e94906afae7bf29f7
+Merge: b0c80f644 88426aa4d
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Mon Jul 20 17:19:23 2020 -0700
+
+    Merge pull request #5983 from mozilla/5914-reactivation-wrong-upgrade-price
+    
+    fix(payments): use upcoming invoice for subscription reactivation price
