@@ -1,0 +1,8 @@
+commit 8c117b589b6cf1a9cb46fbdf2cc2e16d2ad21045
+Merge: 8c97d2559 e87996b48
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Jul 21 13:16:26 2020 -0700
+
+    Merge pull request #5950 from mozilla/nz
+    
+    test(l10n): follow-up test for #5948 (currency l10n)
