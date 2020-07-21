@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Storybooks for 7358a3cae5ffd4b2df2068a9ed8d82259b5ab720</title>
+      
+    </head>
+    <body>
+      <h1>Storybooks for 7358a3cae5ffd4b2df2068a9ed8d82259b5ab720</h1>
+      <ul>
+        <li>
+    <a href="./fxa-admin-panel/index.html">fxa-admin-panel</a>
+    
+    
+  </li><li>
+    <a href="./fxa-payments-server/index.html">fxa-payments-server</a>
+    
+    
+  </li><li>
+    <a href="./fxa-settings/index.html">fxa-settings</a>
+    
+    
+  </li><li>
+    <a href="./fxa-react/index.html">fxa-react</a>
+    
+    
+  </li>
+      </ul>
+      <h2>Description</h2>
+          <pre>commit 7358a3cae5ffd4b2df2068a9ed8d82259b5ab720
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Jul 20 16:30:44 2020 -0700
+
+    feat(auth-client): replace fxa-js-client with fxa-auth-client
+    
+    - We have two clients for the auth-server API, one in `content-server/app/scripts/lib/auth` and `fxa-js-client`. The content-server one was meant to replace fxa-js-client but I didn't finish the work to get it running on nodejs.
+    
+    - Extracts the content-server implementation into `fxa-auth-client`
+    - Wraps the implementation with shims to work with nodejs in `server.ts`
+    - Updates references to fxa-js-client to use fxa-auth-client
+    - Removes fxa-js-client</pre>
+    </body>
+  </html>
