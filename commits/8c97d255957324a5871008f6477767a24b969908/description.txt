@@ -1,0 +1,8 @@
+commit 8c97d255957324a5871008f6477767a24b969908
+Merge: ab0eb5ab8 7358a3cae
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Jul 21 13:11:28 2020 -0700
+
+    Merge pull request #5993 from mozilla/auth-client
+    
+    Unified fxa-auth-client
