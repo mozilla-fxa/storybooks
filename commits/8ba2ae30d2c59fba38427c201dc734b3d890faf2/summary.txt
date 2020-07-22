@@ -1,0 +1,1 @@
+Merge pull request #5979 from mozilla/jh/auth-js-update-anonid
