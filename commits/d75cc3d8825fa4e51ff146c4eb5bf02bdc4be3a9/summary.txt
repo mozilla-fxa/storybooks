@@ -1,0 +1,1 @@
+Merge pull request #6011 from mozilla/jh/5976/ios-avatar-upload
