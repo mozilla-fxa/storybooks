@@ -1,0 +1,8 @@
+commit 7907e22ce277aae35179d658ce5736b9a96da1c5
+Merge: 82344641b 00b0a3604
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Wed Jul 22 15:37:07 2020 -0500
+
+    Merge pull request #5988 from byrw/issue5986
+    
+    fix(style): add margin between buttons from account recovery.
