@@ -1,0 +1,8 @@
+commit 82344641bb718976e700714a5ef45fd0252aefd1
+Merge: 49c2de274 5bf9b64f3
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Jul 22 13:19:16 2020 -0700
+
+    Merge pull request #6016 from mozilla/profile-http
+    
+    fix(profile): set `forever: true` in request
