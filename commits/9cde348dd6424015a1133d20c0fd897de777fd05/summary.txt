@@ -1,0 +1,1 @@
+Merge pull request #6020 from mozilla/4318-no-capability-check
