@@ -1,0 +1,1 @@
+Merge pull request #5989 from mozilla/fxa-1225, r=@LZoog
