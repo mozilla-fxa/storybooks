@@ -1,0 +1,8 @@
+commit 8e955b4ee2214c220a93e3f3c6972168e903383b
+Merge: a97c353ac 3930f5550
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Jul 23 11:39:21 2020 -0700
+
+    Merge pull request #6027 from mozilla/fxa-remove-recovery-test
+    
+    fix(tests): Remove flaky recovery key assertion
