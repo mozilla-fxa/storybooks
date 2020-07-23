@@ -1,0 +1,8 @@
+commit 2a9b13b5efe34975a77d6daa12d42bf90994d8d8
+Merge: 9cde348dd f267e37f8
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Thu Jul 23 13:02:07 2020 -0400
+
+    Merge pull request #6014 from mozilla/jh/aet-support-if-match
+    
+    feat(aet): support for if-match and if-none-match across the board
