@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Storybooks for 9592b42337a75fdddefebbcf579408b7254be26b</title>
+      
+    </head>
+    <body>
+      <h1>Storybooks for 9592b42337a75fdddefebbcf579408b7254be26b</h1>
+      <ul>
+        <li>
+    <a href="./fxa-payments-server/index.html">fxa-payments-server</a>
+    
+    
+  </li>
+      </ul>
+      <h2>Description</h2>
+          <pre>commit 9592b42337a75fdddefebbcf579408b7254be26b
+Author: Jackie Munroe <jmunroe@mozilla.com>
+Date:   Mon Jul 13 11:45:12 2020 -0700
+
+    feat(payments): use SetupIntent API for SCA payment update
+    
+    Because:
+    
+    * To support SCA we must migrate to using Stripe's SetupIntent API
+    
+    This commit:
+    
+    * Add call to auth server to create SetupIntent
+    * Use secret from SetupIntent result to confirm card prior to creating a subscription
+    
+    Closes #5832
+    
+    Co-authored-by: Jackie Munroe <jmunroe@mozilla.com>
+    Co-authored-by: Les Orchard <me@lmorchard.com></pre>
+    </body>
+  </html>
