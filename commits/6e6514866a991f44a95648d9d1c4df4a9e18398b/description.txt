@@ -1,0 +1,8 @@
+commit 6e6514866a991f44a95648d9d1c4df4a9e18398b
+Merge: de942e3c9 db20d6995
+Author: Ben Bangert <ben@groovie.org>
+Date:   Fri Jul 24 10:55:32 2020 -0700
+
+    Merge pull request #6026 from mozilla/refactor/issue-6000
+    
+    refactor(auth-server): use type-cacheable for caching

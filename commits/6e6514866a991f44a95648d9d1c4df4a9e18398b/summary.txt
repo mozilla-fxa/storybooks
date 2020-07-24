@@ -1,0 +1,1 @@
+Merge pull request #6026 from mozilla/refactor/issue-6000
