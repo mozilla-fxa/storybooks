@@ -1,0 +1,8 @@
+commit cfcf8ca8f9fc5d2879afd8d41d94f6be0bf078fd
+Merge: 032c8fb9b 860c70095
+Author: John Gruen <3323249+johngruen@users.noreply.github.com>
+Date:   Sun Jul 26 12:36:38 2020 +0200
+
+    Merge pull request #6032 from mozilla/intl-currencies-123done
+    
+    chore(test): add non-usd flows to 123 done
