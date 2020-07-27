@@ -1,0 +1,19 @@
+commit a59bf22f73b17ab02a8106c12ec496808336fd86
+Merge: eb1b1a8e8 ee696c65a
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Mon Jul 27 15:54:28 2020 -0400
+
+    Merge pull request #6051 from mozilla/fix-l10n-test, r=@chenba
+    
+    ## Because
+    
+    - Translation test broke
+    - Surprised the text changed because the equivalent English text didn't 🤷🏽‍♂️
+    
+    ## This pull request
+    
+    - Uses new translation text in test.
+    
+    ## Issue that this pull request solves
+    
+    Closes: NA
