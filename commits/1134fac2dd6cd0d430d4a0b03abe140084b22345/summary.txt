@@ -1,0 +1,1 @@
+feat(payments): Add "Download Terms" link to terms and privacy component
