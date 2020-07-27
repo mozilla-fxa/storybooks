@@ -1,0 +1,8 @@
+commit eb1b1a8e8685e190e1200e44156eb17baaf97965
+Merge: cfcf8ca8f b94d0c99b
+Author: Ben Bangert <ben@groovie.org>
+Date:   Mon Jul 27 08:03:28 2020 -0700
+
+    Merge pull request #6040 from mozilla/refactor/issue-6002
+    
+    refactor(auth-server): convert subscriptions to TS
