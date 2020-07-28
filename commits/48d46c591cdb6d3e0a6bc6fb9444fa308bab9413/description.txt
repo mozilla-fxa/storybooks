@@ -1,0 +1,8 @@
+commit 48d46c591cdb6d3e0a6bc6fb9444fa308bab9413
+Merge: ec270f263 b7f7a39b4
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Jul 28 16:31:21 2020 -0700
+
+    Merge pull request #6067 from mozilla/stayin-alive
+    
+    feat(auth-client): set keepAlive on globalAgent
