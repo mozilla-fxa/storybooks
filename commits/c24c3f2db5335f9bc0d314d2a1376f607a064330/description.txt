@@ -1,0 +1,8 @@
+commit c24c3f2db5335f9bc0d314d2a1376f607a064330
+Merge: 3aba145d9 6ee1cae52
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Tue Jul 28 09:10:22 2020 -0400
+
+    Merge pull request #6044 from mozilla/jh/6018/unverified-session-aet
+    
+    feat(aet): bail out of set with password if session unverified

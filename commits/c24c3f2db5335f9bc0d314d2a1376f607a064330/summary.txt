@@ -1,0 +1,1 @@
+Merge pull request #6044 from mozilla/jh/6018/unverified-session-aet
