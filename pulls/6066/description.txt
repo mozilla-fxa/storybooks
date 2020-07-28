@@ -1,0 +1,9 @@
+commit 3c1e650de065521c622fd6f22e5eeb4d0662833c
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Jul 28 14:07:25 2020 -0700
+
+    fix(payments): filter "synthetic" locales out of the fetch list
+    
+    because they don't exist on the server, so create useless 404s
+    
+    fixes #6048
