@@ -1,0 +1,8 @@
+commit 3aba145d9e657d04d5c09cd2069b2fe1cf48189b
+Merge: a59bf22f7 80074dad8
+Author: Ryan Kelly <rfkelly@mozilla.com>
+Date:   Tue Jul 28 11:24:43 2020 +1000
+
+    Merge pull request #6054 from mozilla/email-header-length-includes-colon-and-space; r=jodyheavener,vladikoff
+    
+    fix(emails): Account for formatting chars in max email header length.

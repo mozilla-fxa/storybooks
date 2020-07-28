@@ -1,0 +1,1 @@
+Merge pull request #6054 from mozilla/email-header-length-includes-colon-and-space; r=jodyheavener,vladikoff
