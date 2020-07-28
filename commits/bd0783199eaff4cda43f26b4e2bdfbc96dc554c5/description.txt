@@ -1,0 +1,8 @@
+commit bd0783199eaff4cda43f26b4e2bdfbc96dc554c5
+Merge: ec2454f65 4710b7f62
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Jul 28 14:19:05 2020 -0700
+
+    Merge pull request #5847 from clouserw/dependabot
+    
+    Enable dependabot
