@@ -1,0 +1,8 @@
+commit ec2454f6506558c9ef84f981a2886b7f152387ac
+Merge: 29f7bc3ff 56ecd40af
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Tue Jul 28 15:00:09 2020 -0500
+
+    Merge pull request #6060 from chenba/2318-update-subs-title
+    
+    chore(subscriptions): use just "Subscriptions"
