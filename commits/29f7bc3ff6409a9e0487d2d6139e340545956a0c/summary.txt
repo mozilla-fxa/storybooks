@@ -1,0 +1,1 @@
+Merge pull request #6053 from mozilla/6005-download-tos-link
