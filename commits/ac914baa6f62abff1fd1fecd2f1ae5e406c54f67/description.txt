@@ -1,0 +1,8 @@
+commit ac914baa6f62abff1fd1fecd2f1ae5e406c54f67
+Merge: 336d5f2f2 f3d4c18da
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Jul 29 14:31:33 2020 -0700
+
+    Merge pull request #6078 from mozilla/fix/issue-6064
+    
+    fix(admin-server): restrict selected email columns
