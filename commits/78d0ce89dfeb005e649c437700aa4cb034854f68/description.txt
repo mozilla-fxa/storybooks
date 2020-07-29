@@ -1,0 +1,8 @@
+commit 78d0ce89dfeb005e649c437700aa4cb034854f68
+Merge: 48d46c591 a571fcc82
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Tue Jul 28 22:22:09 2020 -0400
+
+    Merge pull request #6068 from mozilla/5351-aet-metrics
+    
+    bug(aet): Add logging to profile-server get anon_id route
