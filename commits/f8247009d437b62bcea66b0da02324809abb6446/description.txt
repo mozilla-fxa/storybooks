@@ -1,0 +1,8 @@
+commit f8247009d437b62bcea66b0da02324809abb6446
+Merge: 78d0ce89d 316dd5d77
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Tue Jul 28 22:38:49 2020 -0400
+
+    Merge pull request #6062 from mozilla/jh/6031/broken-profile-aet-post
+    
+    fix(profile): aet call to auth server should be put, not get
