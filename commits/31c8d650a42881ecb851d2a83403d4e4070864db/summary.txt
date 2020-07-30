@@ -1,0 +1,1 @@
+fix(auth): added exports to fxa-shared package.json

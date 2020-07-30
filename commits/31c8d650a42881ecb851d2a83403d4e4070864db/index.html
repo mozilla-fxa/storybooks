@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Storybooks for 31c8d650a42881ecb851d2a83403d4e4070864db</title>
+      
+    </head>
+    <body>
+      <h1>Storybooks for 31c8d650a42881ecb851d2a83403d4e4070864db</h1>
+      <ul>
+        <li>
+    <a href="./fxa-payments-server/index.html">fxa-payments-server</a>
+    
+    
+  </li><li>
+    <a href="./fxa-settings/index.html">fxa-settings</a>
+    
+    
+  </li>
+      </ul>
+      <h2>Description</h2>
+          <pre>commit 31c8d650a42881ecb851d2a83403d4e4070864db
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Jul 30 08:40:12 2020 -0700
+
+    fix(auth): added exports to fxa-shared package.json
+    
+    Because auth-server doesn't use ts-node/register in production and fxa-shared compiles typescript, requiring a subpath like 'fxa-shared/subscriptions/metadata' finds no js to load. The "exports" field of package.json allows us to map required paths to other locations, in this case ./dist.
+    
+    see https://nodejs.org/dist/latest-v12.x/docs/api/esm.html#esm_package_entry_points</pre>
+    </body>
+  </html>
