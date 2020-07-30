@@ -1,0 +1,19 @@
+commit 0fbbd2c424e4a11bd60698f2bd24579293645cdb
+Merge: b43a2b867 e587c4ef1
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Jul 30 11:23:48 2020 -0400
+
+    Merge pull request #6049 from mozilla/fxa-2272, r=@rfk
+    
+    ## Because
+    
+    - Account created using a sync scoped token did not send the post verify account email, instead they sent the "new device login" email
+    
+    ## This pull request
+    
+    - Checks to see if the client doing the verification is using a clientId that is sync based and send the verification email if so
+    - Updates oauth token route to see if the account is newish in order to send the "new device login" email
+    
+    ## Issue that this pull request solves
+    
+    Closes: #5920
