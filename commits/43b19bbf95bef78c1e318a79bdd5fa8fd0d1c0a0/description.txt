@@ -1,0 +1,8 @@
+commit 43b19bbf95bef78c1e318a79bdd5fa8fd0d1c0a0
+Merge: 0fbbd2c42 3266e312d
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Jul 30 08:31:38 2020 -0700
+
+    Merge pull request #6079 from mozilla/edge
+    
+    fix(edge): fxa failed on Edge
