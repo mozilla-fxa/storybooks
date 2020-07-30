@@ -1,0 +1,8 @@
+commit c25dddf9e548b7ae1b65152a93751d60eef0a11b
+Merge: 4fde58d09 091fa0904
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Jul 30 12:27:03 2020 -0400
+
+    Merge pull request #6085 from mozilla/disable-code-cov-comments, r=@chenba
+    
+    chore(coverage): disable codecov comments

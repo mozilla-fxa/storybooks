@@ -1,0 +1,1 @@
+Merge pull request #6085 from mozilla/disable-code-cov-comments, r=@chenba
