@@ -1,0 +1,19 @@
+commit e9211f3b7cbd907c867d8d06f0fa332305836efb
+Merge: ac914baa6 81b3d943f
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Jul 30 11:02:14 2020 -0400
+
+    Merge pull request #6082 from mozilla/fxa-2311, r=@vladikoff
+    
+    ## Because
+    
+    - We currently don't log any complete events when a user completes a login via pairing
+    
+    ## This pull request
+    
+    - Adds the `fxa_login - complete` event when the user finishes the pairing flow
+    - Note that I was not able to add the `login_type` property to these events. I can do that part in a follow up.
+    
+    ## Issue that this pull request solves
+    
+    Closes: #5990
