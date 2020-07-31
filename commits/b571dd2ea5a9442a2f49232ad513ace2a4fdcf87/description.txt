@@ -1,0 +1,8 @@
+commit b571dd2ea5a9442a2f49232ad513ace2a4fdcf87
+Merge: b1ad050a4 033070d38
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Jul 31 08:11:57 2020 -0700
+
+    Merge pull request #6093 from mozilla/update-ecouid-fixes
+    
+    fix(aet): Correctly check preconditions when updating ecosystemAnonId
