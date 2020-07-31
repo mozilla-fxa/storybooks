@@ -1,0 +1,8 @@
+commit f9658f5a58320db5e2e3482e5ca92840bf2c280c
+Merge: c0c1a2c23 bdf0be2c5
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Fri Jul 31 12:07:18 2020 -0400
+
+    Merge pull request #6090 from mozilla/fxa-email-service-allow-verify-short-code-header, r=@dannycoates
+    
+    fix(headers): allow X-Verify-Short-Code header to pass through
