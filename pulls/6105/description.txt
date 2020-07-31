@@ -1,0 +1,9 @@
+commit 62b0878bf896ba4769b5384ea394432893fda5d2
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Jul 31 10:40:25 2020 -0700
+
+    refactor(rescripts): include all of fxa as valid paths in rescripts
+    
+    Because I was about to add fxa-auth-client to the additionalJSIpmorts but ran into problems. Instead of trying to include the minimum set of paths to add to the webpack rule this just lets all of fxa in.
+    
+    Also, since we started using `workspace:*` in package.json we no longer need the aliases or jest module mappings!
