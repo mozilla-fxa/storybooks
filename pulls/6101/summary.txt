@@ -1,0 +1,1 @@
+chore(docs): fxa-settings - Correct the 'testing' section, add design guide mention
