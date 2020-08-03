@@ -1,0 +1,1 @@
+Merge pull request #6116 from mozilla/gql-doc-updates
