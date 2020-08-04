@@ -1,0 +1,5 @@
+commit d2676cea614706756fcc4e1149aac1aae56ee911
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Tue Aug 4 09:43:49 2020 -0700
+
+    Release 1.182.2
