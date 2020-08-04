@@ -1,0 +1,8 @@
+commit ae87468aefd8c4cff82634e5f5104ac2fc14e7dc
+Merge: 6339966fe d2676cea6
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Aug 4 11:47:58 2020 -0700
+
+    Merge pull request #6134 from mozilla/train-182
+    
+    Release 182.2
