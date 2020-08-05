@@ -1,0 +1,8 @@
+commit b43e911d9cefee68ba99f9bdd615cb1095875798
+Merge: a5a78e42f 42a6f8a39
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Aug 5 16:46:38 2020 -0700
+
+    Merge pull request #6141 from mozilla/gql-session
+    
+    feat(settings): add session verified state to graphql-api
