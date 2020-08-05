@@ -1,0 +1,8 @@
+commit 561ee8c94369ebca6f89a1e0390593d160130641
+Merge: 9cdc058e5 39f651722
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Wed Aug 5 11:21:53 2020 -0700
+
+    Merge pull request #6139 from mozilla/6136-sca-metrics
+    
+    feat(payments): implement metrics for SCA flows
