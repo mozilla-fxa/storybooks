@@ -1,0 +1,1 @@
+Merge pull request #6126 from mozilla/sca-download-email

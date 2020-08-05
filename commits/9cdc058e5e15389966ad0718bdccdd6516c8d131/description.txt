@@ -1,0 +1,8 @@
+commit 9cdc058e5e15389966ad0718bdccdd6516c8d131
+Merge: 454d13250 c20658beb
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Wed Aug 5 09:20:30 2020 -0700
+
+    Merge pull request #6126 from mozilla/sca-download-email
+    
+    fix(payments): ensure SCA flow sends download email and triggers customer update
