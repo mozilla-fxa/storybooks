@@ -1,0 +1,8 @@
+commit a5a78e42f71f80719f6649089a0806d37a384f29
+Merge: 561ee8c94 2c5687e86
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Wed Aug 5 16:25:18 2020 -0700
+
+    Merge pull request #6148 from mozilla/prompt-none-improvements
+    
+    fix(oidc): Allow prompt=none with id_token_hint for all RPs
