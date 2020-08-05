@@ -1,0 +1,5 @@
+commit b3ea05927107f818b6f280acb0bd18d1ceeba0b0
+Author: Vijay Budhram <vbudhram@gmail.com>
+Date:   Tue Aug 4 09:59:01 2020 -0400
+
+    feat(router): Add react router support to settings
