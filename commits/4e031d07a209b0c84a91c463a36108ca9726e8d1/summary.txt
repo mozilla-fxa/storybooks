@@ -1,0 +1,1 @@
+Merge pull request #6128 from mozilla/4911-security-section-settings
