@@ -1,0 +1,1 @@
+refactor(settings): move type defs to a d.ts file so they're always available
