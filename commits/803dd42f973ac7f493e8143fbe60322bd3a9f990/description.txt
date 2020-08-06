@@ -1,0 +1,8 @@
+commit 803dd42f973ac7f493e8143fbe60322bd3a9f990
+Merge: 0e45e3af7 d4984829f
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Thu Aug 6 12:19:15 2020 -0500
+
+    Merge pull request #6149 from mozilla/issues/4926
+    
+    feat(settings): Add AlertBar root el with Context, UnitRowSecondaryEmail
