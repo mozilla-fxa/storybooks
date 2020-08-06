@@ -1,0 +1,8 @@
+commit d4d21509ad4c66c88bcee99afb4f075b65afd1f0
+Merge: 6742ddd90 d691458f3
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Thu Aug 6 15:12:11 2020 -0700
+
+    Merge pull request #6156 from mozilla/inline-2fa-routes
+    
+    fix(server): register 2FA inline setup routes with server
