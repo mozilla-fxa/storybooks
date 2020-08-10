@@ -1,0 +1,1 @@
+feat(router): Add react router support to settings
