@@ -1,0 +1,7 @@
+commit 275c52de0d1934efa10253223bde0363c4f9328d
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Aug 10 11:12:06 2020 -0700
+
+    feat(settings): redirect to login when session token is invalid
+    
+    When the graphql server fails authentication it means we need to reauthenticate the user. We do this in a slightly roundabout way by redirecting to /get_flow and having it navigate to the login page so that we can redirect_to back to /beta/settings. Once new settings is no longer in beta we ought to be able to redirect straight to /signin.

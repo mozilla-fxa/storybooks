@@ -1,0 +1,1 @@
+feat(settings): redirect to login when session token is invalid
