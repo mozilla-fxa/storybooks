@@ -1,0 +1,8 @@
+commit b7924f18ef5bba074a01f903bc6a76971868eceb
+Merge: 809035a3e 486c08fec
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Mon Aug 10 16:58:54 2020 -0400
+
+    Merge pull request #6178 from mozilla/6154-use-account
+    
+    task(fxa-settings): convert settings component to use cache
