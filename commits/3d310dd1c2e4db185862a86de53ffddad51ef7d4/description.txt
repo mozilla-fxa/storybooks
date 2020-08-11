@@ -1,0 +1,5 @@
+commit 3d310dd1c2e4db185862a86de53ffddad51ef7d4
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Aug 11 12:01:44 2020 -0700
+
+    feat(settings): Display formatted password set time on new settings
