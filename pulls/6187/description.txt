@@ -1,0 +1,5 @@
+commit 60467ec3a5671959dfdd81a213475ef030897e58
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Tue Aug 11 11:48:24 2020 -0500
+
+    feat(settings): Build out secondary emails with real data and resend verification GQL mutation
