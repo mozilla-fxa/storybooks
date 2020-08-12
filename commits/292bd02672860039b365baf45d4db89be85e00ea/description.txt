@@ -1,0 +1,8 @@
+commit 292bd02672860039b365baf45d4db89be85e00ea
+Merge: 226c67757 f91e5768c
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Wed Aug 12 12:33:50 2020 -0500
+
+    Merge pull request #6104 from SrilalS/main
+    
+    Changed the 404 page Text to be Match with Other Styles
