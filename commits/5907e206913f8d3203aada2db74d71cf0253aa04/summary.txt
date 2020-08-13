@@ -1,0 +1,1 @@
+Merge pull request #6140 from mozilla/jh/5018/settings-send-metrics-event
