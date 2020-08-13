@@ -1,0 +1,7 @@
+commit b8132570e1a1df8c612e8a76f33dea6ca6b6d1c4
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Wed Aug 12 20:12:53 2020 -0400
+
+    fix(payments): ensure SCA payment update uses same error as subscription create
+    
+    fixes #6114
