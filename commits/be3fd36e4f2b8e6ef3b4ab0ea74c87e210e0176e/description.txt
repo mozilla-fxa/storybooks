@@ -1,0 +1,8 @@
+commit be3fd36e4f2b8e6ef3b4ab0ea74c87e210e0176e
+Merge: 5907e2069 b8132570e
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Thu Aug 13 10:39:47 2020 -0700
+
+    Merge pull request #6191 from mozilla/6114-confusing-errors
+    
+    fix(payments): ensure SCA payment update uses same error as subscription create

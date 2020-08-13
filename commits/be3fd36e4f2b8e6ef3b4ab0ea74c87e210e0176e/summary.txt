@@ -1,0 +1,1 @@
+Merge pull request #6191 from mozilla/6114-confusing-errors
