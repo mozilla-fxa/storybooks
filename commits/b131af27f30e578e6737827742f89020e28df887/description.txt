@@ -1,8 +1,0 @@
-commit b131af27f30e578e6737827742f89020e28df887
-Merge: 958282957 c1b4d7a2f
-Author: Ben Bangert <ben@groovie.org>
-Date:   Tue Jun 23 12:45:08 2020 -0700
-
-    Merge pull request #5730 from mozilla/fix/update-assignments
-    
-    fix(auth-server): use individual assignments

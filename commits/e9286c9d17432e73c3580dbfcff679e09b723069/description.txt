@@ -1,8 +1,0 @@
-commit e9286c9d17432e73c3580dbfcff679e09b723069
-Merge: 2ed8068c5 80bf06773
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Jun 26 13:38:14 2020 -0700
-
-    Merge pull request #5787 from mozilla/update-yarn
-    
-    chore(deps): updated yarn

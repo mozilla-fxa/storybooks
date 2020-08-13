@@ -1,8 +1,0 @@
-commit 0dbf559e3bdf2b13641c38bade948afa168b59dc
-Merge: 31893e4cd ded14dade
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Jun 29 16:11:52 2020 -0700
-
-    Merge pull request #5805 from mozilla/ci-cache-yarn
-    
-    feat(ci): cache .yarn in circleci

@@ -1,8 +1,0 @@
-commit 2916b6f2af49c12f340fad6e8b6ab7df6ba13b16
-Merge: e7f513a14 99385e89a
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Jun 1 15:13:05 2020 -0700
-
-    Merge pull request #5508 from mozilla/fix-auth-test
-    
-    fix(auth): fixed test-local.sh in fxa-auth-server

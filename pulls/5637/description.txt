@@ -1,6 +1,0 @@
-commit 8a41d4ccddac9a193b2758de929173af41449426
-Merge: 1d276a60f 84be6c12e
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed Jun 10 17:57:15 2020 -0400
-
-    Merge branch 'master' into train-174

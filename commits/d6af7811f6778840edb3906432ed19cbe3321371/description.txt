@@ -1,8 +1,0 @@
-commit d6af7811f6778840edb3906432ed19cbe3321371
-Merge: 76d81d267 9e1046fb5
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Thu Jun 25 09:27:24 2020 -0400
-
-    Merge pull request #5743 from mozilla/issues/5705, r=@vbudhram
-    
-    feat(emails): Add CAD reminder templates

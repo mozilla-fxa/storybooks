@@ -1,1 +1,0 @@
-Merge pull request #5965 from mozilla/fix-content-server-tests

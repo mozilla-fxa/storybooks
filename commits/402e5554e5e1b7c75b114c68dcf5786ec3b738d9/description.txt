@@ -1,5 +1,0 @@
-commit 402e5554e5e1b7c75b114c68dcf5786ec3b738d9
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Thu Jun 18 18:39:06 2020 -0400
-
-    Release 1.176.0

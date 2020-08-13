@@ -1,8 +1,0 @@
-commit 68d5f6caa395c468cf520f75c74732883d97b99d
-Merge: 756a2ac73 26df51060
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu May 28 09:39:04 2020 -0700
-
-    Merge pull request #5375 from mozilla/i4803-p2
-    
-    refactor(oauth): update inserts for codes, refreshTokens, tokens. Allow null email

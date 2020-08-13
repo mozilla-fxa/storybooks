@@ -1,8 +1,0 @@
-commit e802c60dffe113f9dbcd32d74a2f2c9735445201
-Merge: 3b849fae4 ea80a138f
-Author: John Morrison <jrgmorrison@gmail.com>
-Date:   Wed May 27 14:22:04 2020 -0700
-
-    Merge pull request #5472 from mozilla/fix-access-token-expire-logging-trace
-    
-    fix(oauth): quiet logging on >24 hour tokens

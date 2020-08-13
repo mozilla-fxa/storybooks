@@ -1,7 +1,0 @@
-commit 90e2c097b182ffdf797dac2fd8eb8860a341f9a5
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Mon Jul 13 20:00:01 2020 -0400
-
-    fix(payments): remove legal links from footer of payment update form
-    
-    fixes #5873

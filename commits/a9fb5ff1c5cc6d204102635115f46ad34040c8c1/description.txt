@@ -1,5 +1,0 @@
-commit a9fb5ff1c5cc6d204102635115f46ad34040c8c1
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Jun 22 14:08:36 2020 -0700
-
-    fix(deps): fixed babel related issues

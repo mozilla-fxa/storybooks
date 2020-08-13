@@ -1,1 +1,0 @@
-Merge pull request #5823 from mozilla/fix/remove-plan-name-requirement

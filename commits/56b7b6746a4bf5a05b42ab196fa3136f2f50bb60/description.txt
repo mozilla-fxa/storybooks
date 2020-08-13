@@ -1,5 +1,0 @@
-commit 56b7b6746a4bf5a05b42ab196fa3136f2f50bb60
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu Jul 16 14:07:34 2020 -0700
-
-    chore(deps): updated lodash

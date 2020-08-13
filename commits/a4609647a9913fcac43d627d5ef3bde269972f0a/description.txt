@@ -1,5 +1,0 @@
-commit a4609647a9913fcac43d627d5ef3bde269972f0a
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Jun 16 13:57:40 2020 -0700
-
-    chore(deps): update babel-eslint

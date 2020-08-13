@@ -1,8 +1,0 @@
-commit 97c83dbd3b6b809d7e4cea3881566ea602e3cfbb
-Merge: 40a9e7d12 ddacc3800
-Author: John Gruen <3323249+johngruen@users.noreply.github.com>
-Date:   Mon Jul 20 14:01:31 2020 +0200
-
-    Merge pull request #5974 from mozilla/update-content-server-fpn-vpn-icons
-    
-    chore(icons): update vpn and fpn icons

@@ -1,1 +1,0 @@
-make dynamic classes stick around

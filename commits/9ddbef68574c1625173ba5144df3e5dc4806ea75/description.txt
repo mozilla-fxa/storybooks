@@ -1,8 +1,0 @@
-commit 9ddbef68574c1625173ba5144df3e5dc4806ea75
-Merge: cfb76fc4f 18e0e6a0f
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Wed May 27 09:43:09 2020 -0400
-
-    Merge pull request #5461 from mozilla/verbose-log, r=@vbudhram
-    
-    refactor(logging): reduce profile cache logging from info to verbose

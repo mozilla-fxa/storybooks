@@ -1,5 +1,0 @@
-commit 2dfcd4c6924a3c60da18e022303dbe72eae833bd
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Fri May 29 17:38:14 2020 -0400
-
-    feat(tailwind): add script to tailwind configs to only apply postcss output to fxa-react components being used in a given project

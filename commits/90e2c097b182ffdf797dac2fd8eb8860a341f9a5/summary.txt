@@ -1,1 +1,0 @@
-fix(payments): remove legal links from footer of payment update form

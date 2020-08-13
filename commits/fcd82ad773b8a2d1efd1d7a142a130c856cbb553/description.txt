@@ -1,8 +1,0 @@
-commit fcd82ad773b8a2d1efd1d7a142a130c856cbb553
-Merge: 7924b5ab6 aa69769bf
-Author: Ben Bangert <ben@groovie.org>
-Date:   Wed Jul 8 12:30:20 2020 -0700
-
-    Merge pull request #5893 from lmorchard/remove-redundant-cached-subs-fetch
-    
-    fix(payments): stop fetching unused cached subscription data on payments frontend

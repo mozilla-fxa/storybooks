@@ -1,8 +1,0 @@
-commit 12f7cdbd34fac0a6a2e96fc95de409983412b7f3
-Merge: 8a8138b20 12efa0371
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Fri Jul 10 23:56:50 2020 -0500
-
-    Merge pull request #5900 from chenba/2253-resolves-not-returns
-    
-    fix(tests): replace returns with resolves on stubs

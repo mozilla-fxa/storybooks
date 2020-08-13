@@ -1,5 +1,0 @@
-commit 4b66c78f408b9e8a6355efc39545bc0451cea956
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 8 01:24:07 2020 -0400
-
-    issue #5745: lots of rework and deletion

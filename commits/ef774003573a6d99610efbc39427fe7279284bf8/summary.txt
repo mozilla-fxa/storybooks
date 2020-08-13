@@ -1,1 +1,0 @@
-task(payments-server): use shared lang list

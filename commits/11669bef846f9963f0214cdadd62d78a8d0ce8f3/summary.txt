@@ -1,1 +1,0 @@
-Merge pull request #5803 from mozilla/refresh-token-reboot

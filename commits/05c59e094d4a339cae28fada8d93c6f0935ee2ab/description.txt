@@ -1,5 +1,0 @@
-commit 05c59e094d4a339cae28fada8d93c6f0935ee2ab
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 8 14:31:38 2020 -0400
-
-    fix(payments): stop fetching unused cached subscription data on payments frontend

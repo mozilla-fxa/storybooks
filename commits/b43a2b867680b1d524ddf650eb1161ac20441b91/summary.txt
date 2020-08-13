@@ -1,1 +1,0 @@
-Merge pull request #6081 from mozilla/log-anonid-update

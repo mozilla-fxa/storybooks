@@ -1,8 +1,0 @@
-commit 49c2de2744f714cf62d24a7bb6e6cba7593b68f7
-Merge: d75cc3d88 26266e48a
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 22 12:21:47 2020 -0700
-
-    Merge pull request #6007 from mozilla/5970-sca-payment-ui-route-switch
-    
-    feat(payments): feature flag support to select SCA or legacy payment UI as default

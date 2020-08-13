@@ -1,5 +1,0 @@
-commit 5c4ed1b3fd79e41304c38d37b16238bc3ed14efd
-Author: johngruen <john.gruen@gmail.com>
-Date:   Fri Jul 24 13:20:33 2020 +0200
-
-    chore(test): add non-usd flows to 123 done

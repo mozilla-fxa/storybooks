@@ -1,8 +1,0 @@
-commit de942e3c953e3e1f43a429dffed8e364c72177bb
-Merge: 0f534e80b bad8a59a8
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Fri Jul 24 11:59:30 2020 -0500
-
-    Merge pull request #6034 from chenba/2324-NO-EXCLAIM-MARK
-    
-    chore(emails): remove ! from sub receipt email

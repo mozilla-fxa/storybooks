@@ -1,8 +1,0 @@
-commit c310a071ee1ce6640f869786f3ab5362005b3cb8
-Merge: a91a03ce3 1fbac30a6
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Jul 9 10:25:24 2020 -0400
-
-    Merge pull request #5908 from byrw/issue1472
-    
-    fix(content-server): disable the "Take picture" button

@@ -1,1 +1,0 @@
-refactor(fxa-react): replace imported fxa-content-server scss variables, remove dependency

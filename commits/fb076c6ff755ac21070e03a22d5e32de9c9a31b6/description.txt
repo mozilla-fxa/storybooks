@@ -1,5 +1,0 @@
-commit fb076c6ff755ac21070e03a22d5e32de9c9a31b6
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 8 02:40:50 2020 -0400
-
-    issue #5745: tinkering toward integration with new auth-server endpoints

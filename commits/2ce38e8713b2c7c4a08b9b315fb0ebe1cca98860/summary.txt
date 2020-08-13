@@ -1,1 +1,0 @@
-Merge pull request #5688 from mozilla/fix-enrollment-attempt, r=@6a68

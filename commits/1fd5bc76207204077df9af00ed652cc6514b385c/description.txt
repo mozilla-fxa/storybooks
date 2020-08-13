@@ -1,8 +1,0 @@
-commit 1fd5bc76207204077df9af00ed652cc6514b385c
-Merge: 0380ee50e 4331f25cf
-Author: Ben Bangert <ben@groovie.org>
-Date:   Thu Jun 18 10:07:43 2020 -0700
-
-    Merge pull request #5696 from mozilla/fix/issue-5380
-    
-    fix(admin-server): restrict account columns selected

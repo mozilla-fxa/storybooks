@@ -1,8 +1,0 @@
-commit 84be6c12e523203477b1da042979fac715b98323
-Merge: deebd5e60 8d85e09bf
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Wed Jun 10 15:47:27 2020 -0500
-
-    Merge pull request #5633 from chenba/1998-survey-langs
-    
-    feat(surveys): add the "languages" condition

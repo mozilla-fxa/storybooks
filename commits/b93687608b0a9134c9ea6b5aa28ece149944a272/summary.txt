@@ -1,1 +1,0 @@
-chore(release): use dashes instead of asterisks in release script Because:

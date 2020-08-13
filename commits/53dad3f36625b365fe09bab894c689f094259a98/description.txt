@@ -1,8 +1,0 @@
-commit 53dad3f36625b365fe09bab894c689f094259a98
-Merge: 26df300c8 1ac47bd08
-Author: Ben Bangert <ben@groovie.org>
-Date:   Mon Jul 6 18:30:59 2020 -0700
-
-    Merge pull request #5864 from mozilla/fix/payload-validation
-    
-    fix(auth-server): payload validation for payment methods

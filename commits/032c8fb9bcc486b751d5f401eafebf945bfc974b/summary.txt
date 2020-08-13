@@ -1,1 +1,0 @@
-Merge pull request #6030 from mozilla/5832-fxa-2215-sca-payment-update

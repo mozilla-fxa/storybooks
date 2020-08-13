@@ -1,8 +1,0 @@
-commit 5397bac51054ffd0c268e50c9457ab2ba565de2b
-Merge: 7be1e7be0 dc77f5c3b
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 29 09:59:06 2020 -0700
-
-    Merge pull request #6063 from mozilla/payment-server-fxa-shared-dep
-    
-    fix(payments): add fxa-shared and fxa-react as CI dependencies for fxa-payments-server

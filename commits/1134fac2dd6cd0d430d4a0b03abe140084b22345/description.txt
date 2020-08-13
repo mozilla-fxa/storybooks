@@ -1,8 +1,0 @@
-commit 1134fac2dd6cd0d430d4a0b03abe140084b22345
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Mon Jul 27 17:36:57 2020 -0400
-
-    feat(payments): Add "Download Terms" link to terms and privacy component
-    
-    FXA-2327
-    fixes #6005

@@ -1,8 +1,0 @@
-commit 5b78a3e39889b31177e3b5cfea255a21f2557204
-Merge: 7891a24fd db9ab0581
-Author: Ryan Kelly <rfkelly@mozilla.com>
-Date:   Mon Jun 1 10:21:41 2020 +1000
-
-    Merge pull request #5506 from eoger/simplify-ios-push-filter; r=rfk
-    
-    Filter out collection_changed commands for iOS

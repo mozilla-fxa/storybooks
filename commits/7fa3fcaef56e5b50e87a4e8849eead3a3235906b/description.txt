@@ -1,5 +1,0 @@
-commit 7fa3fcaef56e5b50e87a4e8849eead3a3235906b
-Author: johngruen <john.gruen@gmail.com>
-Date:   Thu Jul 9 14:59:31 2020 +0200
-
-    bug(styles): correctly pass styles into stripe card element

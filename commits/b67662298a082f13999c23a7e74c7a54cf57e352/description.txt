@@ -1,7 +1,0 @@
-commit b67662298a082f13999c23a7e74c7a54cf57e352
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Mon Jun 22 16:34:33 2020 +0000
-
-    task(payments-server): use shared lang list
-    
-    - fixes #5662

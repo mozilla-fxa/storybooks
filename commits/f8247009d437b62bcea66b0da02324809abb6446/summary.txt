@@ -1,1 +1,0 @@
-Merge pull request #6062 from mozilla/jh/6031/broken-profile-aet-post

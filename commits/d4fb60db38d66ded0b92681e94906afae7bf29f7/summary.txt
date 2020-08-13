@@ -1,1 +1,0 @@
-Merge pull request #5983 from mozilla/5914-reactivation-wrong-upgrade-price

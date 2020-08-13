@@ -1,1 +1,0 @@
-feat(payments): Use Stripe metadata for terms & privacy URLs in payments-server

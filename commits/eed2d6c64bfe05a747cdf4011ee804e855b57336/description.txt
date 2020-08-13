@@ -1,5 +1,0 @@
-commit eed2d6c64bfe05a747cdf4011ee804e855b57336
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 8 20:02:52 2020 -0400
-
-    issue #5745: tweaking validators and better handling of missing payment info

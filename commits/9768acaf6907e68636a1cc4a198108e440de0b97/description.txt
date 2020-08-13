@@ -1,5 +1,0 @@
-commit 9768acaf6907e68636a1cc4a198108e440de0b97
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Fri Jun 5 16:29:06 2020 -0500
-
-    fix(admin-panel): Adjust input height

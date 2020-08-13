@@ -1,1 +1,0 @@
-issue #5745: tinkering toward integration with new auth-server endpoints

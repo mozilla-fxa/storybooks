@@ -1,1 +1,0 @@
-Merge pull request #5602 from lmorchard/5450-email-currencies

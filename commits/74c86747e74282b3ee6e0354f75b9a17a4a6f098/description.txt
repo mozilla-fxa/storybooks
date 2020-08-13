@@ -1,8 +1,0 @@
-commit 74c86747e74282b3ee6e0354f75b9a17a4a6f098
-Merge: fe236d478 cf55dda0d
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Mon Jul 20 14:12:10 2020 -0700
-
-    Merge pull request #5978 from mozilla/5901-further-no-card-cleanup
-    
-    fix(payments): hide mention of card in reactivate dialog when unavailable

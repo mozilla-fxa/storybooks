@@ -1,1 +1,0 @@
-Merge pull request #5761 from mozilla/fix-circle

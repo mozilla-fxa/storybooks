@@ -1,8 +1,0 @@
-commit d8a77460092aad6c2c7c9508540e71dc74cb4add
-Merge: 12f7cdbd3 49917be6c
-Author: Jared Hirsch <ohai@6a68.net>
-Date:   Mon Jul 13 09:45:09 2020 -0700
-
-    Merge pull request #5689 from mozilla/aet-db
-    
-    feat(aet): Add ecosystemAnonId to auth-db and mysql

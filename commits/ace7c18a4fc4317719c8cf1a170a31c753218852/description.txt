@@ -1,8 +1,0 @@
-commit ace7c18a4fc4317719c8cf1a170a31c753218852
-Merge: 587422445 69994084b
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 1 12:07:56 2020 -0700
-
-    Merge pull request #5752 from mozilla/fortress-and-payment-improve
-    
-    chore(styles): fortress and payments ui improvements

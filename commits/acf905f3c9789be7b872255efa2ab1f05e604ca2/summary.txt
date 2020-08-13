@@ -1,1 +1,0 @@
-feat(settings): gql communication setup (w/ session), basic settings loading, and config setup

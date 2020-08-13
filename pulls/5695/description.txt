@@ -1,8 +1,0 @@
-commit 20a0acf8b0d864702afb6d7c052f20a7f9ced526
-Author: Jared Hirsch <ohai@6a68.net>
-Date:   Wed Jun 17 18:13:10 2020 -0700
-
-    chore(docs): Replace 'master' with 'main' throughout
-    
-    Certain references to 'master' haven't been removed yet, see
-    issue #5698, issue #5699, issue #5700 for more complex followups.

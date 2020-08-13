@@ -1,1 +1,0 @@
-Merge pull request #5824 from mozilla/update-upload-script-for-legal

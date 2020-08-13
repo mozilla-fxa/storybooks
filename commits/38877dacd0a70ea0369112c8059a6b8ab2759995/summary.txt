@@ -1,1 +1,0 @@
-chore(deps): removed es6-promise

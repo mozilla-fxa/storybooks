@@ -1,8 +1,0 @@
-commit fe1a36a22eaf7144c2a417efe9348f7391d65abc
-Merge: 3413ca2c0 bef50ba09
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Jun 12 12:04:52 2020 -0700
-
-    Merge pull request #5667 from mozilla/ancient-history
-    
-    fix(content): stop using padStart

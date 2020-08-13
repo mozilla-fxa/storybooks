@@ -1,8 +1,0 @@
-commit 958282957e991826f0d5ebc0a29c8d27aed41722
-Merge: 0f5dcfda8 ea09677c3
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Tue Jun 23 11:46:38 2020 -0700
-
-    Merge pull request #5735 from mozilla/fxa-shared-ts-tests-fix
-    
-    fix(shared): ensure *.ts tests run

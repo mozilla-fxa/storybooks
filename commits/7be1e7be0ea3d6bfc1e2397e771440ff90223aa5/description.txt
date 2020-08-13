@@ -1,8 +1,0 @@
-commit 7be1e7be0ea3d6bfc1e2397e771440ff90223aa5
-Merge: c872d3ef6 9f105a4f9
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Wed Jul 29 07:37:01 2020 -0700
-
-    Merge pull request #6069 from mozilla/abort-controller
-    
-    feat(auth-client): add abort-controller support to server env

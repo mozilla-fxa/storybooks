@@ -1,1 +1,0 @@
-Merge pull request #5929 from mozilla/5313-add-anonId-to-token-created-metrics-ping

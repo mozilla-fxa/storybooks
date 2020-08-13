@@ -1,8 +1,0 @@
-commit 0158563e2563b79c82c2d1ff3604e65c90a5ccd1
-Merge: 1c10da65a f381b493a
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Wed Jul 15 17:55:56 2020 -0500
-
-    Merge pull request #5930 from mozilla/issues/5859
-    
-    feat(AET): Add 'ecosystem_anon_id' field to content server config and expose keys in fxa-client-configuration

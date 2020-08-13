@@ -1,5 +1,0 @@
-commit 2c5630adbfbd0fbfe81bf36c50012980a4e8132e
-Author: Jared Hirsch <ohai@6a68.net>
-Date:   Wed Jun 17 17:01:16 2020 -0700
-
-    chore(pm2): Add ISO timestamp to pm2 log lines

@@ -1,5 +1,0 @@
-commit cd8cbfad37302c4b8f2fbd1b7336fb42fbd96f15
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Mon Jun 1 19:30:28 2020 -0500
-
-    Add storybooks

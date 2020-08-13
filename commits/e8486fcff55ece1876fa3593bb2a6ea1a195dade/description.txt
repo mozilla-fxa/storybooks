@@ -1,8 +1,0 @@
-commit e8486fcff55ece1876fa3593bb2a6ea1a195dade
-Merge: 17e68843a de7b9770a
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Thu Jun 4 12:56:06 2020 -0400
-
-    Merge pull request #5547 from mozilla/fxa-1950, r=@jodyheavener
-    
-    feat(email): Update post verify email template

@@ -1,8 +1,0 @@
-commit 7da3683164c1526e737ca5d845e262f77f4662de
-Merge: 1c8959ae5 c41396112
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Thu May 28 11:51:44 2020 -0400
-
-    Merge pull request #5486 from mozilla/train-172-uplift-v2
-    
-    Merge Train 172 changes

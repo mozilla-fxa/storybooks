@@ -1,8 +1,0 @@
-commit e33aca8720547f2f3cf2e88fc2ac8984c8a2181f
-Merge: 8c117b589 da8366ec5
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Wed Jul 22 09:26:19 2020 -0400
-
-    Merge pull request #5773 from imskr/sk-fido2, r=@vbudhram
-    
-    feat(fido2): add fido2 support

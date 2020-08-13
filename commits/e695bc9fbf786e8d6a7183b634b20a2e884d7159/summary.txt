@@ -1,1 +1,0 @@
-fix(payments): de-dupe and correct some differing types between fxa-shared and fxa-payments-server Redux store

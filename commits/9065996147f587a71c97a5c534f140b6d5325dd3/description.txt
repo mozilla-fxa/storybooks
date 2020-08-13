@@ -1,8 +1,0 @@
-commit 9065996147f587a71c97a5c534f140b6d5325dd3
-Merge: 7bf15c459 28abf66a2
-Author: Ben Bangert <ben@groovie.org>
-Date:   Thu May 28 23:07:19 2020 -0700
-
-    Merge pull request #5487 from mozilla/feat/issue-5397
-    
-    feat(graphql-api): add profile/email mutations

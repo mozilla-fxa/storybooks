@@ -1,5 +1,0 @@
-commit ab231fa376124b27c1d3adf29218ad4dc5f17339
-Author: johngruen <john.gruen@gmail.com>
-Date:   Fri Jul 17 15:15:38 2020 +0200
-
-    chore(styles): make subscription icon background configurable as metadata

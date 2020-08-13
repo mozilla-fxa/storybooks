@@ -1,1 +1,0 @@
-Merge pull request #5829 from mozilla/5675-survey-z-index

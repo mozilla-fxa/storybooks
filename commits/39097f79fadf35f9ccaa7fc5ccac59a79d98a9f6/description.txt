@@ -1,6 +1,0 @@
-commit 39097f79fadf35f9ccaa7fc5ccac59a79d98a9f6
-Merge: bec2d3c79 237d38829
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Jun 25 10:41:34 2020 -0400
-
-    Merge pull request #5701 from mozilla/jh/storybook-design-guide

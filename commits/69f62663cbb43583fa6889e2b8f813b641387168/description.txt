@@ -1,5 +1,0 @@
-commit 69f62663cbb43583fa6889e2b8f813b641387168
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Jul 14 16:29:08 2020 -0700
-
-    test(l10n): follow-up test for #5948 (currency l10n)

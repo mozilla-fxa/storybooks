@@ -1,1 +1,0 @@
-Merge pull request #5405 from mozilla/1838-survey-rules-config

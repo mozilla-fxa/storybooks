@@ -1,5 +1,0 @@
-commit c44d000d30f4a6a1caba7ced2f4f76962724574a
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Jul 6 10:42:59 2020 -0400
-
-    feat(payments): add @svgr/webpack to storybook can properly compile svgs

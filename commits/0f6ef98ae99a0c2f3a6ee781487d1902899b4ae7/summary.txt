@@ -1,1 +1,0 @@
-Merge pull request #5406 from jackiemunroe/fxa-1875-bug-support-form-popup-text

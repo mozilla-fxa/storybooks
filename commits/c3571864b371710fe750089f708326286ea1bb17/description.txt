@@ -1,8 +1,0 @@
-commit c3571864b371710fe750089f708326286ea1bb17
-Merge: 2c552b034 8c0b2b0d3
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Thu Jun 11 11:00:43 2020 -0500
-
-    Merge pull request #5645 from mozilla/issues/4929
-    
-    feat(settings): Add AlertBar

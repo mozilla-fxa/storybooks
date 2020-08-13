@@ -1,1 +1,0 @@
-Merge pull request #5891 from mozilla/add-vpn-assets-to-cdn

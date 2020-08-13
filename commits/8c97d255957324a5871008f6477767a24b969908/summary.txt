@@ -1,1 +1,0 @@
-Merge pull request #5993 from mozilla/auth-client

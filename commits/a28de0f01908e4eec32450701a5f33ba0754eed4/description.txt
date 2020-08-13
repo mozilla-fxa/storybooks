@@ -1,8 +1,0 @@
-commit a28de0f01908e4eec32450701a5f33ba0754eed4
-Merge: c1abff95d e6bc1c9cd
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Thu May 28 11:34:42 2020 -0400
-
-    Merge pull request #5485 from mozilla/i500-details, r=@vbudhram
-    
-    feat(errors): add a details section for content-server 500 errors

@@ -1,5 +1,0 @@
-commit 469aca34bcdc0926fc4dab803c92a2af30ccd7f4
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Jun 16 18:13:01 2020 -0700
-
-    chore(deps): updated stragglers

@@ -1,5 +1,0 @@
-commit fafcd6fc50980d680944de3cb3e36aed982b03ee
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Jun 18 16:36:36 2020 -0400
-
-    Support static Storybook building

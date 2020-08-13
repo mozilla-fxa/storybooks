@@ -1,5 +1,0 @@
-commit deac4a7734cc652811e5e59ce81c90751cef49ee
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu May 28 09:37:37 2020 -0400
-
-    feat(settings): gql communication setup (w/ session), basic settings loading, and config setup

@@ -1,8 +1,0 @@
-commit 3b849fae46213a731f85a42c666f1c4e5e2f7427
-Merge: 284c23112 0366ffa84
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Wed May 27 14:42:21 2020 -0500
-
-    Merge pull request #5391 from mozilla/issues/5016
-    
-    feat(a11y settings): Improve modal a11y

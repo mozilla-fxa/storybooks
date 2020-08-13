@@ -1,1 +1,0 @@
-chore(styles): make subscription icon background configurable as metadata

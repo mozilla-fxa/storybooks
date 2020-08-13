@@ -1,1 +1,0 @@
-Merge pull request #5674 from mozilla/ci-test-report

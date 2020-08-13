@@ -1,8 +1,0 @@
-commit eb3c9dfd4472a75bf4db368658da74b11d177f25
-Merge: 6a7106a3f 06a02d586
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Mon Jun 1 10:46:27 2020 -0700
-
-    Merge pull request #5510 from lmorchard/5070-settings-redesign-amplitude-property
-    
-    feat(settings-redesign): add settings_version event property for fxa_pref amplitude events

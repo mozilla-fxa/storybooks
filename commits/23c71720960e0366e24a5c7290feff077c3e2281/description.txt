@@ -1,8 +1,0 @@
-commit 23c71720960e0366e24a5c7290feff077c3e2281
-Merge: b93687608 155c50c99
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu Jun 4 16:31:23 2020 -0700
-
-    Merge pull request #5556 from mozilla/issues/5533
-    
-    feat(css): watch and rebuild css on changes

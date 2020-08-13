@@ -1,5 +1,0 @@
-commit 3420b77b4e3cb982e3b16e92e5adc87790d6348a
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 8 03:12:37 2020 -0400
-
-    issue #5745: display error from confirmation failure directly

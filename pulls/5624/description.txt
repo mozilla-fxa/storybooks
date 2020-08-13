@@ -1,7 +1,0 @@
-commit c495177e88270ca6e0e1aaa11092d5a468f174b7
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Jun 9 16:02:24 2020 -0700
-
-    feat(auth): handle a password change requirement in login
-    
-    When a password change is required the lockedAt flag is set, currently by an external script. Until the password is changed all sessions for such an account must be verified. The 'password-change' verificationReason is returned in the response to tell the frontend to show the change password ui. The resetAccount db procedure resets the lockedAt value to null when the password is changed.

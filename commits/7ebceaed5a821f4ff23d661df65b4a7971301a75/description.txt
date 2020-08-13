@@ -1,8 +1,0 @@
-commit 7ebceaed5a821f4ff23d661df65b4a7971301a75
-Merge: 4a6382631 d1c14bcb3
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Wed Jun 10 14:50:36 2020 -0400
-
-    Merge pull request #5600 from mozilla/fxa-2069, r=@chenba, @jodyheavener
-    
-    feat(emails): Add password change required email

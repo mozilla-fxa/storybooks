@@ -1,5 +1,0 @@
-commit eb03d818a338b8af20b1bed512d07b73c8037d35
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Jun 15 15:30:53 2020 -0700
-
-    feat(ci): use store_test_results in circleci for content-server

@@ -1,1 +1,0 @@
-Merge pull request #5617 from mozilla/coolit

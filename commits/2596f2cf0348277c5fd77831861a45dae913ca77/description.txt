@@ -1,8 +1,0 @@
-commit 2596f2cf0348277c5fd77831861a45dae913ca77
-Merge: 1fd5bc762 f51341d78
-Author: Vlad Filippov <vlad.filippov@gmail.com>
-Date:   Thu Jun 18 13:49:26 2020 -0400
-
-    Merge pull request #4803 from mozilla/i4706
-    
-    refactor(oauth): drop the email column from codes, tokens and refreshTokens tables

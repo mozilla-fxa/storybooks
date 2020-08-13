@@ -1,1 +1,0 @@
-Merge pull request #5819 from chenba/2202-intl-polyfill

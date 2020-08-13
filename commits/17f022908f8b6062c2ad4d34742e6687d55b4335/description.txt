@@ -1,8 +1,0 @@
-commit 17f022908f8b6062c2ad4d34742e6687d55b4335
-Merge: 263941c1a a39a9498f
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Jul 16 11:02:32 2020 -0400
-
-    Merge pull request #5940 from mozilla/jh/5915/admin-email-clarification
-    
-    feat(admin): support secondary emails and query highlighting

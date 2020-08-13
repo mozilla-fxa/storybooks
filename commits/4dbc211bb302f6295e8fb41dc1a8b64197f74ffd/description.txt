@@ -1,8 +1,0 @@
-commit 4dbc211bb302f6295e8fb41dc1a8b64197f74ffd
-Merge: 889a32efa 14b0c2960
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Wed Jun 17 10:50:29 2020 -0400
-
-    Merge pull request #5625 from mozilla/fxa-2070, r=@chenba
-    
-    feat(password): Add force password screens

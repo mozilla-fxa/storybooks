@@ -1,8 +1,0 @@
-commit 57c7d9d799b67d1f1db3e13c3191648e058dba3b
-Merge: 8ba40c336 17f231127
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Jun 2 10:57:23 2020 -0700
-
-    Merge pull request #5519 from mozilla/content-react
-    
-    fix(content-server): fixed content-server build

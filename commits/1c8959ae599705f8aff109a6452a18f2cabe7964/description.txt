@@ -1,8 +1,0 @@
-commit 1c8959ae599705f8aff109a6452a18f2cabe7964
-Merge: a28de0f01 2ee5be5a6
-Author: Jared Hirsch <ohai@6a68.net>
-Date:   Thu May 28 08:51:20 2020 -0700
-
-    Merge pull request #5481 from mozilla/fxa-1233
-    
-    feat(aet): add ecosystem_anon_id field to auth server core profile data

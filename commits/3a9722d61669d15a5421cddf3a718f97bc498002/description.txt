@@ -1,5 +1,0 @@
-commit 3a9722d61669d15a5421cddf3a718f97bc498002
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Mon Jun 22 12:51:39 2020 -0500
-
-    Fill out the intro section

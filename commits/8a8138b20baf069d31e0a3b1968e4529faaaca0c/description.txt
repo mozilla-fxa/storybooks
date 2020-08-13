@@ -1,8 +1,0 @@
-commit 8a8138b20baf069d31e0a3b1968e4529faaaca0c
-Merge: def9937f2 a8ba87530
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Fri Jul 10 07:23:54 2020 -0500
-
-    Merge pull request #5910 from mozilla/train-179
-    
-    Release 1.179.0

@@ -1,8 +1,0 @@
-commit 7891a24fdf821f27f4ac4b2cf5f3afb821913051
-Merge: 99d507edd 4856a2895
-Author: John Morrison <jrgmorrison@gmail.com>
-Date:   Fri May 29 16:39:18 2020 -0700
-
-    Merge pull request #5509 from mozilla/fix-jrgm-tc-server-tests
-    
-    fix(tests): run-server npx yarn and then fxa-shared tsc --build

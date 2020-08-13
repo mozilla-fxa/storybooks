@@ -1,5 +1,0 @@
-commit 9be85cdff3cd2b438f8c22274bdcc44548edca8d
-Author: Ben Bangert <ben@groovie.org>
-Date:   Thu Jul 23 10:09:12 2020 -0700
-
-    Release 1.180.1

@@ -1,8 +1,0 @@
-commit 626168d442a1e79876025b40eb57f3322645e874
-Merge: 68d5f6caa 8a4bb4414
-Author: John Morrison <jrgmorrison@gmail.com>
-Date:   Thu May 28 13:49:54 2020 -0700
-
-    Merge pull request #5495 from mozilla/fix-jrgm-tc
-    
-    fix(tests): teamcity run.sh npx yarn workspaces focus fxa-content-server fxa-js-client

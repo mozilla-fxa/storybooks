@@ -1,8 +1,0 @@
-commit e3e70848c20f7ec370331c6b5060911bafee4f37
-Merge: bc4c7ac93 139ddb1fe
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Thu Jun 4 10:23:57 2020 -0500
-
-    Merge pull request #5545 from chenba/1938-dry-lazy-surveys
-    
-    feat(surveys): evaluate survey conditions for the rendering view only

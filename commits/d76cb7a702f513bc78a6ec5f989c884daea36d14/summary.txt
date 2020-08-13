@@ -1,1 +1,0 @@
-Merge pull request #5788 from mozilla/rm-es6-promise

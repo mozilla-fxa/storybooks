@@ -1,1 +1,0 @@
-Merge pull request #5701 from mozilla/jh/storybook-design-guide

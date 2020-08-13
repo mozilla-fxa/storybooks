@@ -1,5 +1,0 @@
-commit 6e45506319c7806fdbe63c9859834807eeedb8d1
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Jul 20 19:40:24 2020 -0700
-
-    rm fxa-js-client

@@ -1,5 +1,0 @@
-commit 7973649fab04d4a4e9696c403523f4b0ba0d8261
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu Jun 11 14:36:23 2020 -0700
-
-    feat(dev): handle skip ci label to skip tests

@@ -1,8 +1,0 @@
-commit 4213a6f47799e9eb6e872383ab48ff8d430b5faa
-Merge: 0c6f46701 de82e10d3
-Author: Ben Bangert <ben@groovie.org>
-Date:   Tue Jul 7 16:50:31 2020 -0700
-
-    Merge pull request #5872 from mozilla/feat/issue-5849
-    
-    feat(auth-server): add stripe object filtering

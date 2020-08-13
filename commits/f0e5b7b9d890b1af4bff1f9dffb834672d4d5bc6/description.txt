@@ -1,9 +1,0 @@
-commit f0e5b7b9d890b1af4bff1f9dffb834672d4d5bc6
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Fri May 29 11:45:54 2020 -0400
-
-    feat(admin-panel+settings+react): set up storybook and tailwind for admin-panel, share tailwind config across all projects, config movement
-    
-    compile tailwind for use in fxa-react, fxa-settings, and fxa-admin-panel
-    
-    add script to tailwind configs to only apply postcss output to fxa-react components being used in a given project

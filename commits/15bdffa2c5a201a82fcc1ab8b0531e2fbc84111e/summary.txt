@@ -1,1 +1,0 @@
-Merge pull request #5572 from lmorchard/5536-proration-amount

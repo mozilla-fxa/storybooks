@@ -1,8 +1,0 @@
-commit e18d2bd8dc7e4e2c9b3b5e251b5fbf5639e67fb9
-Merge: e6fafda68 adb832f79
-Author: Ben Bangert <ben@groovie.org>
-Date:   Mon Jun 8 13:52:52 2020 -0700
-
-    Merge pull request #5578 from mozilla/feat/issue-5398
-    
-    feat(gql-api): add attached client revoke

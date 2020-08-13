@@ -1,5 +1,0 @@
-commit e2e6ae2428329925d2e63e64869501169da5b4b9
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Mon Jul 6 18:41:27 2020 -0400
-
-    issue #5745: progress separate from paymentformv2

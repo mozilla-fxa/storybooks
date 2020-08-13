@@ -1,1 +1,0 @@
-fix(surveys): Provide context to screenreaders when entering the survey

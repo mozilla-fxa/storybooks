@@ -1,1 +1,0 @@
-task(payments-server): l10n msg 4 required fields

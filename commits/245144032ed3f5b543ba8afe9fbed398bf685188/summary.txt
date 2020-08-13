@@ -1,1 +1,0 @@
-Merge pull request #5571 from mozilla/admin-panel-style-tweak

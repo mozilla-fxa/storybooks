@@ -1,1 +1,0 @@
-feat(payments): use SetupIntent API for SCA payment update

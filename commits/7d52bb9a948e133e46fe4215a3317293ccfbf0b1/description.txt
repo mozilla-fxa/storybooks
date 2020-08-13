@@ -1,8 +1,0 @@
-commit 7d52bb9a948e133e46fe4215a3317293ccfbf0b1
-Merge: d8a774600 01db98af8
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Jul 13 14:33:14 2020 -0400
-
-    Merge pull request #5923 from mozilla/jh/pr-template-updates
-    
-    chore(github): minor updates to pull request template

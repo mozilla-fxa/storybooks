@@ -1,8 +1,0 @@
-commit 7b75a5b1d7ec8c29c06134d701f93505db9ed0c4
-Merge: 6ae8df3cd f7376c705
-Author: Wil Clouser <wclouser@mozilla.com>
-Date:   Wed Jul 8 09:56:31 2020 -0700
-
-    Merge pull request #5891 from mozilla/add-vpn-assets-to-cdn
-    
-    chore(cdn): add vpn assets

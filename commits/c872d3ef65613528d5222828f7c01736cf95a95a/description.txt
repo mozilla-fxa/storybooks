@@ -1,8 +1,0 @@
-commit c872d3ef65613528d5222828f7c01736cf95a95a
-Merge: f8247009d ff592f0de
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Tue Jul 28 23:45:54 2020 -0400
-
-    Merge pull request #6043 from mozilla/jh/6017/handle-aet-update-fail
-    
-    feat(aet): handle generateEcosystemAnonId update failure

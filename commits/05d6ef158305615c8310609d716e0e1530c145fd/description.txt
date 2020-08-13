@@ -1,8 +1,0 @@
-commit 05d6ef158305615c8310609d716e0e1530c145fd
-Merge: d84627102 6b2817090
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jun 24 11:41:49 2020 -0700
-
-    Merge pull request #5746 from mozilla/5174-email-footer-links-from-metadata
-    
-    feat(auth-server): use ToS & privacy links from Stripe metadata in subplat emails

@@ -1,8 +1,0 @@
-commit 0b79117dbca90c0fca695df33d3ec18af5bfdb8c
-Merge: bbd2f100f c495177e8
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Wed Jun 10 19:11:04 2020 -0700
-
-    Merge pull request #5624 from mozilla/auth-require-pw-change
-    
-    feat(auth): handle a password change requirement in login

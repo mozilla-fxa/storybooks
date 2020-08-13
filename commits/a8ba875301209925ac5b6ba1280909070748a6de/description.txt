@@ -1,5 +1,0 @@
-commit a8ba875301209925ac5b6ba1280909070748a6de
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Thu Jul 9 11:51:52 2020 -0500
-
-    Release 1.179.0

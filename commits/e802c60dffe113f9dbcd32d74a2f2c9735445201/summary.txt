@@ -1,1 +1,0 @@
-Merge pull request #5472 from mozilla/fix-access-token-expire-logging-trace

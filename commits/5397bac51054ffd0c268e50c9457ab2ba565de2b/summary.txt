@@ -1,1 +1,0 @@
-Merge pull request #6063 from mozilla/payment-server-fxa-shared-dep

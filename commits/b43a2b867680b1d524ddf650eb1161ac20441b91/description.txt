@@ -1,8 +1,0 @@
-commit b43a2b867680b1d524ddf650eb1161ac20441b91
-Merge: e9211f3b7 44598a3f2
-Author: Jared Hirsch <ohai@6a68.net>
-Date:   Thu Jul 30 08:19:32 2020 -0700
-
-    Merge pull request #6081 from mozilla/log-anonid-update
-    
-    fix(aet): When the eco_anon_id is updated, log the old and new values

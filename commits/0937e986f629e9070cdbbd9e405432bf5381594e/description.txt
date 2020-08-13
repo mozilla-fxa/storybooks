@@ -1,8 +1,0 @@
-commit 0937e986f629e9070cdbbd9e405432bf5381594e
-Merge: 2a96bdc3c c44d000d3
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Jul 6 14:25:43 2020 -0400
-
-    Merge pull request #5861 from mozilla/jh/5753/storybook-svgs
-    
-    feat(payments): add @svgr/webpack to storybook can properly compile svgs

@@ -1,5 +1,0 @@
-commit 881e10b9808927f26a1d056ac5ae25db2abee672
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Jun 26 15:29:53 2020 -0700
-
-    chore(deps): update deps

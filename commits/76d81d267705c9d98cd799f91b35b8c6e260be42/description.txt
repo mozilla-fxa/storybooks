@@ -1,8 +1,0 @@
-commit 76d81d267705c9d98cd799f91b35b8c6e260be42
-Merge: 14719f494 76c58e4b1
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jun 24 15:49:14 2020 -0700
-
-    Merge pull request #5690 from mozilla/5683-use-await-hook
-    
-    feat(react): introduce useAwait hook

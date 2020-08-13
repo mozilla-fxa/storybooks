@@ -1,1 +1,0 @@
-fix(surveys): Remove aria-hidden attribute from survey component

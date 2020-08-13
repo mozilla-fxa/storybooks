@@ -1,8 +1,0 @@
-commit 5046949e765a001e668dba8ac166e469f59c8aa6
-Merge: 1aaaf986c 28ebf9572
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Tue Jul 14 09:40:55 2020 -0700
-
-    Merge pull request #5935 from lmorchard/5875-legal-pdf-vs-html
-    
-    feat(payments): Support new download URLs for legal links in emails

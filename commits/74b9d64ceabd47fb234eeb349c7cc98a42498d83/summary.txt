@@ -1,1 +1,0 @@
-Merge pull request #5911 from mozilla/jh/4332/profile-auth-anonid-howdy

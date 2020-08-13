@@ -1,8 +1,0 @@
-commit c1ee3fca7db412823f2ecfc1dc8f9bc549bb398b
-Merge: b1d57a3af 734b5a723
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Tue Jun 16 14:11:40 2020 -0400
-
-    Merge pull request #5679 from mozilla/fix-code-cov, r=@dannycoates
-    
-    fix(coverage): disable codecov requirement for passing ci

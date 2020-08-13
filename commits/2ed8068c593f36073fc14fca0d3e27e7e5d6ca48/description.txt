@@ -1,8 +1,0 @@
-commit 2ed8068c593f36073fc14fca0d3e27e7e5d6ca48
-Merge: 67f3807b0 36f4ac13f
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Jun 26 11:11:32 2020 -0700
-
-    Merge pull request #5785 from mozilla/shared-postinstall
-    
-    fix(l10n): fixed l10n-extract script

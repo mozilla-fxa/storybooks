@@ -1,8 +1,0 @@
-commit 860f00d7ceecc369cca9d2bbef148b484933f1da
-Merge: dd152b9d0 e5f5d911a
-Author: Ben Bangert <ben@groovie.org>
-Date:   Thu Jul 2 17:53:45 2020 -0700
-
-    Merge pull request #5848 from mozilla/feat/issue-5498
-    
-    feat: add new stripe methods for payment method id

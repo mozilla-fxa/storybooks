@@ -1,8 +1,0 @@
-commit ab0eb5ab89d3fdf5597a87af194a6905e2ed894c
-Merge: d4fb60db3 0765cfe12
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Tue Jul 21 11:34:53 2020 -0500
-
-    Merge pull request #5996 from mozilla/issues/4320
-    
-    feat(AET): Pass ecosystem anon ID public keys through account model and expose to client

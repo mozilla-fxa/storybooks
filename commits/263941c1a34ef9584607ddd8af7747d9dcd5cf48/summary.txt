@@ -1,1 +1,0 @@
-Merge pull request #5946 from mozilla/jh/5944/admin-observatory-recs

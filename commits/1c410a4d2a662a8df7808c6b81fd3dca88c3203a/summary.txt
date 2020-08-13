@@ -1,1 +1,0 @@
-Merge pull request #5652 from mozilla/bug-1639838; r=rfk

@@ -1,8 +1,0 @@
-commit 9d2e15e43a005d4e27fae073ecde6310bd2aa9b2
-Merge: 0c200e52c 69039d363
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Wed Jun 24 10:39:06 2020 -0700
-
-    Merge pull request #5734 from byrw/issue-876
-    
-    fix(content-server): clean the input values before navigating

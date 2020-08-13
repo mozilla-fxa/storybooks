@@ -1,8 +1,0 @@
-commit b4868b211a4d996355866d535127aecab9a60c82
-Merge: d76cb7a70 56d735061
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Fri Jun 26 16:47:47 2020 -0500
-
-    Merge pull request #5789 from chenba/2181-add-en-US-locale
-    
-    chore(l10n): add en-US to shared list of supported locales

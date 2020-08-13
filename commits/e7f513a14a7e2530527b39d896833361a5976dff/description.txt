@@ -1,8 +1,0 @@
-commit e7f513a14a7e2530527b39d896833361a5976dff
-Merge: 074299ae2 90be4337c
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Mon Jun 1 17:41:16 2020 -0400
-
-    Merge pull request #5333 from mozilla/integrating-surveys-content-server
-    
-    Integrating surveys content server

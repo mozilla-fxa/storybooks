@@ -1,5 +1,0 @@
-commit 0e690a2c633e13df8cffce22bdf75a63d2ce0156
-Author: Jody Heavener <jheavener@mozilla.com>
-Date:   Thu Jun 4 12:57:22 2020 -0400
-
-    Release 1.174.0

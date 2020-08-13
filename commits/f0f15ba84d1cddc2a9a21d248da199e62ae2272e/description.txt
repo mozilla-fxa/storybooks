@@ -1,5 +1,0 @@
-commit f0f15ba84d1cddc2a9a21d248da199e62ae2272e
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed May 27 17:11:57 2020 -0400
-
-    squash! fix svgs for storybook, couple other things

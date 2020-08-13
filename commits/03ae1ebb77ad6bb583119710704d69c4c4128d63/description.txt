@@ -1,5 +1,0 @@
-commit 03ae1ebb77ad6bb583119710704d69c4c4128d63
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 8 02:08:02 2020 -0400
-
-    issue #5745: simplify stories; tweak error messages

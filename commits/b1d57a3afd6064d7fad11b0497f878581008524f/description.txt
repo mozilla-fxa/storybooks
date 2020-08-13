@@ -1,8 +1,0 @@
-commit b1d57a3afd6064d7fad11b0497f878581008524f
-Merge: fe1a36a22 e06b3f5b3
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Tue Jun 16 11:32:23 2020 -0400
-
-    Merge pull request #5668 from mozilla/jh/better-settings-config-v2
-    
-    feat(settings | content server): inject server config into settings requests

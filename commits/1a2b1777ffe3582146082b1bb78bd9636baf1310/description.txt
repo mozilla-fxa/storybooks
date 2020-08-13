@@ -1,8 +1,0 @@
-commit 1a2b1777ffe3582146082b1bb78bd9636baf1310
-Merge: e34c7b0fa 00cfaa181
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Wed Jun 10 10:11:46 2020 -0500
-
-    Merge pull request #5623 from chenba/1960-survey-rate
-    
-    feat(surveys): add "rate" configuration

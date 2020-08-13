@@ -1,1 +1,0 @@
-feat(auth-server): use ToS & privacy links from Stripe metadata in subplat emails

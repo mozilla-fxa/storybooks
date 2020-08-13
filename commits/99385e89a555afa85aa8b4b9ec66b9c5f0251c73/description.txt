@@ -1,9 +1,0 @@
-commit 99385e89a555afa85aa8b4b9ec66b9c5f0251c73
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri May 29 14:53:35 2020 -0700
-
-    fix(auth): fixed test-local.sh in fxa-auth-server
-    
-    with hoisted eslint dependency `npm run lint` can't find
-    eslint on the path. We've got linting globally as a precommit
-    hook, it doesn't need to run on tests.

@@ -1,8 +1,0 @@
-commit 331be14cb71a4977952fbd4590c98d7f9b56ed77
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Tue Jun 16 10:52:17 2020 -0400
-
-    feat(fxa-settings): add a design guide to storybook
-    
-    Co-authored-by: Jody Heavener <j.heavener@gmail.com>
-    Co-authored-by: Lauren Zugai <lauren@zugai.com>

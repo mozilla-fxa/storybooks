@@ -1,8 +1,0 @@
-commit b0c80f64452e0b1228b2ca0ab265e22b555a96d8
-Merge: 74c86747e d35048e92
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Mon Jul 20 14:17:28 2020 -0700
-
-    Merge pull request #5972 from mozilla/5903-subscription-emails-no-payment
-    
-    fix(payments): subscription emails should work without payment methods

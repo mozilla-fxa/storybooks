@@ -1,1 +1,0 @@
-fix(payments): filter "synthetic" locales out of the fetch list

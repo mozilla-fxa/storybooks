@@ -1,8 +1,0 @@
-commit d33a26a6cba8e6625a6b3cc2566db15ec1c54266
-Merge: 280186971 27cd24c63
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Jun 29 10:19:44 2020 -0700
-
-    Merge pull request #5791 from mozilla/udeps
-    
-    chore(deps): update deps

@@ -1,6 +1,0 @@
-commit a48bc6461664e0871ccb6e23149efe83dce490ac
-Merge: 7f8df230d 2d566e40d
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Fri Jun 26 12:20:04 2020 -0400
-
-    Merge pull request #5779 from mozilla/jh/5614/stage-post-verify-links

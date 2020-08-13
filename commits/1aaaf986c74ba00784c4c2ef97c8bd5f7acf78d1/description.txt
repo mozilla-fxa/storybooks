@@ -1,8 +1,0 @@
-commit 1aaaf986c74ba00784c4c2ef97c8bd5f7acf78d1
-Merge: 86919a7cf 90e2c097b
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Tue Jul 14 09:38:35 2020 -0700
-
-    Merge pull request #5936 from mozilla/5873-remove-legal-links-payment-update
-    
-    fix(payments): remove legal links from footer of payment update form

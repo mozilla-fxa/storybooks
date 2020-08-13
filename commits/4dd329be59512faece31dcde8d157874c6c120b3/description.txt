@@ -1,8 +1,0 @@
-commit 4dd329be59512faece31dcde8d157874c6c120b3
-Merge: 531fde76c 2e4854c86
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Thu Jun 25 12:17:25 2020 -0400
-
-    Merge pull request #5761 from mozilla/fix-circle
-    
-    fix(cov): code cov will display coverage but always pass

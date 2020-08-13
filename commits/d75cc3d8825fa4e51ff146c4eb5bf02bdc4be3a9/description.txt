@@ -1,8 +1,0 @@
-commit d75cc3d8825fa4e51ff146c4eb5bf02bdc4be3a9
-Merge: b7ba831c0 13bd6798f
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed Jul 22 13:29:50 2020 -0400
-
-    Merge pull request #6011 from mozilla/jh/5976/ios-avatar-upload
-    
-    refactor(avatars): move file size validation to post-crop

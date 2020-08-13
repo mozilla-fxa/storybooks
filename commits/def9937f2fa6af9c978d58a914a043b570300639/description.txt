@@ -1,8 +1,0 @@
-commit def9937f2fa6af9c978d58a914a043b570300639
-Merge: 8606b1c14 cbe376905
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu Jul 9 16:11:13 2020 -0700
-
-    Merge pull request #5913 from mozilla/no-swp
-    
-    fix(lint): lol @ .swp in git

@@ -1,1 +1,0 @@
-Merge pull request #6022 from mozilla/update-ecosystem-endpoint

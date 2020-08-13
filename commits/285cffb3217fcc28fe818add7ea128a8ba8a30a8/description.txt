@@ -1,8 +1,0 @@
-commit 285cffb3217fcc28fe818add7ea128a8ba8a30a8
-Merge: 478f51308 69fa047b2
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Jul 13 15:01:58 2020 -0400
-
-    Merge pull request #5925 from mozilla/jh/5918/remove-dupe-sub-code
-    
-    refactor(auth): remove redundant subscription code

@@ -1,1 +1,0 @@
-feat(admin): set referrer-policy header, form-action csp directive

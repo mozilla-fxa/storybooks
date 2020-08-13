@@ -1,1 +1,0 @@
-Merge pull request #5546 from mozilla/device-commands-delivery-funnel; r=6a68,vladikoff

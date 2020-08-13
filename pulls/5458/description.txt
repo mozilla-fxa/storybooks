@@ -1,9 +1,0 @@
-commit b2a456ac16d3e3535dc34ad142174491f9622546
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue May 26 16:27:22 2020 -0700
-
-    chore(build): updated payments-server test-ci.sh
-    
-    fixes #5428
-    
-    It looks like fxa-content-server was the missing dep.

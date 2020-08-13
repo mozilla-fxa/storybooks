@@ -1,1 +1,0 @@
-Merge pull request #5752 from mozilla/fortress-and-payment-improve

@@ -1,8 +1,0 @@
-commit ff21fb4ffdb1b1192abd6b87894330c7639a9f0a
-Merge: ee3b63106 8a271e2fa
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Wed May 27 14:28:42 2020 -0400
-
-    Merge pull request #5405 from mozilla/1838-survey-rules-config
-    
-    1838 survey rules config

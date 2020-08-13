@@ -1,5 +1,0 @@
-commit a2a028b250722bc752984d6bf158192ad2909a96
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Jun 9 10:15:42 2020 -0700
-
-    fix(css): stop the endless css rebuilds

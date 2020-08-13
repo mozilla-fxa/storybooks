@@ -1,5 +1,0 @@
-commit 0a8022757552a3c0958417146d2cd50ad6296bd9
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Fri Jun 12 15:12:28 2020 -0400
-
-    feat(settings | content server): inject server config into settings requests

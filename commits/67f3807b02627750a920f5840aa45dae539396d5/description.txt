@@ -1,8 +1,0 @@
-commit 67f3807b02627750a920f5840aa45dae539396d5
-Merge: a48bc6461 39345629b
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Jun 26 10:46:18 2020 -0700
-
-    Merge pull request #5784 from mozilla/shared-postinstall
-    
-    fix(build): added postinstall to fxa-shared

@@ -1,8 +1,0 @@
-commit 1a188043c28c5ab418bd541eaf6a94cb95d8f789
-Merge: 278ae8208 6dd797aa0
-Author: Vlad Filippov <vlad.filippov@gmail.com>
-Date:   Tue Jun 9 12:49:55 2020 -0400
-
-    Merge pull request #5616 from mozilla/dockerpush.test-circle-deploy
-    
-    fix(ci): bring back feature. and dockerpush. branch deploys

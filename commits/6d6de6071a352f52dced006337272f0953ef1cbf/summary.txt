@@ -1,1 +1,0 @@
-feat(tailwind): add script to tailwind configs to only apply postcss output to fxa-react components being used in a given project

@@ -1,8 +1,0 @@
-commit b1803b301dc1b5208f076c0d3e1b743a008e0d10
-Merge: 562a733ba c0642d514
-Author: Ben Bangert <ben@groovie.org>
-Date:   Wed Jul 15 12:29:32 2020 -0700
-
-    Merge pull request #5951 from mozilla/feat/issue-5902
-    
-    feat(auth-server): use payment method on file for card

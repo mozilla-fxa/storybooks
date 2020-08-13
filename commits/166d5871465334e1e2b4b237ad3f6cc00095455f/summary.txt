@@ -1,1 +1,0 @@
-Merge pull request #5816 from mozilla/jh/5640/survey-send-matches

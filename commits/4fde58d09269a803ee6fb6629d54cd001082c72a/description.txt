@@ -1,8 +1,0 @@
-commit 4fde58d09269a803ee6fb6629d54cd001082c72a
-Merge: e2d4404eb 31c8d650a
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu Jul 30 09:18:29 2020 -0700
-
-    Merge pull request #6084 from mozilla/shared-exports
-    
-    fix(auth): added exports to fxa-shared package.json

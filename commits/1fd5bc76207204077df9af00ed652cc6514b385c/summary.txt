@@ -1,1 +1,0 @@
-Merge pull request #5696 from mozilla/fix/issue-5380

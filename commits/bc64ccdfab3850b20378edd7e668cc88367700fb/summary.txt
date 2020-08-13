@@ -1,1 +1,0 @@
-issue #5745: display error from confirmation failure directly

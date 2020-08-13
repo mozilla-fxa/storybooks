@@ -1,1 +1,0 @@
-Merge pull request #5758 from mozilla/i2344-v11, r=@dannycoates

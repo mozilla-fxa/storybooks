@@ -1,1 +1,0 @@
-Merge pull request #5789 from chenba/2181-add-en-US-locale

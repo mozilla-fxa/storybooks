@@ -1,8 +1,0 @@
-commit 29f7bc3ff6409a9e0487d2d6139e340545956a0c
-Merge: 6bb03e7ec e695bc9fb
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Tue Jul 28 10:59:02 2020 -0700
-
-    Merge pull request #6053 from mozilla/6005-download-tos-link
-    
-    feat(payments): Add "Download Terms" link to terms and privacy component

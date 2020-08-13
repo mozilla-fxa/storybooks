@@ -1,8 +1,0 @@
-commit 245144032ed3f5b543ba8afe9fbed398bf685188
-Merge: 37fd1e484 9768acaf6
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Tue Jun 9 15:49:59 2020 -0500
-
-    Merge pull request #5571 from mozilla/admin-panel-style-tweak
-    
-    fix(admin-panel): Adjust input height

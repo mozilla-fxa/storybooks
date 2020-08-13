@@ -1,1 +1,0 @@
-Merge pull request #5808 from lmorchard/5733-payment-no-legal-links-without-plan

@@ -1,7 +1,0 @@
-commit 2938d5c6a5217af800c5605fc42511b19aaa6cf2
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed May 27 16:04:06 2020 -0400
-
-    feat(storybooks): Switch Storybook notification from comment post to commit status check
-    
-    fixes #5474

@@ -1,5 +1,0 @@
-commit 504230b54c99c796af0fd670e44bb02fbc983445
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Jul 8 03:40:12 2020 -0400
-
-    issue #5745: small tweaks

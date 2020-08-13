@@ -1,8 +1,0 @@
-commit 336d5f2f2d8c2d467eae45b2f785a3df6392824b
-Merge: 2e7a31834 4b80ae3de
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed Jul 29 16:52:02 2020 -0400
-
-    Merge pull request #6071 from mozilla/jh/moar-changelog
-    
-    chore(releases): add missing CHANGELOG files, mod release script to update them

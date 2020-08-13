@@ -1,8 +1,0 @@
-commit babfd7547e4fc7f87b3928e9fc7735dd5993ed42
-Merge: 240c5f4cc d8fe8116f
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Wed Jul 1 13:21:14 2020 -0400
-
-    Merge pull request #5813 from mozilla/train-177
-    
-    Train 177

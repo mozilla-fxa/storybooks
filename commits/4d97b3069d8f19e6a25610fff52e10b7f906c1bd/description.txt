@@ -1,8 +1,0 @@
-commit 4d97b3069d8f19e6a25610fff52e10b7f906c1bd
-Merge: b131af27f 6d41b566d
-Author: Ben Bangert <ben@groovie.org>
-Date:   Tue Jun 23 12:45:33 2020 -0700
-
-    Merge pull request #5724 from mozilla/5584-confirm-legal-links
-    
-    feat(payments): Add legal doc links to payment confirmation checkbox label

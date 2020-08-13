@@ -1,8 +1,0 @@
-commit 3b01d0e4982e99cf22fdb40435aa3b30347c3ced
-Merge: 9ddbef685 b2a456ac1
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Wed May 27 07:35:54 2020 -0700
-
-    Merge pull request #5458 from mozilla/payments-build
-    
-    chore(build): updated payments-server test-ci.sh

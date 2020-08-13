@@ -1,7 +1,0 @@
-commit 4aab0ce02ceb24f7480c652d8b8f8c609f078fc5
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Jun 15 13:54:09 2020 -0700
-
-    feat(ci): use store_test_results in circleci for auth-server
-    
-    this might help us keep track of flaky tests over time

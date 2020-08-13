@@ -1,1 +1,0 @@
-issue #5745: lots of rework and deletion

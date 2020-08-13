@@ -1,1 +1,0 @@
-feat(payments): new subscription payment page with card authentication support

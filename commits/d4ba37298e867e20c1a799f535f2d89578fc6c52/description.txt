@@ -1,8 +1,0 @@
-commit d4ba37298e867e20c1a799f535f2d89578fc6c52
-Merge: 906599614 58358b5c6
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri May 29 12:54:28 2020 -0700
-
-    Merge pull request #5505 from mozilla/train-173
-    
-    Release 1.173.0

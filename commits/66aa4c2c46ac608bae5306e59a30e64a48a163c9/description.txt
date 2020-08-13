@@ -1,5 +1,0 @@
-commit 66aa4c2c46ac608bae5306e59a30e64a48a163c9
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Jun 18 14:39:37 2020 -0400
-
-    small improvements

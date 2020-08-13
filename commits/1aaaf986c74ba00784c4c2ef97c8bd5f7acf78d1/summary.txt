@@ -1,1 +1,0 @@
-Merge pull request #5936 from mozilla/5873-remove-legal-links-payment-update

@@ -1,5 +1,0 @@
-commit 6eb2f16c73f9f8ccbe67319fb28c95e755cd9467
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Thu Jul 9 16:41:05 2020 -0400
-
-    issue #5745: cleaning up my own review nits from PR #5907

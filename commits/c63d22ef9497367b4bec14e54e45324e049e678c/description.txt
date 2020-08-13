@@ -1,8 +1,0 @@
-commit c63d22ef9497367b4bec14e54e45324e049e678c
-Merge: 4ded94556 6a1bf9ce3
-Author: Jackie Munroe <jackiemunroe@users.noreply.github.com>
-Date:   Wed Jul 1 09:42:03 2020 -0700
-
-    Merge pull request #5810 from jackiemunroe/fxa-2154_convert_legal_docs
-    
-    chore (fxa script): create script to convert legal markdown files to pdfs

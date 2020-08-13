@@ -1,8 +1,0 @@
-commit 074299ae28944127becdf0b420a8cb2299f00c53
-Merge: 4d95389ca 6c1b7c894
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Mon Jun 1 15:13:23 2020 -0400
-
-    Merge pull request #5515 from mozilla/fxa-1966, r=@dannycoates
-    
-    Fixes #5427

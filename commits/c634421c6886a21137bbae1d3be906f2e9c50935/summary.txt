@@ -1,1 +1,0 @@
-feat(storybooks): build storybooks for CI and deploy to mozilla-fxa/storybooks
