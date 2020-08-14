@@ -1,0 +1,8 @@
+commit 98c20178d7652f6d5874caf999def4e0f2fcd3cd
+Merge: 2486ec4c8 aaa549ed6
+Author: Ben Bangert <ben@groovie.org>
+Date:   Fri Aug 14 15:04:05 2020 -0700
+
+    Merge pull request #6203 from mozilla/chore/update-shared
+    
+    chore: dependency updates
