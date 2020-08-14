@@ -1,0 +1,1 @@
+Merge pull request #6201 from mozilla/chore/dep-update-support-panel

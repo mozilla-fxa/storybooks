@@ -1,0 +1,8 @@
+commit c69c1ae91a3e6a6e17b5cdd76e0680e11f3e4744
+Merge: 0b2b64d6e 03faca14c
+Author: Ben Bangert <ben@groovie.org>
+Date:   Fri Aug 14 10:54:47 2020 -0700
+
+    Merge pull request #6201 from mozilla/chore/dep-update-support-panel
+    
+    chore(support-panel): update dependencies
