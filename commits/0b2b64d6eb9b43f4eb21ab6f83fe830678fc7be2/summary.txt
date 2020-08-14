@@ -1,0 +1,1 @@
+Merge pull request #6200 from mozilla/chore/update-deps-eb
