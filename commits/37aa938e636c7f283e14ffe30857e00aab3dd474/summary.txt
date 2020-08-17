@@ -1,0 +1,1 @@
+Merge pull request #6205 from mozilla/chore/update-typescript
