@@ -1,0 +1,8 @@
+commit 60480a3a2bb01f00507b97ea3ddbc7690b839959
+Merge: f0a072579 4bf882993
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Aug 17 14:01:43 2020 -0700
+
+    Merge pull request #6206 from mozilla/jh/settings-ui-basics
+    
+    feat(settings): various ui components
