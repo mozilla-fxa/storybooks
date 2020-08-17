@@ -1,0 +1,8 @@
+commit e31da3692de9e04a91e79c1432a1ae7c45fd1c4d
+Merge: 37aa938e6 ce7c2382c
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Aug 17 09:57:32 2020 -0700
+
+    Merge pull request #6211 from mozilla/issues/6204
+    
+    feat(graphql): add new settings mutations
