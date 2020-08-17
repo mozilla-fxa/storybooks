@@ -1,0 +1,16 @@
+commit 82dd8c85da3132bcc6fec7115714150d21b9ca1b
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Mon Aug 17 17:51:19 2020 -0400
+
+    refactor(settings): ui component followups
+    
+    Because:
+    
+    - There were still a few outstanding items to address as part of #6206
+    
+    This commit:
+    
+    - Eliminates all component `readerText` props. We determined they didn't add a substantial amount of value, and any accompanying a11y content can be implemented on a case-by-case basis.
+    - As a result of removing readerText I also refactored the the usage of component IDs and was able to eliminate the UUID dependency.
+    - Makes `DataBlock` only copyable. We currently don't have a need for a read-only version.
+    - Further cleans up some leftover event handlers and weird syntax in the new components.
