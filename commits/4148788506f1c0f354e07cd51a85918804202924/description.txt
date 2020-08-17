@@ -1,0 +1,8 @@
+commit 4148788506f1c0f354e07cd51a85918804202924
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Aug 17 13:41:38 2020 -0700
+
+    refactor(settings): a few adjustments to FlowContainer
+    
+    Make the back arrow navigate back in history.
+    A couple style adjustments.
