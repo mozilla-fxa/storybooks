@@ -1,0 +1,8 @@
+commit a55097f4004a06a9ffae963e6d23c3c795a28b8c
+Merge: e31da3692 6d145b4a8
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Mon Aug 17 13:05:08 2020 -0400
+
+    Merge pull request #6179 from mozilla/primary-email-bug, r=@dannycoates
+    
+    fix(email): Lookup account by `originalLoginEmail` if present
