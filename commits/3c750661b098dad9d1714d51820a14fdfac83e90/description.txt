@@ -1,0 +1,8 @@
+commit 3c750661b098dad9d1714d51820a14fdfac83e90
+Merge: 7ea80fe3f 2ef597e39
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Tue Aug 18 19:01:14 2020 -0400
+
+    Merge pull request #6230 from mozilla/jh/6217/safari-email-keychain
+    
+    fix(content server): make safari save the correct fields in keychain
