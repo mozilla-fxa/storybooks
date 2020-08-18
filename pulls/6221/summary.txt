@@ -1,0 +1,1 @@
+chore(docs): Update fxa-settings docs
