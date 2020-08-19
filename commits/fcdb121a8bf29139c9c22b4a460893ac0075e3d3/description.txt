@@ -1,0 +1,8 @@
+commit fcdb121a8bf29139c9c22b4a460893ac0075e3d3
+Merge: 97e734090 b8f0cac20
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Aug 19 12:15:20 2020 -0700
+
+    Merge pull request #6232 from mozilla/feat/issue-2348
+    
+    feat(auth-server): remove sources on payment update
