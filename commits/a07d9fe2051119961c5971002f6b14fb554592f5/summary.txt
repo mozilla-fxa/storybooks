@@ -1,0 +1,1 @@
+Merge pull request #6229 from mozilla/fix-pairing-metric, r=@vladikoff
