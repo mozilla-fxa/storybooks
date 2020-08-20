@@ -1,0 +1,1 @@
+feat(settings): implement remove recovery key on new settings
