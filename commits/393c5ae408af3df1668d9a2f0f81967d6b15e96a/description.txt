@@ -1,0 +1,20 @@
+commit 393c5ae408af3df1668d9a2f0f81967d6b15e96a
+Merge: 441da8c01 141414e16
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Aug 20 12:14:45 2020 -0400
+
+    Merge pull request #6243 from mozilla/fxa-2406, r=@dannycoates, @lmorchard
+    
+    ## Because
+    
+    - When an account is deleted by an oauth webchannel client, it should be the responsibility of the client to navigate the user to the correct screens (which may or may not be a webview)
+    - Oauth webchannel clients need to be loaded with specific oauth params in order for an account to be created, in the previous delete account flow. If an account is deleted, and then navigated back to the signup page, it might not have the correct query params to re-create the account.
+    
+    ## This pull request
+    
+    - Emits the proper `fxaccounts:delete_account` web channel message when an account is deleted in any oauth webchannel broker
+    - FxiOS currently handles these messages by dismissing the current view and going to the view behind it
+    
+    ## Issue that this pull request solves
+    
+    Closes: #6164
