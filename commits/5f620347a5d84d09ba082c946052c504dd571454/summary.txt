@@ -1,0 +1,1 @@
+Merge pull request #6224 from mozilla/delete-recovery
