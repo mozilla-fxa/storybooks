@@ -1,0 +1,1 @@
+chore(docs): Add table of contents and relevant ADRs to settings docs
