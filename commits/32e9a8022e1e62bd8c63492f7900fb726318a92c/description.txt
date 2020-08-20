@@ -1,0 +1,5 @@
+commit 32e9a8022e1e62bd8c63492f7900fb726318a92c
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Aug 20 12:44:45 2020 -0700
+
+    fix(portal): remove non-modal portal roots when unloaded
