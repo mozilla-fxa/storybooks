@@ -1,0 +1,1 @@
+Merge pull request #6247 from mozilla/fix/include-payload-in-sentry
