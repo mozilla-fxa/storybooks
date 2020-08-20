@@ -1,0 +1,1 @@
+Merge pull request #6246 from mozilla/unverified-session-inline-totp
