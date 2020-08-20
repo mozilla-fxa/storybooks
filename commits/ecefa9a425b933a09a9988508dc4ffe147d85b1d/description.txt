@@ -1,0 +1,8 @@
+commit ecefa9a425b933a09a9988508dc4ffe147d85b1d
+Merge: 22abc4f0d 715447f43
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Thu Aug 20 10:12:16 2020 -0500
+
+    Merge pull request #6221 from mozilla/issues/6192
+    
+    chore(docs): Update fxa-settings docs
