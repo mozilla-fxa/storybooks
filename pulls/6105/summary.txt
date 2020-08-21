@@ -1,1 +1,0 @@
-refactor(rescripts): include all of fxa as valid paths in rescripts
