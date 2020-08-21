@@ -1,8 +1,0 @@
-commit 3c9e9635deac9fb1e3925f1ff4c349a583380300
-Merge: f9658f5a5 a47c7f3a2
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Fri Jul 31 12:12:12 2020 -0400
-
-    Merge pull request #6091 from mozilla/train-182
-    
-    Release 1.182.0

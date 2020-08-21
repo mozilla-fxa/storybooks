@@ -1,1 +1,0 @@
-Merge pull request #6090 from mozilla/fxa-email-service-allow-verify-short-code-header, r=@dannycoates

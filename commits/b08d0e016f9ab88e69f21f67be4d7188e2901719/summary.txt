@@ -1,0 +1,1 @@
+Merge pull request #6259 from mozilla/jh/settings-header-shadow-updates

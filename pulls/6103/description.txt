@@ -1,5 +1,0 @@
-commit 3579f96c8618ed5578c684bd4ab6d7cceb7119a9
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Fri Jul 31 11:58:10 2020 -0400
-
-    Release 1.182.1
