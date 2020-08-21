@@ -1,8 +1,0 @@
-commit b1ad050a4298af52a85dea6d203e81e8c8305265
-Merge: c25dddf9e 0cd838b0b
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Fri Jul 31 09:39:58 2020 -0500
-
-    Merge pull request #6021 from byrw/issue3951
-    
-    fix(content-server): change the buttons from account-recovery to links.
