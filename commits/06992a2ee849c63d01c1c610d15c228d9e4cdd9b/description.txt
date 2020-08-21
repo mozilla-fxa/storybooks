@@ -1,0 +1,8 @@
+commit 06992a2ee849c63d01c1c610d15c228d9e4cdd9b
+Merge: bc1a2b051 045dfd300
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Aug 21 08:14:42 2020 -0700
+
+    Merge pull request #6267 from mozilla/silly-rabbit
+    
+    fix(settings): fixed the wrong button triggering submit on ModalVerifySession

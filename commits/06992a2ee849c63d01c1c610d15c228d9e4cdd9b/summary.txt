@@ -1,0 +1,1 @@
+Merge pull request #6267 from mozilla/silly-rabbit
