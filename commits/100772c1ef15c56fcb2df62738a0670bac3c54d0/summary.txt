@@ -1,1 +1,0 @@
-chore(docs): Add documentation for connecting to the GQL playground
