@@ -1,5 +1,0 @@
-commit 129fa07595911a933d372ede326eb9c99eca26ed
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Jul 31 16:56:42 2020 -0700
-
-    change password sketch
