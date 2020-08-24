@@ -1,8 +1,0 @@
-commit 6e431ac5f9b0116daf73e7290e7ffdb08aa7822e
-Merge: 22456b4e9 118abdd86
-Author: Jared Hirsch <ohai@6a68.net>
-Date:   Mon Aug 3 15:46:08 2020 -0700
-
-    Merge pull request #6108 from mozilla/aet-l10n
-    
-    bug(aet): Don't translate anon_id update errors
