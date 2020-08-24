@@ -1,5 +1,0 @@
-commit a03e74d2c968c179ad88c6a5926b16da7575205a
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Mon Aug 3 10:44:06 2020 -0500
-
-    chore(docs): Add documentation for connecting to the GQL playground
