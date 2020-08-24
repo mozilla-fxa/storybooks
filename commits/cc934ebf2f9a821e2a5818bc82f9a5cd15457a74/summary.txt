@@ -1,0 +1,1 @@
+feat(settings): add more styles to AlertBar
