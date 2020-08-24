@@ -1,0 +1,1 @@
+feat(settings): introduce hook to handle errors in mutations
