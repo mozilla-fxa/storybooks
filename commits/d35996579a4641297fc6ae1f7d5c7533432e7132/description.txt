@@ -1,0 +1,8 @@
+commit d35996579a4641297fc6ae1f7d5c7533432e7132
+Merge: e3b42e7fa 367f39d9d
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Mon Aug 24 09:47:42 2020 -0700
+
+    Merge pull request #6277 from mozilla/6172-incorrect-card-details-on-reactivation
+    
+    fix(payments): use default payment details in reactivation email
