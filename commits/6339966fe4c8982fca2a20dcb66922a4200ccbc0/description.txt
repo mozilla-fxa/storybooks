@@ -1,8 +1,0 @@
-commit 6339966fe4c8982fca2a20dcb66922a4200ccbc0
-Merge: 039362b60 12b1be1d7
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 4 11:37:42 2020 -0700
-
-    Merge pull request #6137 from mozilla/totp-auth
-    
-    feat(totp): remove session verification requirement from /totp/exists
