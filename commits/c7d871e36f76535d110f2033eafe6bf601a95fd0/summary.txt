@@ -1,1 +1,0 @@
-Merge pull request #6117 from mozilla/fxa-20, r=@6a68

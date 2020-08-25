@@ -1,0 +1,8 @@
+commit f16ae922da23413f65e615d71c8d9cdb6d7e7e1a
+Merge: 9bada420a c81c76d15
+Author: Wil Clouser <wclouser@mozilla.com>
+Date:   Tue Aug 25 09:16:10 2020 -0700
+
+    Merge pull request #6278 from clouserw/6195
+    
+    fix(release): fixes versioning and changelogs
