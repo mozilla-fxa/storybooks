@@ -1,0 +1,8 @@
+commit 50a81a6fc8948c344cdb6e1540e86e099e82ab10
+Merge: 7978f632f d9b889add
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Tue Aug 25 14:57:44 2020 -0400
+
+    Merge pull request #6284 from mozilla/jh/settings-cta-updates
+    
+    refactor(settings): make cta buttons more modular, uniform in size

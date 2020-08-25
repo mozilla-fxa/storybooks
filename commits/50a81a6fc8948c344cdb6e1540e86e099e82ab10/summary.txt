@@ -1,0 +1,1 @@
+Merge pull request #6284 from mozilla/jh/settings-cta-updates
