@@ -1,0 +1,8 @@
+commit 7978f632f470cc00c4a5344502366498bfc07bec
+Merge: f16ae922d e6083822c
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Tue Aug 25 12:17:09 2020 -0500
+
+    Merge pull request #6291 from chenba/pr/stasm/6098
+    
+    chore(payments): upgrade @fluent/bundle to 0.16, @fluent/react to 0.1…

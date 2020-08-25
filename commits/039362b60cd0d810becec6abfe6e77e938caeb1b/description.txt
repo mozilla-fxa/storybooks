@@ -1,8 +1,0 @@
-commit 039362b60cd0d810becec6abfe6e77e938caeb1b
-Merge: c7d871e36 9ea05dcc8
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Tue Aug 4 09:31:40 2020 -0700
-
-    Merge pull request #6123 from mozilla/6097-sca-sub-create-caching
-    
-    fix(payments): ensure Customer data is not cached with an expiration TTL
