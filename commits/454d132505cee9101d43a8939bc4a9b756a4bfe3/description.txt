@@ -1,8 +1,0 @@
-commit 454d132505cee9101d43a8939bc4a9b756a4bfe3
-Merge: 30b7ca132 01cca2507
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 4 14:16:54 2020 -0700
-
-    Merge pull request #6125 from mozilla/settings-auth-client
-    
-    feat(settings): added fxa-auth-client to fxa-settings
