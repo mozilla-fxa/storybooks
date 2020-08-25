@@ -1,0 +1,8 @@
+commit 0d4363490097df9a305ec0e890a115b208413e83
+Merge: 82a578008 675a312d4
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Tue Aug 25 14:03:55 2020 -0700
+
+    Merge pull request #6287 from mozilla/6216-123done-subscription-links
+    
+    feat(payments): add subscription buttons for 123done while logged in

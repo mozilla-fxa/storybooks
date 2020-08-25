@@ -1,9 +1,0 @@
-commit 01cca2507f0c22907b8c8350ac1efd932d9651e0
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Jul 31 16:56:42 2020 -0700
-
-    feat(settings): added fxa-auth-client to fxa-settings
-    
-    This provides the base functionality needed for fxa-settings to make api calls to the auth-server. There's an `AuthContext.Provider` initialized in index.tsx and the `useAuth` hook to retrieve the client from components.
-    
-    fixes #5491
