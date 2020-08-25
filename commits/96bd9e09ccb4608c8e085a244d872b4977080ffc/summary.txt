@@ -1,0 +1,1 @@
+feat(settings): add verify secondary email to new settings
