@@ -1,1 +1,0 @@
-Merge pull request #6099 from mozilla/jh/6075/avatar-file-size-up
