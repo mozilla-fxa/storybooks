@@ -1,0 +1,8 @@
+commit a59b1d30be7f6777fadd215e8d3311de22fb2d56
+Merge: 17a8419e6 43ac83dd0
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Aug 25 18:58:42 2020 -0700
+
+    Merge pull request #6298 from mozilla/dependabot/npm_and_yarn/packages/fxa-content-server/mustache-4.0.1
+    
+    chore(deps): bump mustache from 2.3.0 to 4.0.1 in /packages/fxa-content-server
