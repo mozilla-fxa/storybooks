@@ -1,5 +1,0 @@
-commit 6678694801e7eb9b4a3598b24b2bcf96919accba
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 4 18:31:32 2020 -0700
-
-    verifiedsessionguard sketch
