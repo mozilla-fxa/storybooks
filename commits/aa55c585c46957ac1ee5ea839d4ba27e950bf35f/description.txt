@@ -1,0 +1,10 @@
+commit aa55c585c46957ac1ee5ea839d4ba27e950bf35f
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Aug 26 06:23:56 2020 +0000
+
+    task(fxa-settings): fix storybook errors
+    
+    - fixes #6226
+    - address LocationProvider errors in multiple stories
+    - address MockedProvider(missing Apollo provider) in AppLayout
+    - added "common errors" section into storybook portion of README
