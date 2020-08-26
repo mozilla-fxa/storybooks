@@ -1,0 +1,8 @@
+commit bea6094c4f59db99567bd5e800228fd8f19a59e2
+Merge: 717b5ae20 b7d726cbf
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Aug 26 11:59:21 2020 -0400
+
+    Merge pull request #6306 from mozilla/bump-dependabot-upgrades
+    
+    task(fxa): bump deps from open dependabot prs
