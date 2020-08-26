@@ -1,0 +1,1 @@
+Merge pull request #6294 from mozilla/jh/6173/bad-signin-recovery
