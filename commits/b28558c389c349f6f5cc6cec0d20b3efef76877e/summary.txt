@@ -1,0 +1,1 @@
+Merge pull request #6314 from chenba/2290-pay-with-cc-on-record

@@ -1,0 +1,8 @@
+commit b28558c389c349f6f5cc6cec0d20b3efef76877e
+Merge: bea6094c4 044c891ca
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Wed Aug 26 17:05:38 2020 -0500
+
+    Merge pull request #6314 from chenba/2290-pay-with-cc-on-record
+    
+    feat(payments): use existing card for new subscriptions
