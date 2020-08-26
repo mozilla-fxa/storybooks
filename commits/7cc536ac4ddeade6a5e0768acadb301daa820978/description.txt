@@ -1,0 +1,8 @@
+commit 7cc536ac4ddeade6a5e0768acadb301daa820978
+Merge: a59b1d30b 674ec97f9
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Aug 26 11:12:56 2020 -0400
+
+    Merge pull request #6305 from mozilla/fix-storybook-provider
+    
+    task(fxa-settings): fix storybook errors
