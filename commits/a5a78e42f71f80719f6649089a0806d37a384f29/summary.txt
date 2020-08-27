@@ -1,1 +1,0 @@
-Merge pull request #6148 from mozilla/prompt-none-improvements

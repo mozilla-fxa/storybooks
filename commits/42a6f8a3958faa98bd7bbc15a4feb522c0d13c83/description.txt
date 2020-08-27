@@ -1,7 +1,0 @@
-commit 42a6f8a3958faa98bd7bbc15a4feb522c0d13c83
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 4 13:48:16 2020 -0700
-
-    feat(settings): add session verified state to graphql
-    
-    because the frontend needs to know about the verified state of the session
