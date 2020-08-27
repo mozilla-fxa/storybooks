@@ -1,0 +1,1 @@
+Merge pull request #6330 from mozilla/fenix-now
