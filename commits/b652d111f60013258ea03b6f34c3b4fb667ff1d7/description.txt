@@ -1,0 +1,8 @@
+commit b652d111f60013258ea03b6f34c3b4fb667ff1d7
+Merge: b28558c38 da6948ee0
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Aug 27 10:15:31 2020 -0400
+
+    Merge pull request #6309 from mozilla/fix-pairing, r=@vladikoff
+    
+    fix(metrics): Emit metrics for pairing part 2
