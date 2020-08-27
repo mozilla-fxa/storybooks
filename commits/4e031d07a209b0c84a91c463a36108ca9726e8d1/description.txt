@@ -1,8 +1,0 @@
-commit 4e031d07a209b0c84a91c463a36108ca9726e8d1
-Merge: c37ef83c5 872d78bf6
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Thu Aug 6 10:54:40 2020 -0400
-
-    Merge pull request #6128 from mozilla/4911-security-section-settings
-    
-    task(fxa-settings): Add security panel to settings

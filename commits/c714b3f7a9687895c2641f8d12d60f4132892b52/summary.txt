@@ -1,0 +1,1 @@
+Merge pull request #6197 from byrw/removeSignInDoorhanger
