@@ -1,7 +1,0 @@
-commit 872d78bf6d53315d5fbadb758d040b481f0bc146
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Tue Aug 4 05:21:47 2020 +0000
-
-    task(fxa-settings): Add security panel to settings
-    
-    - fixes #4911

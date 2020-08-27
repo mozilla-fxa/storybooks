@@ -1,0 +1,1 @@
+Merge pull request #6292 from mozilla/jh/6107/secondary-email-mod
