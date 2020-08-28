@@ -1,5 +1,0 @@
-commit 9dd882608739240742b01b368ef661cd50d1cb02
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Aug 7 09:20:14 2020 -0700
-
-    added primaryEmail client field
