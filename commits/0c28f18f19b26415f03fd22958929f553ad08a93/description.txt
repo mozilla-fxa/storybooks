@@ -1,5 +1,0 @@
-commit 0c28f18f19b26415f03fd22958929f553ad08a93
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Aug 7 11:09:00 2020 -0700
-
-    mockedcache
