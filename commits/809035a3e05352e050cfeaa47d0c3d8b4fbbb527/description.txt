@@ -1,8 +1,0 @@
-commit 809035a3e05352e050cfeaa47d0c3d8b4fbbb527
-Merge: da3d87be1 7a2fef8b7
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Aug 7 14:39:52 2020 -0700
-
-    Merge pull request #6145 from mozilla/moving-stuff
-    
-    refactor settings state
