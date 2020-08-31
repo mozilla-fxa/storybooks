@@ -1,5 +1,0 @@
-commit c8d7df98341e5d6724276c58aacfed9a201f53c3
-Author: John Morrison <jrgmorrison@gmail.com>
-Date:   Thu Aug 6 14:05:14 2020 -0700
-
-    fix(tests): add job to run tests against remote target
