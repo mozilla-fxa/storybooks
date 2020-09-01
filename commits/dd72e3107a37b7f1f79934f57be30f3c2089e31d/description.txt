@@ -1,7 +1,0 @@
-commit dd72e3107a37b7f1f79934f57be30f3c2089e31d
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Mon Aug 10 19:45:10 2020 +0000
-
-    task(fxa-settings): convert settings component to use cache
-    
-    - fixes #6154

@@ -1,1 +1,0 @@
-feat(settings): display alert messages from login in new settings

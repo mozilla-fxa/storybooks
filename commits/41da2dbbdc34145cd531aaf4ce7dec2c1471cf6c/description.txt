@@ -1,8 +1,0 @@
-commit 41da2dbbdc34145cd531aaf4ce7dec2c1471cf6c
-Merge: b7924f18e 2f2c409f0
-Author: Ben Bangert <ben@groovie.org>
-Date:   Mon Aug 10 14:45:05 2020 -0700
-
-    Merge pull request #6180 from mozilla/fix/issue-6064
-    
-    fix(admin): split query for index usage

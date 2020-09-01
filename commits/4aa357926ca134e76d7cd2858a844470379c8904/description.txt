@@ -1,0 +1,8 @@
+commit 4aa357926ca134e76d7cd2858a844470379c8904
+Merge: 19eb3b5fd 19c5af706
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Tue Sep 1 09:26:01 2020 -0400
+
+    Merge pull request #6329 from mozilla/train-186
+    
+    Release 1.186.0
