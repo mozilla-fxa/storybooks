@@ -1,9 +1,0 @@
-commit 31a2f991950187c467b8bd76cc6dff7874c37086
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Aug 10 14:06:15 2020 -0700
-
-    feat(settings): display alert messages from login in new settings
-    
-    Some actions in fxa-content-server end up displaying an alert message on the settings page. We want to be able to display those messages across the "app" boundary between the content-server front-end and new settings.
-    
-    To do this we store the message in localStorage and whichever app gets to it first will display it and remove it from storage.
