@@ -1,0 +1,1 @@
+chore(tests): Add settings v2 initial functional testing
