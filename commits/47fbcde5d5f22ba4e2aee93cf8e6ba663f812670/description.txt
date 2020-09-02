@@ -1,0 +1,8 @@
+commit 47fbcde5d5f22ba4e2aee93cf8e6ba663f812670
+Merge: c4086220c a4ec47fca
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Wed Sep 2 09:37:31 2020 -0500
+
+    Merge pull request #6351 from mozilla/issues/6328
+    
+    refactor(settings): Settings components tree mods, add pages section to Storybook, doc updates
