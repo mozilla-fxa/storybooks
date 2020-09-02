@@ -1,0 +1,1 @@
+Merge pull request #6350 from mozilla/jh/settings-visual-tweaks
