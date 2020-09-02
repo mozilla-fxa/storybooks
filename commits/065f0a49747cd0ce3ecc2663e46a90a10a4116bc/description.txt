@@ -1,8 +1,0 @@
-commit 065f0a49747cd0ce3ecc2663e46a90a10a4116bc
-Merge: 41da2dbbd 3d310dd1c
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 11 15:18:18 2020 -0700
-
-    Merge pull request #6186 from mozilla/issues/6119
-    
-    feat(settings): Display formatted password set time on new settings
