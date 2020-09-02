@@ -1,8 +1,0 @@
-commit afe4e8eaa456a5d86432444bc170624be6f9e59e
-Merge: 292bd0267 4de585d4d
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Wed Aug 12 11:27:50 2020 -0700
-
-    Merge pull request #6184 from mozilla/issues/4933
-    
-    New settings: display alerts from content-server
