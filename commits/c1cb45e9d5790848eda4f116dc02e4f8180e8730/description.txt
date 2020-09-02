@@ -1,0 +1,5 @@
+commit c1cb45e9d5790848eda4f116dc02e4f8180e8730
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Wed Sep 2 11:41:31 2020 -0500
+
+    Release 1.186.1

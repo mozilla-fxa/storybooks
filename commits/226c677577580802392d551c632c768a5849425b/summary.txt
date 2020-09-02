@@ -1,1 +1,0 @@
-Merge pull request #6181 from mozilla/6175-sub-download-email-on-success

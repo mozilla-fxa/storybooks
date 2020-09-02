@@ -1,8 +1,0 @@
-commit 226c677577580802392d551c632c768a5849425b
-Merge: 4326307b7 d080dad75
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Aug 12 09:40:20 2020 -0700
-
-    Merge pull request #6181 from mozilla/6175-sub-download-email-on-success
-    
-    fix(payments): send subscription download email along with initial invoice
