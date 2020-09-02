@@ -1,0 +1,8 @@
+commit cbcdd427542e8e0a4a666558f82211a8ff9c2c33
+Merge: 47fbcde5d 3f4e292bc
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Sep 2 08:49:33 2020 -0700
+
+    Merge pull request #6360 from mozilla/jh/disable-ts-incremental
+    
+    fix(config): disable incremental compilation in base ts config
