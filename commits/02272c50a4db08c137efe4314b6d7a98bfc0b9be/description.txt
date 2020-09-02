@@ -1,5 +1,0 @@
-commit 02272c50a4db08c137efe4314b6d7a98bfc0b9be
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Aug 10 12:33:04 2020 -0400
-
-    refactor(settings + react): update tests to be more consistent and DRY

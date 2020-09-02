@@ -1,1 +1,0 @@
-Merge pull request #6174 from mozilla/jh/settings-react-improved-testing

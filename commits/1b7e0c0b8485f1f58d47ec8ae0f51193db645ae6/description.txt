@@ -1,8 +1,0 @@
-commit 1b7e0c0b8485f1f58d47ec8ae0f51193db645ae6
-Merge: bc31d7d32 02272c50a
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed Aug 12 09:51:10 2020 -0400
-
-    Merge pull request #6174 from mozilla/jh/settings-react-improved-testing
-    
-    refactor(settings + react): update tests to be more consistent and DRY

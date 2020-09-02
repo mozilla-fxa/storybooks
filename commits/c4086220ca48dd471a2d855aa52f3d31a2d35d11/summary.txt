@@ -1,0 +1,1 @@
+Merge pull request #6353 from chenba/2494-bad-card-first-retry
