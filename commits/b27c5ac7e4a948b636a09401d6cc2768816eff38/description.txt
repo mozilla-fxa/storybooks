@@ -1,0 +1,8 @@
+commit b27c5ac7e4a948b636a09401d6cc2768816eff38
+Merge: 2f4c5419f 1bc3b198b
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Sep 2 19:13:16 2020 -0700
+
+    Merge pull request #6365 from mozilla/yarn-relock
+    
+    feat(dev): added yarn relock plugin
