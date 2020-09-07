@@ -1,0 +1,8 @@
+commit bba360fb5f53367a6147a4020f0860a2f8c9ceaf
+Merge: b27c5ac7e 5f2ad51fa
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Mon Sep 7 15:40:45 2020 -0400
+
+    Merge pull request #6377 from mozilla/jh/6359/settings-ios-user-dropdown
+    
+    fix(settings): fix vertical spacing in avatar dropdown
