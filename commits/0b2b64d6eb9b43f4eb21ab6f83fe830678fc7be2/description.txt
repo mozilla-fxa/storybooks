@@ -1,8 +1,0 @@
-commit 0b2b64d6eb9b43f4eb21ab6f83fe830678fc7be2
-Merge: b33423966 d834a047b
-Author: Ben Bangert <ben@groovie.org>
-Date:   Fri Aug 14 10:44:59 2020 -0700
-
-    Merge pull request #6200 from mozilla/chore/update-deps-eb
-    
-    chore(event-broker): dependency update

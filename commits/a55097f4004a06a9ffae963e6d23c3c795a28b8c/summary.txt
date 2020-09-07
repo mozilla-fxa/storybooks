@@ -1,1 +1,0 @@
-Merge pull request #6179 from mozilla/primary-email-bug, r=@dannycoates

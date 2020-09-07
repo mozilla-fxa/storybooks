@@ -1,8 +1,0 @@
-commit 2486ec4c8fee5fd3b510ab7d62415679b0da6b47
-Merge: c69c1ae91 27673a755
-Author: Ben Bangert <ben@groovie.org>
-Date:   Fri Aug 14 11:18:47 2020 -0700
-
-    Merge pull request #6202 from mozilla/chore/dep-update-admin-server
-    
-    chore(admin-server): update dependencies

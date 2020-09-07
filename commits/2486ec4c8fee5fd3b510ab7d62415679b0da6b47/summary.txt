@@ -1,1 +1,0 @@
-Merge pull request #6202 from mozilla/chore/dep-update-admin-server

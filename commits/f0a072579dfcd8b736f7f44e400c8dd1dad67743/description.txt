@@ -1,8 +1,0 @@
-commit f0a072579dfcd8b736f7f44e400c8dd1dad67743
-Merge: c7a3e5ae9 4f7ab36a7
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Mon Aug 17 12:59:17 2020 -0500
-
-    Merge pull request #6050 from chenba/2319-expiring-cc-multi-product
-    
-    chore(emails): add CC expiration email for Multiple Products

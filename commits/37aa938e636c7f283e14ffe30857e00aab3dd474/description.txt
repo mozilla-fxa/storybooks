@@ -1,8 +1,0 @@
-commit 37aa938e636c7f283e14ffe30857e00aab3dd474
-Merge: 98c20178d 245568d56
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Aug 17 08:19:07 2020 -0700
-
-    Merge pull request #6205 from mozilla/chore/update-typescript
-    
-    chore: update typescript

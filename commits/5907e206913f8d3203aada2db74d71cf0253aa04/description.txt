@@ -1,8 +1,0 @@
-commit 5907e206913f8d3203aada2db74d71cf0253aa04
-Merge: d551aeba0 aa3a9060c
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Aug 13 13:32:06 2020 -0400
-
-    Merge pull request #6140 from mozilla/jh/5018/settings-send-metrics-event
-    
-    feat(settings): metrics reporting

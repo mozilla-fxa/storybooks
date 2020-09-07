@@ -1,1 +1,0 @@
-Merge pull request #6182 from mozilla/6129-too-many-payment-failed-emails
