@@ -1,8 +1,0 @@
-commit 7ea80fe3f9b802df4f7ade7d59ef4927fad0ceae
-Merge: 252298a45 306846f0a
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Tue Aug 18 13:49:03 2020 -0700
-
-    Merge pull request #6198 from mozilla/fix-storybook-cleanup
-    
-    fix(storybook): delete commits and pulls over 3 weeks old on every build
