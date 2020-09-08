@@ -1,0 +1,1 @@
+Merge pull request #6379 from mozilla/jh/6231/password-anonid-ifmatch

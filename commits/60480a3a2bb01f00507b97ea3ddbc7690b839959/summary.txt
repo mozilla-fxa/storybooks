@@ -1,1 +1,0 @@
-Merge pull request #6206 from mozilla/jh/settings-ui-basics

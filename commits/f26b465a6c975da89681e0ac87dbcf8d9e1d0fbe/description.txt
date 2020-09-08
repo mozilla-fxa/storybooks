@@ -1,8 +1,0 @@
-commit f26b465a6c975da89681e0ac87dbcf8d9e1d0fbe
-Merge: 60480a3a2 82dd8c85d
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Aug 17 19:15:11 2020 -0400
-
-    Merge pull request #6213 from mozilla/jh/settings-followup
-    
-    refactor(settings): ui component followups

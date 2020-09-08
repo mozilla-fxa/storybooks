@@ -1,8 +1,0 @@
-commit 1d172a3ef62fa86faa78651ab39ddd3751a1ded3
-Merge: e85a07348 55d38808c
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Tue Aug 18 10:33:29 2020 -0400
-
-    Merge pull request #6212 from mozilla/flow-back
-    
-    refactor(settings): a few adjustments to FlowContainer

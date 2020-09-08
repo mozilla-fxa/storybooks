@@ -1,1 +1,0 @@
-Merge pull request #6213 from mozilla/jh/settings-followup

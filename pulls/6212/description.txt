@@ -1,7 +1,0 @@
-commit 55d38808c846dd8aa02b8b721c06f61ff5158129
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Aug 17 18:00:44 2020 -0700
-
-    refactor(settings): moved Nav into Setting component
-    
-    Because the style on <main> in AppLayout created awkward positioning and sizing of the FlowContainer this rearranges elements and styles so that both the Settings component resizes as before and the FlowContainer is properly positioned and sized.

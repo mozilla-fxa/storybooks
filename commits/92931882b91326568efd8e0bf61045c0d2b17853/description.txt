@@ -1,0 +1,8 @@
+commit 92931882b91326568efd8e0bf61045c0d2b17853
+Merge: bba360fb5 26c4efa2d
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Tue Sep 8 10:48:56 2020 -0400
+
+    Merge pull request #6379 from mozilla/jh/6231/password-anonid-ifmatch
+    
+    feat(aet): set ifMatch option when generating new eco anon id on account model
