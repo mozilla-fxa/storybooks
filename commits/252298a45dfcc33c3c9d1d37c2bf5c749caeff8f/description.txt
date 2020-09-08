@@ -1,8 +1,0 @@
-commit 252298a45dfcc33c3c9d1d37c2bf5c749caeff8f
-Merge: 823297e61 c7ff99edb
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Tue Aug 18 16:15:32 2020 -0400
-
-    Merge pull request #6218 from mozilla/fxa-1705, r=@jodyheavener
-    
-    feat(settings): Add basic change password views
