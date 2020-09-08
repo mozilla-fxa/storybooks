@@ -1,5 +1,0 @@
-commit 4531af8522f248d7fa6985e3041134f59855ec35
-Author: Vijay Budhram <vbudhram@gmail.com>
-Date:   Tue Aug 18 12:23:36 2020 -0400
-
-    feat(settings): Add basic change password views
