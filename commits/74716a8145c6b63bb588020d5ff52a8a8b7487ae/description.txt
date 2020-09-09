@@ -1,0 +1,8 @@
+commit 74716a8145c6b63bb588020d5ff52a8a8b7487ae
+Merge: 3c2d32a7d c5ebe9fa9
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Wed Sep 9 13:58:09 2020 -0700
+
+    Merge pull request #6396 from mozilla/6342-force-2fa-fix
+    
+    fix(totp): Restore unverified session handling in the force-2FA flow
