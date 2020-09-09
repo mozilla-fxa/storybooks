@@ -1,5 +1,0 @@
-commit dad714c7c63b92b429b22fe41b7ce4aa5f4dca9a
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 18 19:29:42 2020 -0700
-
-    stubbing in verify session modal

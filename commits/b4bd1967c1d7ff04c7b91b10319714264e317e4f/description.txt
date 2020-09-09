@@ -1,0 +1,8 @@
+commit b4bd1967c1d7ff04c7b91b10319714264e317e4f
+Merge: e4dc87e11 1018c65b5
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Sep 9 11:38:33 2020 -0400
+
+    Merge pull request #6349 from mozilla/fxa-2454, r=@meandavejustice
+    
+    fix(newsletter): Various newsletter fixes
