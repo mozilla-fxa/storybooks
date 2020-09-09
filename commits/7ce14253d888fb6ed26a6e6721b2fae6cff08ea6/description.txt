@@ -1,0 +1,8 @@
+commit 7ce14253d888fb6ed26a6e6721b2fae6cff08ea6
+Merge: b4bd1967c 80ae4c153
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Wed Sep 9 11:25:58 2020 -0500
+
+    Merge pull request #6366 from chenba/2494-bad-card-first-delete
+    
+    chore(payments): detach payment method on failed first sub payment
