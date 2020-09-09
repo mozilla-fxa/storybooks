@@ -1,0 +1,8 @@
+commit 3c2d32a7df0210d8d13b3ef253757944660efa37
+Merge: 546067d60 0979c0bec
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Sep 9 16:08:40 2020 -0400
+
+    Merge pull request #6394 from mozilla/fix-tests, r=@jodyheavener
+    
+    fix(tests): fix attempts for intermittent functional test failures

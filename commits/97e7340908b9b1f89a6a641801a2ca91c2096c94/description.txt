@@ -1,8 +1,0 @@
-commit 97e7340908b9b1f89a6a641801a2ca91c2096c94
-Merge: a07d9fe20 c9fec7b7c
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Wed Aug 19 14:02:32 2020 -0500
-
-    Merge pull request #6237 from mozilla/train-184
-    
-    Release 1.184.1
