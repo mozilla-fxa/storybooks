@@ -1,0 +1,8 @@
+commit 4d9aa7bf0fadf1af802a42aecaece400be4ea8e4
+Merge: 063bd5c61 13c5265fb
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Tue Sep 8 17:13:47 2020 -0700
+
+    Merge pull request #6355 from mozilla/5850-cleanup-subscription-apis
+    
+    chore(payments): clean up subplat API code unused after SCA switch over
