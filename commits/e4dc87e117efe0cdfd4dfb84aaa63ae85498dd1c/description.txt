@@ -1,0 +1,8 @@
+commit e4dc87e117efe0cdfd4dfb84aaa63ae85498dd1c
+Merge: e59441851 5bd460275
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Sep 9 10:41:15 2020 -0400
+
+    Merge pull request #6385 from ashrivastava-qa/create-new-tests, r=@vbudhram
+    
+    test(reset-password): add few missing checks for resend email
