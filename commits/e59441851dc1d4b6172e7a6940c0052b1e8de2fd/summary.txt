@@ -1,0 +1,1 @@
+Merge pull request #6384 from mozilla/fix-logging

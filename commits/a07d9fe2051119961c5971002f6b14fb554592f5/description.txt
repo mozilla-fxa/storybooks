@@ -1,8 +1,0 @@
-commit a07d9fe2051119961c5971002f6b14fb554592f5
-Merge: 3c750661b f0582b95d
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Wed Aug 19 09:20:37 2020 -0400
-
-    Merge pull request #6229 from mozilla/fix-pairing-metric, r=@vladikoff
-    
-    fix(metrics): Emit pairing success metric when broker sends `action=pairing`
