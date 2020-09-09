@@ -1,1 +1,0 @@
-task(fxa-settings): display errors in tooltip

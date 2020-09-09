@@ -1,0 +1,8 @@
+commit 546067d60623491241e59c1193ef73901e776f67
+Merge: 4e9984d35 39c7a851c
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Sep 9 14:44:24 2020 -0400
+
+    Merge pull request #6302 from mozilla/4913
+    
+    task(fxa-settings): rework Two-step auth unit row
