@@ -1,8 +1,0 @@
-commit eeb192be73475cb8372efbad1e16b6b2038e95e5
-Merge: fcdb121a8 e247e5079
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Wed Aug 19 14:55:35 2020 -0700
-
-    Merge pull request #6250 from mozilla/clouserw-patch-2
-    
-    Delete renovate.json
