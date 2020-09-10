@@ -1,8 +1,0 @@
-commit 65b436f6a2eb12cfa590170d0fbe3184fa9759a1
-Merge: 393c5ae40 68def436c
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Thu Aug 20 12:56:32 2020 -0400
-
-    Merge pull request #6241 from mozilla/4959
-    
-    task(fxa-settings): display errors in tooltip

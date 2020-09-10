@@ -1,7 +1,0 @@
-commit 0c4358bdf91ab802ebd6bf78b96efd5601e3f161
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 18 11:58:29 2020 -0700
-
-    feat(settings): implement remove recovery key on new settings
-    
-    closes #4910
