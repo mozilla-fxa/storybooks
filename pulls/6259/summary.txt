@@ -1,1 +1,0 @@
-Revert "feat(settings): header shadow on scroll"

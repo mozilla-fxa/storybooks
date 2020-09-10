@@ -1,5 +1,0 @@
-commit da2add495d6d40658f1ac8ee390a54b07a8a1e9e
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Aug 20 11:46:17 2020 -0400
-
-    refactor(settings): small updates to settings header shadow

@@ -1,7 +1,0 @@
-commit d653ee8d11ed3aea3887faf404b92dbde0fe617c
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Aug 20 21:33:22 2020 -0400
-
-    Revert "feat(settings): header shadow on scroll"
-    
-    This reverts commit 894de752ed03906377be3778bf7d0b1d41d32a10.
