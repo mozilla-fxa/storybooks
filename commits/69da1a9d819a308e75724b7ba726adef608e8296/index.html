@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Storybooks for 69da1a9d819a308e75724b7ba726adef608e8296</title>
+      
+    </head>
+    <body>
+      <h1>Storybooks for 69da1a9d819a308e75724b7ba726adef608e8296</h1>
+      <ul>
+        <li>
+    <a href="./fxa-payments-server/index.html">fxa-payments-server</a>
+    
+    
+  </li><li>
+    <a href="./fxa-admin-panel/index.html">fxa-admin-panel</a>
+    
+    
+  </li>
+      </ul>
+      <h2>Description</h2>
+          <pre>commit 69da1a9d819a308e75724b7ba726adef608e8296
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Thu Sep 10 11:49:21 2020 -0400
+
+    fix(admin-panel): stop using helmet.xssFilter because we don't want its default value
+    
+    Because:
+    
+    - Previously helmet.xssFilter() would set the X-XSS-Protection header to `1; mode=block`. As of v4 this value is no `0` (no XSS filtering). We want to keep this enabled.
+    
+    This commit:
+    
+    - Replace it with a simple middleware to return it to our desired original value</pre>
+    </body>
+  </html>
