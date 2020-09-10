@@ -1,8 +1,0 @@
-commit 441da8c014dcb6eb7142a92a313c5db6bfbf9bec
-Merge: ecefa9a42 9b5ff1802
-Author: Ben Bangert <ben@groovie.org>
-Date:   Thu Aug 20 08:16:09 2020 -0700
-
-    Merge pull request #6247 from mozilla/fix/include-payload-in-sentry
-    
-    fix(auth-server): attach payload data to sentry
