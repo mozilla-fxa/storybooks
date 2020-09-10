@@ -1,8 +1,0 @@
-commit 6e54a0bd7ecbc518cdbeaff66019c0419fb67404
-Merge: abaff7a61 b1de8d323
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Thu Aug 20 08:21:56 2020 -0500
-
-    Merge pull request #6251 from chenba/basket-proxy-config-cleanup
-    
-    chore(configs): remove basket proxy configs
