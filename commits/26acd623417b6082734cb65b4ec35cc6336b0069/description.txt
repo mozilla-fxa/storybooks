@@ -1,0 +1,8 @@
+commit 26acd623417b6082734cb65b4ec35cc6336b0069
+Merge: 8ddc5515a 3729273bb
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Thu Sep 10 11:10:24 2020 -0400
+
+    Merge pull request #6169 from byrw/issue3575
+    
+    fix(content-server): validate the sign up input before showing validation error
