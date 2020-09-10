@@ -1,8 +1,0 @@
-commit abaff7a61f6aba888b633f866188473dc5042357
-Merge: eeb192be7 ab0629894
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Wed Aug 19 21:32:39 2020 -0400
-
-    Merge pull request #6242 from mozilla/issues/6192-secondary-email
-    
-    refactor(settings): Cleanup secondary email tests, catch mutation errors

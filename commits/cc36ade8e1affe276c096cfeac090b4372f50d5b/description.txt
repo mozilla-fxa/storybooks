@@ -1,8 +1,0 @@
-commit cc36ade8e1affe276c096cfeac090b4372f50d5b
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Thu Aug 13 01:12:17 2020 +0000
-
-    task(fxa-settings): display errors in tooltip
-    
-    - fixes #4959
-    - Pulls <Profile/> into own component

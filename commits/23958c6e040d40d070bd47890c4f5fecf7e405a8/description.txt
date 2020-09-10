@@ -1,0 +1,8 @@
+commit 23958c6e040d40d070bd47890c4f5fecf7e405a8
+Merge: 263f1b6d0 44a9908ec
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Thu Sep 10 08:15:56 2020 -0500
+
+    Merge pull request #6398 from chenba/2480-invalid-lang
+    
+    fix(emails): use default lang tag for sub emails when given invalid tag

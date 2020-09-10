@@ -1,0 +1,1 @@
+Merge pull request #6398 from chenba/2480-invalid-lang

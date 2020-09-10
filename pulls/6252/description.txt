@@ -1,5 +1,0 @@
-commit 894de752ed03906377be3778bf7d0b1d41d32a10
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed Aug 19 22:17:12 2020 -0400
-
-    feat(settings): header shadow on scroll
