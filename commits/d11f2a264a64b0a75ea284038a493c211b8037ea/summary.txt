@@ -1,0 +1,1 @@
+Merge pull request #6410 from mozilla/6290-log-clientid

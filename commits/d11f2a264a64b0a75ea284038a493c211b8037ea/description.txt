@@ -1,0 +1,8 @@
+commit d11f2a264a64b0a75ea284038a493c211b8037ea
+Merge: a8f86f3e6 f6b1de84c
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Fri Sep 11 09:34:20 2020 -0700
+
+    Merge pull request #6410 from mozilla/6290-log-clientid
+    
+    fix(metrics): include the client_id when logging the `oauth.token.created` event
