@@ -1,1 +1,0 @@
-fix(settings): fixed the wrong button triggering submit on ModalVerifySession

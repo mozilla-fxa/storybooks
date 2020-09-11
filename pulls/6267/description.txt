@@ -1,5 +1,0 @@
-commit 045dfd300401e8c171ba251e6d76ff7bb63d5e29
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu Aug 20 15:36:12 2020 -0700
-
-    fix(settings): fixed the wrong button triggering submit on ModalVerifySession

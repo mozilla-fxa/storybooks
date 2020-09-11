@@ -1,8 +1,0 @@
-commit 5c604f0ec2b62d3d89197ca6ae25f510bd0d88e6
-Merge: 8d78f6854 32e9a8022
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu Aug 20 13:16:14 2020 -0700
-
-    Merge pull request #6265 from mozilla/portal-fix
-    
-    fix(portal): remove non-modal portal roots when unloaded
