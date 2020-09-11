@@ -1,0 +1,8 @@
+commit 71ce96e914f7fac8dd6352d52d0051b8dc5d7041
+Merge: d11f2a264 ce9737d21
+Author: Ben Bangert <ben@groovie.org>
+Date:   Fri Sep 11 10:10:32 2020 -0700
+
+    Merge pull request #6421 from mozilla/fix/local-service-checks
+    
+    fix(event-broker): dont use env for local checks
