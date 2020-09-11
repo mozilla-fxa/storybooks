@@ -1,0 +1,13 @@
+commit 6328e52a013c04a5219148879227fcd54654b839
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Fri Sep 11 16:28:18 2020 -0400
+
+    feat(settings): add ability to refresh account data via buttons in 2fa, secondary email, and recovery key sections
+    
+    Because:
+    
+    - We need to be able to refresh the statuses of an account's 2fa, secondary emails, and recovery key
+    
+    This commit:
+    
+    - Add refresh buttons to each unit row to accomplish this. This doesn't actually perform an update query on the specific section, but simply performs an account retrieval and updates the cache accordingly.
