@@ -1,0 +1,1 @@
+Merge pull request #6414 from mozilla/fix/heartbeat-and-devmodes

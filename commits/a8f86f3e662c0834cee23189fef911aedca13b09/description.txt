@@ -1,0 +1,8 @@
+commit a8f86f3e662c0834cee23189fef911aedca13b09
+Merge: 19b622fd7 2adce3f77
+Author: Ben Bangert <ben@groovie.org>
+Date:   Fri Sep 11 08:39:23 2020 -0700
+
+    Merge pull request #6414 from mozilla/fix/heartbeat-and-devmodes
+    
+    fix(event-broker): include lbheartbeat and dev check
