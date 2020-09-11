@@ -1,0 +1,1 @@
+feat(settings): add ability to refresh account data via buttons in 2fa, secondary email, and recovery key sections
