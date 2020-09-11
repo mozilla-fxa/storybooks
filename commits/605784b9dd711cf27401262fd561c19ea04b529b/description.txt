@@ -1,0 +1,8 @@
+commit 605784b9dd711cf27401262fd561c19ea04b529b
+Merge: 0a648efc5 6bdca952f
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Fri Sep 11 15:55:26 2020 -0700
+
+    Merge pull request #6412 from mozilla/post-download-selector
+    
+    fix(tests): Update the post-download page selector
