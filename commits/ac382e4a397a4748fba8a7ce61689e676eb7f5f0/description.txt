@@ -1,0 +1,8 @@
+commit ac382e4a397a4748fba8a7ce61689e676eb7f5f0
+Merge: 27ebfe602 d80b2758b
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Sat Sep 12 17:22:20 2020 -0400
+
+    Merge pull request #6418 from mozilla/dependabot/npm_and_yarn/autoprefixer-9.8.6
+    
+    chore(deps): bump autoprefixer from 9.0.1 to 9.8.6
