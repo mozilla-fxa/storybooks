@@ -1,8 +1,0 @@
-commit e3b42e7fa343f04b2313f8bd52c58e59e5c27cbb
-Merge: b08d0e016 da2e99729
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Aug 24 08:41:42 2020 -0700
-
-    Merge pull request #6279 from mozilla/update-root-deps
-    
-    chore(deps): update yarn version and root level deps

@@ -1,0 +1,8 @@
+commit 661ab6682ccee3b2580ba1fefd6a7e85e3451308
+Merge: ac382e4a3 10cd8449e
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Sep 14 09:39:21 2020 -0700
+
+    Merge pull request #6428 from mozilla/dependabot/npm_and_yarn/cron-1.8.2
+    
+    chore(deps): bump cron from 1.5.0 to 1.8.2
