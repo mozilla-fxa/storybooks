@@ -1,0 +1,8 @@
+commit e576a13a9c17134cbe0f6c1b1b0c7994ee61da9d
+Merge: 661ab6682 979a0448c
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Sep 14 09:40:04 2020 -0700
+
+    Merge pull request #6427 from mozilla/dependabot/npm_and_yarn/ip-reputation-js-client-6.0.1
+    
+    chore(deps): bump ip-reputation-js-client from 6.0.0 to 6.0.1
