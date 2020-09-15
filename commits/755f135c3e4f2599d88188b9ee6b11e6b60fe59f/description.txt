@@ -1,0 +1,8 @@
+commit 755f135c3e4f2599d88188b9ee6b11e6b60fe59f
+Merge: a38f3ea40 7d8c9e4e0
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Sep 15 13:15:37 2020 -0700
+
+    Merge pull request #6435 from mozilla/update-web-push-lib
+    
+    Update web-push lib to latest version.

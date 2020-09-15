@@ -1,0 +1,1 @@
+Merge pull request #6435 from mozilla/update-web-push-lib
