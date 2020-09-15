@@ -1,0 +1,13 @@
+commit 42aa516bd7055878d14e7d02b2751871ba916fad
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Mon Sep 14 15:48:40 2020 -0400
+
+    feat(settings): standardize error/success messages and reporting
+    
+    Because:
+    
+    - We perform many mutations and actions across Settings that require error/success messages. Some of the error instances should be reported to Sentry.
+    
+    This commit:
+    
+    - Tries to standardize how we show messages and report errors.

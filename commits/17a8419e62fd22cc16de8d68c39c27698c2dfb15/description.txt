@@ -1,8 +1,0 @@
-commit 17a8419e62fd22cc16de8d68c39c27698c2dfb15
-Merge: 0d4363490 99f4173bf
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 25 14:06:51 2020 -0700
-
-    Merge pull request #6297 from mozilla/dependabot/npm_and_yarn/packages/fxa-content-server/cookie-parser-1.4.5
-    
-    chore(deps): bump cookie-parser from 1.4.3 to 1.4.5 in /packages/fxa-content-server

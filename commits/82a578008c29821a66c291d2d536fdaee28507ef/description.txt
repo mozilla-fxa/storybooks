@@ -1,8 +1,0 @@
-commit 82a578008c29821a66c291d2d536fdaee28507ef
-Merge: 6617d5470 96bd9e09c
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 25 13:54:12 2020 -0700
-
-    Merge pull request #6276 from mozilla/issues/6248
-    
-    New settings: implement verify secondary email

@@ -1,1 +1,0 @@
-Merge pull request #6297 from mozilla/dependabot/npm_and_yarn/packages/fxa-content-server/cookie-parser-1.4.5
