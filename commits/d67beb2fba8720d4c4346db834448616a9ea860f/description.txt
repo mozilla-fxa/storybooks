@@ -1,0 +1,8 @@
+commit d67beb2fba8720d4c4346db834448616a9ea860f
+Merge: 88a8f2b21 a9cf3836b
+Author: Ben Bangert <ben@groovie.org>
+Date:   Tue Sep 15 11:13:04 2020 -0700
+
+    Merge pull request #6437 from mozilla/feat/issue-6345
+    
+    feat(fxa-shared): refactor nestjs shared modules
