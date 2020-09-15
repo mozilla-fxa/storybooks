@@ -1,0 +1,8 @@
+commit 9a68c75e1dcb627a2c005c8a34419b5550a52c81
+Merge: e576a13a9 d3f81b79a
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Tue Sep 15 09:23:23 2020 -0400
+
+    Merge pull request #6424 from mozilla/fxa-23111, r=@chenba
+    
+    fix(metrics): Emit the service name with pairing login complete
