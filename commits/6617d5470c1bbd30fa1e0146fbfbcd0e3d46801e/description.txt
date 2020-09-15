@@ -1,8 +1,0 @@
-commit 6617d5470c1bbd30fa1e0146fbfbcd0e3d46801e
-Merge: 1c2b75745 6905488f2
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Tue Aug 25 13:34:44 2020 -0700
-
-    Merge pull request #6296 from clouserw/dpbot
-    
-    move dependabot config
