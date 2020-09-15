@@ -1,0 +1,1 @@
+Merge pull request #6441 from mozilla/jh/yarnlock

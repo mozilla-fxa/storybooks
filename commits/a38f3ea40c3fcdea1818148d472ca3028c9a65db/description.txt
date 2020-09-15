@@ -1,0 +1,8 @@
+commit a38f3ea40c3fcdea1818148d472ca3028c9a65db
+Merge: d67beb2fb 1b1029421
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Tue Sep 15 15:19:00 2020 -0400
+
+    Merge pull request #6441 from mozilla/jh/yarnlock
+    
+    fix(yarn): update checksum missed by le bot

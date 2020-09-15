@@ -1,5 +1,0 @@
-commit d9b889add4f2fed509f3ae5aaf8c224fc51cb850
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Aug 24 10:39:07 2020 -0400
-
-    refactor(settings): make cta buttons more modular, uniform in size
