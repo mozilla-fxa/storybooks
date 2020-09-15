@@ -1,0 +1,8 @@
+commit eda2052a13145b545972767775325f4e388286fb
+Merge: 2c887da77 e698388b2
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Sep 15 10:13:34 2020 -0700
+
+    Merge pull request #6440 from mozilla/fix-codecov-beta
+    
+    fix(tests): disable codecov beta check annotations

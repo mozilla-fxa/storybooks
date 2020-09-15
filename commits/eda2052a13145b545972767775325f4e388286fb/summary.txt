@@ -1,0 +1,1 @@
+Merge pull request #6440 from mozilla/fix-codecov-beta
