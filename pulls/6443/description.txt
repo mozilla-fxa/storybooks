@@ -1,0 +1,5 @@
+commit 97408dac80e7c2abebd56700a33c785e91c4180e
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Sep 15 15:30:36 2020 -0700
+
+    fix(oauthdb): split creating oauthdb from main process startup. possibly a fix for #6100
