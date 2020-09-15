@@ -1,5 +1,0 @@
-commit d637bb4893cbebd1150a704e980fb15cfa614075
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Aug 24 11:20:33 2020 -0400
-
-    feat(settings): introduce hook to handle errors in mutations

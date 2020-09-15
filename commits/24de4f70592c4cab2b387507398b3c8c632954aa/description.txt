@@ -1,6 +1,0 @@
-commit 24de4f70592c4cab2b387507398b3c8c632954aa
-Merge: d35996579 d637bb489
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Aug 24 14:19:49 2020 -0400
-
-    Merge pull request #6283 from mozilla/jh/settings-updates

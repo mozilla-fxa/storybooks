@@ -1,1 +1,0 @@
-Merge pull request #6270 from mozilla/allow-replacement-character-in-display-safe-strings

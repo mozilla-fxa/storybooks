@@ -1,9 +1,0 @@
-commit 1b71f1034af22de4806248cf30f7e95841b1b882
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Aug 21 11:53:49 2020 -0700
-
-    feat(settings): add verify secondary email to new settings
-    
-    This adds the ui to add a seconday email and verify it with a code.
-    
-    It adds the `/emails` and `emails/verify` routes. `/emails` in order to match the existing settings route.

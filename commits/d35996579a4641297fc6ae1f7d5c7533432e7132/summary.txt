@@ -1,1 +1,0 @@
-Merge pull request #6277 from mozilla/6172-incorrect-card-details-on-reactivation

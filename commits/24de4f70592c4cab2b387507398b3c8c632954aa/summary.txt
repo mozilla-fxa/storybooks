@@ -1,1 +1,0 @@
-Merge pull request #6283 from mozilla/jh/settings-updates

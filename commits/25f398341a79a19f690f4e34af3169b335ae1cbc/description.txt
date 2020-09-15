@@ -1,5 +1,0 @@
-commit 25f398341a79a19f690f4e34af3169b335ae1cbc
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Aug 24 19:28:29 2020 -0400
-
-    feat(settings): add more styles to AlertBar
