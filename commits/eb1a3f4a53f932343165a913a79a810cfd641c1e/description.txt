@@ -1,8 +1,0 @@
-commit eb1a3f4a53f932343165a913a79a810cfd641c1e
-Merge: 1d8e3c913 bb8791b95
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Mon Aug 24 19:51:23 2020 -0700
-
-    Merge pull request #6293 from mozilla/issues/6286
-    
-    feat(gql): added destroySession mutation
