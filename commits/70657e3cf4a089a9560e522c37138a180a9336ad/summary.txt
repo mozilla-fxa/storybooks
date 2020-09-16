@@ -1,1 +1,0 @@
-feat(settings): secondary email delete and make primary functionality

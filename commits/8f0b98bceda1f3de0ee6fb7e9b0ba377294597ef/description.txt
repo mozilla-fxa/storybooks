@@ -1,5 +1,0 @@
-commit 8f0b98bceda1f3de0ee6fb7e9b0ba377294597ef
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Tue Aug 25 23:37:34 2020 -0400
-
-    hook that thing
