@@ -1,1 +1,0 @@
-task(fxa-settings): rework Two-step auth unit row

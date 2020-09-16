@@ -1,0 +1,8 @@
+commit 65be0d1ae5d265bfafe51fd6571ca7b9cec2410f
+Merge: 61660de30 e5c6d77e8
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Wed Sep 16 09:50:24 2020 -0500
+
+    Merge pull request #6430 from chenba/2434-support-products
+    
+    feat(subscriptions): add product specific app/service support field
