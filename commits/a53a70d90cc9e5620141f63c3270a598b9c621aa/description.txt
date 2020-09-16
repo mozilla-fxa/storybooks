@@ -1,0 +1,8 @@
+commit a53a70d90cc9e5620141f63c3270a598b9c621aa
+Merge: a2011d4dd a4407cda0
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Sep 16 12:36:54 2020 -0700
+
+    Merge pull request #6443 from mozilla/oauth-db-timeout
+    
+    fix(oauthdb): split creating oauthdb from main process startup
