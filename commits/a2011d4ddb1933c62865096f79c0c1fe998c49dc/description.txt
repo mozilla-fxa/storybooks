@@ -1,0 +1,8 @@
+commit a2011d4ddb1933c62865096f79c0c1fe998c49dc
+Merge: 4d282aa42 4561064c9
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Sep 16 12:25:50 2020 -0700
+
+    Merge pull request #6456 from mozilla/chore/issue-6454
+    
+    refactor(fxa-shared): cleanup sentry and add exc route

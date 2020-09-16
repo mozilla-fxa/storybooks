@@ -1,0 +1,1 @@
+Merge pull request #6456 from mozilla/chore/issue-6454
