@@ -1,0 +1,8 @@
+commit f300ee889ca34d960670285bbe9f6fd7a799c190
+Merge: 155ab23f2 33947b566
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Sep 16 14:59:59 2020 -0700
+
+    Merge pull request #6451 from mozilla/create-new-tests
+    
+    test(delete-account): add test to recreate an account after deletion using the same email
