@@ -1,0 +1,7 @@
+commit 6e9d4eaea5c0135c8b236432e7e0675506751332
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Sep 16 12:40:51 2020 -0700
+
+    refactor(profile): replaced graphicsmagick with sharp
+    
+    because I'm tired of the extra hoops to maintain gm

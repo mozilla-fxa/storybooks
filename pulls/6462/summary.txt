@@ -1,0 +1,1 @@
+refactor(profile): replaced graphicsmagick with sharp
