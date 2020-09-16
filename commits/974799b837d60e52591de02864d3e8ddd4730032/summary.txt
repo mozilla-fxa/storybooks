@@ -1,0 +1,1 @@
+Merge pull request #6423 from mozilla/jh/5170/settings-refresh
