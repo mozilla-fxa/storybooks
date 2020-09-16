@@ -1,0 +1,8 @@
+commit 8b2fac263e819a3a089d724b06e938f04133914d
+Merge: 31853ad7b 228ed7bc0
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Sep 16 14:11:04 2020 -0400
+
+    Merge pull request #6450 from mozilla/enable-newsletter-experiment
+    
+    chore(experiments): Enable newsletters experiment on 50% of sync users

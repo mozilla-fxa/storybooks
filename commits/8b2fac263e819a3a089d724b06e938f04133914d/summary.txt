@@ -1,0 +1,1 @@
+Merge pull request #6450 from mozilla/enable-newsletter-experiment
