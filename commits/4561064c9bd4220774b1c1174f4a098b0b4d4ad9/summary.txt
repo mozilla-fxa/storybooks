@@ -1,0 +1,1 @@
+refactor(fxa-shared): cleanup sentry and add exc route
