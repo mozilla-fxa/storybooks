@@ -1,0 +1,8 @@
+commit 7ec56cadeb6e19ab6eca121cbf57f88662460f93
+Merge: a53a70d90 72660cb9b
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Sep 16 13:58:56 2020 -0700
+
+    Merge pull request #6464 from mozilla/fix-graphql-dep
+    
+    fix(dep): fixed graphql dep conflict
