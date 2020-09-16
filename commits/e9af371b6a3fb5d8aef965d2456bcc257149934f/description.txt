@@ -1,0 +1,8 @@
+commit e9af371b6a3fb5d8aef965d2456bcc257149934f
+Merge: 65be0d1ae a39ab4fbf
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Sep 16 12:19:20 2020 -0400
+
+    Merge pull request #6452 from mozilla/fix-browser-name
+    
+    fix(tests): Point to correct metrics doc for validation which caused `browserName` unknown

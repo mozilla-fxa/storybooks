@@ -1,0 +1,1 @@
+Merge pull request #6452 from mozilla/fix-browser-name
