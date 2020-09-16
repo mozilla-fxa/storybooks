@@ -1,1 +1,0 @@
-Merge pull request #6305 from mozilla/fix-storybook-provider
