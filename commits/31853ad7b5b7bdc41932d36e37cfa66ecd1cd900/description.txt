@@ -1,0 +1,8 @@
+commit 31853ad7b5b7bdc41932d36e37cfa66ecd1cd900
+Merge: e9af371b6 c2e450054
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Sep 16 10:34:12 2020 -0700
+
+    Merge pull request #6453 from mozilla/relock-update
+    
+    chore(deps): updated yarn relock
