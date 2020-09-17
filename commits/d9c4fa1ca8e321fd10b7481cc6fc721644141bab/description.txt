@@ -1,0 +1,8 @@
+commit d9c4fa1ca8e321fd10b7481cc6fc721644141bab
+Merge: 2af57d70c 87db04dc9
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Sep 17 10:15:04 2020 -0700
+
+    Merge pull request #6475 from mozilla/ci-check-mysql
+    
+    chore(ci): wait for mysql to respond on auth-server tests
