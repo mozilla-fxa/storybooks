@@ -1,0 +1,1 @@
+Merge pull request #6466 from mozilla/dependabot/npm_and_yarn/types/jsrsasign-8.0.5

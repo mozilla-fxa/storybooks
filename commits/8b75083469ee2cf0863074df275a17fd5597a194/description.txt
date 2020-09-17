@@ -1,0 +1,8 @@
+commit 8b75083469ee2cf0863074df275a17fd5597a194
+Merge: 0c050ae94 8bb04bdce
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Thu Sep 17 10:40:28 2020 -0500
+
+    Merge pull request #6466 from mozilla/dependabot/npm_and_yarn/types/jsrsasign-8.0.5
+    
+    chore(deps-dev): bump @types/jsrsasign from 8.0.3 to 8.0.5
