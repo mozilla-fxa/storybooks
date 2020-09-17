@@ -1,0 +1,8 @@
+commit 4dff71248550e3b544d40f30315645d4a455bb12
+Merge: f300ee889 03fe47d8d
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Sep 17 02:47:39 2020 -0400
+
+    Merge pull request #6436 from mozilla/4914-change-2fa
+    
+    task(fxa-settings): add change codes modal to 2fa

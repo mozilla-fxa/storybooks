@@ -1,0 +1,1 @@
+Merge pull request #6436 from mozilla/4914-change-2fa
