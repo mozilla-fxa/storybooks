@@ -1,0 +1,8 @@
+commit 049587431e3d732d8382b3d665b003c0a09e6388
+Merge: 3fbd73583 bfee9b658
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Sep 17 11:42:26 2020 -0700
+
+    Merge pull request #6479 from mozilla/mono-version
+    
+    chore(docker): added /app/version.json to fxa-mono
