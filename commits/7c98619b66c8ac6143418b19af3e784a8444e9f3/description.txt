@@ -1,8 +1,0 @@
-commit 7c98619b66c8ac6143418b19af3e784a8444e9f3
-Merge: 7f5010674 47074a150
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Thu Aug 27 12:07:45 2020 -0400
-
-    Merge pull request #6295 from mozilla/fxa-2423, r=@jodyheavener
-    
-    fix(totp): Add mixin to verify session if a request is `unverified session` based
