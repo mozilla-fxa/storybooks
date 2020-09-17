@@ -1,8 +1,0 @@
-commit c714b3f7a9687895c2641f8d12d60f4132892b52
-Merge: ab617f2c3 d74cc0803
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Aug 27 11:18:13 2020 -0400
-
-    Merge pull request #6197 from byrw/removeSignInDoorhanger
-    
-    fix(content-server): create fake hidden input on sign in
