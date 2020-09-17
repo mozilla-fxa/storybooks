@@ -1,0 +1,8 @@
+commit 3b427b86a1888cdd96a9864cd8602574c8592362
+Merge: 4dff71248 29a01f0ce
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Sep 17 00:14:53 2020 -0700
+
+    Merge pull request #6468 from mozilla/circleci-size
+    
+    chore(ci): increase fxa-auth-server ci to medium+
