@@ -1,0 +1,5 @@
+commit 068c16b22ca16f55f9530d2521c9f4374a84d4ae
+Author: fxa-bananafox[bot] <70546514+fxa-bananafox[bot]@users.noreply.github.com>
+Date:   Thu Sep 17 14:14:28 2020 +0000
+
+    chore(deps): updated yarn.lock
