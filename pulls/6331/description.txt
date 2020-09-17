@@ -1,7 +1,0 @@
-commit cb90202fd74dbf7a1949e5cddc7a1a0290e24ae9
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Thu Aug 27 13:52:35 2020 -0700
-
-    feat(docker): publish fxa-mono docker image
-    
-    because we want to transition from an image per service to one image for all services

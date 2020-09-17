@@ -1,1 +1,0 @@
-feat(docker): publish fxa-mono docker image
