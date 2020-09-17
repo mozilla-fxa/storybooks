@@ -1,8 +1,0 @@
-commit 0df9e95b6515f7c6f467b7543c2beda8afccb82e
-Merge: 7c98619b6 67f2e6c3e
-Author: Vlad Filippov <vlad.filippov@gmail.com>
-Date:   Thu Aug 27 17:26:07 2020 -0400
-
-    Merge pull request #6330 from mozilla/fenix-now
-    
-    feat(mobile): direct users to Firefox for Android release page instead of Beta

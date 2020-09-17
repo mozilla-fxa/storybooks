@@ -1,0 +1,8 @@
+commit fa57cb1dcc5d4280c54239f7b760ee85871754da
+Merge: 8f8837e44 b32addf86
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Sep 17 14:39:12 2020 -0700
+
+    Merge pull request #6482 from mozilla/fix-dep-warnings
+    
+    chore(deps): fixed yarn dependency warnings
