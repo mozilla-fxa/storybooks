@@ -1,0 +1,8 @@
+commit 7014f8d9df8db8c7b98c4751f285bece4917b08b
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Sep 17 07:19:11 2020 +0000
+
+    task(monorepo): move deps to correct sub-packages
+    
+    this is fixing a goof from 05a00a0aeee1e3bf2441b7f279a1c9fa5e089ed0
+    - fixes #6433

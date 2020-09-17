@@ -1,0 +1,1 @@
+task(monorepo): move deps to correct sub-packages
