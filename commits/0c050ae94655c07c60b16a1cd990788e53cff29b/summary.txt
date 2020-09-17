@@ -1,0 +1,1 @@
+Merge pull request #6431 from mozilla/6121-product-as-service-name

@@ -1,0 +1,8 @@
+commit 0c050ae94655c07c60b16a1cd990788e53cff29b
+Merge: 3b427b86a bc6008280
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Thu Sep 17 07:57:21 2020 -0700
+
+    Merge pull request #6431 from mozilla/6121-product-as-service-name
+    
+    feat(payments): display product name in subscription payment signup / signin flow

@@ -1,8 +1,0 @@
-commit ab617f2c3a022654c3331ae1770cac3ae51baf79
-Merge: b652d111f 38ecd1c54
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Aug 27 10:39:03 2020 -0400
-
-    Merge pull request #6292 from mozilla/jh/6107/secondary-email-mod
-    
-    feat(settings): secondary email delete and make primary functionality
