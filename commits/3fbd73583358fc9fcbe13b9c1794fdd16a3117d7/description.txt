@@ -1,0 +1,8 @@
+commit 3fbd73583358fc9fcbe13b9c1794fdd16a3117d7
+Merge: d9c4fa1ca a5ca89dfa
+Author: Ben Bangert <ben@groovie.org>
+Date:   Thu Sep 17 10:33:57 2020 -0700
+
+    Merge pull request #6472 from mozilla/train-188
+    
+    Release 1.188.0
