@@ -1,0 +1,8 @@
+commit 2af57d70c45eaf258787c894cf6e7f448ef9f6fc
+Merge: 80e7defd0 b5a303bfa
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Thu Sep 17 10:05:29 2020 -0700
+
+    Merge pull request #5489 from mozilla/adr-hawk
+    
+    docs(adrs): Added deprecate hawk ADR
