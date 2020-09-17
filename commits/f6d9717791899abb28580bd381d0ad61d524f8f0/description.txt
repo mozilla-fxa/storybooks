@@ -1,5 +1,0 @@
-commit f6d9717791899abb28580bd381d0ad61d524f8f0
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed Aug 26 22:19:51 2020 -0400
-
-    feat(settings): add useAlertBar hook
