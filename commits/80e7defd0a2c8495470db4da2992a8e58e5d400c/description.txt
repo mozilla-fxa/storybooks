@@ -1,0 +1,8 @@
+commit 80e7defd0a2c8495470db4da2992a8e58e5d400c
+Merge: 8b7508346 8377bd690
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Thu Sep 17 10:50:29 2020 -0500
+
+    Merge pull request #6449 from mozilla/dependabot/npm_and_yarn/jest-26.4.2
+    
+    chore(deps-dev): bump jest from 24.9.0 to 26.4.2

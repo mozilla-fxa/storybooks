@@ -1,0 +1,1 @@
+Merge pull request #6449 from mozilla/dependabot/npm_and_yarn/jest-26.4.2

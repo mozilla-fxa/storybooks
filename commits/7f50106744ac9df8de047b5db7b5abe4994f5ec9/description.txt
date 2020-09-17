@@ -1,8 +1,0 @@
-commit 7f50106744ac9df8de047b5db7b5abe4994f5ec9
-Merge: c714b3f7a faa5f8c56
-Author: Lauren Zugai <lauren@zugai.com>
-Date:   Thu Aug 27 10:45:25 2020 -0500
-
-    Merge pull request #6285 from mozilla/issues/4869
-    
-    feat(settings): Add avatar drop down component
