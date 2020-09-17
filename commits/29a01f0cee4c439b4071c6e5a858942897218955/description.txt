@@ -1,0 +1,5 @@
+commit 29a01f0cee4c439b4071c6e5a858942897218955
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Sep 17 00:13:06 2020 -0700
+
+    chore(ci): increase fxa-auth-server ci to medium+

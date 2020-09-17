@@ -1,0 +1,1 @@
+chore(ci): increase fxa-auth-server ci to medium+
