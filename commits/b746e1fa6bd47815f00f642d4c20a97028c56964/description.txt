@@ -1,0 +1,8 @@
+commit b746e1fa6bd47815f00f642d4c20a97028c56964
+Merge: 049587431 a8cc232b9
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Sep 17 12:28:19 2020 -0700
+
+    Merge pull request #6469 from mozilla/6433-fix-dep-depth
+    
+    task(monorepo): move deps to correct sub-packages
