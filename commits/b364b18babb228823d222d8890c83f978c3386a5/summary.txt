@@ -1,1 +1,0 @@
-fix(payments): display only one in-progress spinner during cancellation

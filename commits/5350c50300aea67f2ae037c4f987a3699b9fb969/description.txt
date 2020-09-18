@@ -1,8 +1,0 @@
-commit 5350c50300aea67f2ae037c4f987a3699b9fb969
-Merge: 0df9e95b6 2742c1d07
-Author: Danny Coates <dannycoates@gmail.com>
-Date:   Fri Aug 28 10:29:03 2020 -0700
-
-    Merge pull request #6331 from mozilla/fxa-mono
-    
-    fxa-mono docker image
