@@ -1,0 +1,8 @@
+commit 797b9a8842499f28423b891cd5625d4068567598
+Merge: d2881897c 2391df7be
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Sep 18 09:30:14 2020 -0700
+
+    Merge pull request #6487 from mozilla/dependabot/npm_and_yarn/jws-4.0.0
+    
+    chore(deps-dev): bump jws from 3.1.5 to 4.0.0
