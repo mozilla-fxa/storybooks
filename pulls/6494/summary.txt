@@ -1,0 +1,1 @@
+docs(fxa-shared): add nestjs module docs

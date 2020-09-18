@@ -1,0 +1,14 @@
+commit 29744d562dab0a42b64e74d1cb4f338397c8ed93
+Author: Ben Bangert <ben@groovie.org>
+Date:   Fri Sep 18 13:59:45 2020 -0700
+
+    docs(fxa-shared): add nestjs module docs
+    
+    Because:
+    
+    * It's nice to have some documentation on using the shared modules.
+    
+    This commit:
+    
+    * Add's documentation on configuration and usage of the NestJS shared
+      modules.
