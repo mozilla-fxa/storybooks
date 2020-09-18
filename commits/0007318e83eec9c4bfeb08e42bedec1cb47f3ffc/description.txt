@@ -1,0 +1,8 @@
+commit 0007318e83eec9c4bfeb08e42bedec1cb47f3ffc
+Merge: 797b9a884 d10233b07
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Sep 18 11:54:30 2020 -0700
+
+    Merge pull request #6492 from mozilla/yarn-up
+    
+    Update yarn to 2.2.2 and dedupe dependencies
