@@ -1,0 +1,5 @@
+commit 668edcd4f395c7480178fe10c8d378fe129f7fbb
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Sep 17 23:56:19 2020 -0700
+
+    chore(deps): updated dependabot.yml
