@@ -1,8 +1,0 @@
-commit 09df41a0c7523ec3c07ebc1ebf784bdfb6410ef9
-Merge: 5350c5030 b364b18ba
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Fri Aug 28 12:12:20 2020 -0700
-
-    Merge pull request #6339 from mozilla/6234-double-cancel
-    
-    fix(payments): display only one in-progress spinner during subscription cancellation
