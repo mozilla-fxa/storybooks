@@ -1,0 +1,8 @@
+commit d2881897cb8d641758b46d848e8e7882445366ef
+Merge: 5738da74b a68310952
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Sep 18 09:20:04 2020 -0700
+
+    Merge pull request #6483 from mozilla/up-mozlog
+    
+    chore(deps): update mozlog

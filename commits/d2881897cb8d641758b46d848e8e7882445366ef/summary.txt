@@ -1,0 +1,1 @@
+Merge pull request #6483 from mozilla/up-mozlog
