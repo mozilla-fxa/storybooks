@@ -1,0 +1,1 @@
+Merge pull request #6500 from mozilla/dependabot/npm_and_yarn/base64url-3.0.1

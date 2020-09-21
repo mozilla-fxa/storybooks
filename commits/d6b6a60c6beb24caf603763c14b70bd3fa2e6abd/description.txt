@@ -1,0 +1,8 @@
+commit d6b6a60c6beb24caf603763c14b70bd3fa2e6abd
+Merge: 33b67d55e d86b2c6a3
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Sep 21 09:24:10 2020 -0700
+
+    Merge pull request #6500 from mozilla/dependabot/npm_and_yarn/base64url-3.0.1
+    
+    chore(deps): bump base64url from 3.0.0 to 3.0.1
