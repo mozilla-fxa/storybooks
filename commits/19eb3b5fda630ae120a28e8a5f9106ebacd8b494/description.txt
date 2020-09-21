@@ -1,8 +1,0 @@
-commit 19eb3b5fda630ae120a28e8a5f9106ebacd8b494
-Merge: 09df41a0c 20c0c4ab2
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Mon Aug 31 11:33:16 2020 -0400
-
-    Merge pull request #6271 from byrw/issue6235
-    
-    fix(content-server): fix padding in link from legal footer
