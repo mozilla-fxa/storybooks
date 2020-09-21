@@ -1,0 +1,8 @@
+commit 33b67d55ea70747fd2856adf9f954ed61194898b
+Merge: 0007318e8 d7e811cd7
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Mon Sep 21 10:20:40 2020 -0500
+
+    Merge pull request #6499 from mozilla/dependabot/npm_and_yarn/types/prettier-2.1.1
+    
+    chore(deps-dev): bump @types/prettier from 2.0.1 to 2.1.1
