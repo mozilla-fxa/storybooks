@@ -1,0 +1,8 @@
+commit ec0c989924b927f4239caaa3a907ac9f245df7d9
+Merge: d6b6a60c6 3fdc1a99f
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Mon Sep 21 09:26:17 2020 -0700
+
+    Merge pull request #6497 from mozilla/dependabot/npm_and_yarn/ts-loader-8.0.4
+    
+    chore(deps-dev): bump ts-loader from 6.2.2 to 8.0.4
