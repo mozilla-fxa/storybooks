@@ -1,0 +1,1 @@
+Merge pull request #6494 from mozilla/docs/shared-readmes

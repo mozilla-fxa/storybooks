@@ -1,0 +1,8 @@
+commit 242614d75e1021370396521cbcd0c7564e319960
+Merge: d323fc864 dd9faea0a
+Author: Ben Bangert <ben@groovie.org>
+Date:   Mon Sep 21 13:42:52 2020 -0700
+
+    Merge pull request #6494 from mozilla/docs/shared-readmes
+    
+    docs(fxa-shared): add nestjs module docs
