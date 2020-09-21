@@ -1,0 +1,1 @@
+Merge pull request #6457 from mozilla/add-tests-for-smoketest-suite
