@@ -1,1 +1,0 @@
-chore(payments): clean up routes to just use SCA payment flow
