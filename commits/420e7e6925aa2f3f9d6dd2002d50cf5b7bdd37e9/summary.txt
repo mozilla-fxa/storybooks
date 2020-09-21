@@ -1,0 +1,1 @@
+Merge pull request #6495 from jackiemunroe/fxa-2496_extract_db
