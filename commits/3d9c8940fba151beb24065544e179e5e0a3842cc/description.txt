@@ -1,0 +1,8 @@
+commit 3d9c8940fba151beb24065544e179e5e0a3842cc
+Merge: 4df5b49ca 9f6206b30
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Tue Sep 22 11:41:58 2020 -0400
+
+    Merge pull request #6516 from mozilla/dependabot/npm_and_yarn/css-3.0.0
+    
+    chore(deps-dev): bump css from 2.2.3 to 3.0.0
