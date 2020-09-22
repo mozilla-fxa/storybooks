@@ -1,0 +1,1 @@
+Merge pull request #6506 from chenba/2552-empty-app
