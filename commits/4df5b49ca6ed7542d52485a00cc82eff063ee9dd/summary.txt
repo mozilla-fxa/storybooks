@@ -1,0 +1,1 @@
+Merge pull request #6518 from mozilla/dependabot/npm_and_yarn/express-http-proxy-1.6.2
