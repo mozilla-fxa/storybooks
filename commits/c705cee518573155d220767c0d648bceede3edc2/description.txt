@@ -1,0 +1,8 @@
+commit c705cee518573155d220767c0d648bceede3edc2
+Merge: 242614d75 61ec3a100
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Tue Sep 22 09:21:23 2020 -0500
+
+    Merge pull request #6517 from mozilla/dependabot/npm_and_yarn/tap-14.10.8
+    
+    chore(deps-dev): bump tap from 14.10.7 to 14.10.8
