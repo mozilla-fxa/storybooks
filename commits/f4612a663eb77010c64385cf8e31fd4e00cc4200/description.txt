@@ -1,0 +1,5 @@
+commit f4612a663eb77010c64385cf8e31fd4e00cc4200
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Sep 22 14:21:14 2020 -0700
+
+    feat(settings): added passwordChange call to new settings
