@@ -1,0 +1,8 @@
+commit 1dc9c80a63f586634a5ccd04b4498dde1a159ff1
+Merge: ed025cb32 69f44d78e
+Author: Ben Bangert <ben@groovie.org>
+Date:   Tue Sep 22 11:29:26 2020 -0700
+
+    Merge pull request #6491 from mozilla/feat/issue-6262
+    
+    feat(admin-server): convert to NestJS

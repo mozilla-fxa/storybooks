@@ -1,5 +1,0 @@
-commit 08b0ec0f21bdb95c2fa9144f8e0fd1740e807315
-Author: Vijay Budhram <vbudhram@gmail.com>
-Date:   Wed Aug 26 15:54:08 2020 -0400
-
-    chore(tests): Add settings v2 initial functional testing
