@@ -1,0 +1,1 @@
+Merge pull request #6514 from jackiemunroe/fxa-2399_user_customer_table
