@@ -1,0 +1,8 @@
+commit ed025cb32b562daf2b8f8900eed27e90dece00ee
+Merge: 3dc29184b f3fe6967f
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Tue Sep 22 13:48:32 2020 -0400
+
+    Merge pull request #6519 from mozilla/fxa-2528
+    
+    fix(pairing): Redirect to pairing from fxa desktop preferences entrypoint
