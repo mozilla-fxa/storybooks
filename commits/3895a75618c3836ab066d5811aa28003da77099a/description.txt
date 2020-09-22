@@ -1,5 +1,0 @@
-commit 3895a75618c3836ab066d5811aa28003da77099a
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Thu Aug 27 20:58:40 2020 -0400
-
-    refactor(settings): various cosmetic changes to better reflect designs
