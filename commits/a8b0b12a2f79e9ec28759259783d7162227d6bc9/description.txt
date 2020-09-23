@@ -1,0 +1,8 @@
+commit a8b0b12a2f79e9ec28759259783d7162227d6bc9
+Merge: b8ba164a8 64f03a544
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Wed Sep 23 13:53:06 2020 -0700
+
+    Merge pull request #6504 from mozilla/wip-gql-redirect
+    
+    fix(settings): improve GQL error handling to avoid redirect loop
