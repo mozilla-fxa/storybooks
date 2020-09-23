@@ -1,7 +1,0 @@
-commit a2b28e48f3dbf8f2cf00f80282ec4220f170cf87
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Tue Sep 1 19:59:16 2020 -0400
-
-    chore(payments): clean up subplat API code unused after SCA switch over
-    
-    fixes #5850

@@ -1,1 +1,0 @@
-chore(payments): clean up subplat API code unused after SCA switch over
