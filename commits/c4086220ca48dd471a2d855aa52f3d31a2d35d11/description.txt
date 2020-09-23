@@ -1,8 +1,0 @@
-commit c4086220ca48dd471a2d855aa52f3d31a2d35d11
-Merge: 89cdaf831 408fcfe2b
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Wed Sep 2 09:01:28 2020 -0500
-
-    Merge pull request #6353 from chenba/2494-bad-card-first-retry
-    
-    fix(payments): pay invoice on retry
