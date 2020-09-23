@@ -1,8 +1,0 @@
-commit 4e23902476602e5d1d76193c93d66450b2d39b97
-Merge: cbcdd4275 d5e444416
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed Sep 2 12:50:08 2020 -0400
-
-    Merge pull request #6350 from mozilla/jh/settings-visual-tweaks
-    
-    refactor(settings): various cosmetic changes to better reflect designs

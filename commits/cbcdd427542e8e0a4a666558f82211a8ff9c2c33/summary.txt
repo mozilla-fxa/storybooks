@@ -1,1 +1,0 @@
-Merge pull request #6360 from mozilla/jh/disable-ts-incremental

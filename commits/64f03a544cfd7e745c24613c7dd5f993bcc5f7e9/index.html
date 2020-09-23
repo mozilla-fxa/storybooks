@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Storybooks for 64f03a544cfd7e745c24613c7dd5f993bcc5f7e9</title>
+      
+    </head>
+    <body>
+      <h1>Storybooks for 64f03a544cfd7e745c24613c7dd5f993bcc5f7e9</h1>
+      <ul>
+        <li>
+    <a href="./fxa-settings/index.html">fxa-settings</a>
+    
+    
+  </li>
+      </ul>
+      <h2>Description</h2>
+          <pre>commit 64f03a544cfd7e745c24613c7dd5f993bcc5f7e9
+Author: Jared Hirsch <ohai@6a68.net>
+Date:   Mon Sep 21 08:57:57 2020 -0700
+
+    fix(settings): improve GQL error handling to avoid redirect loop
+    
+    * Update the GQL API server to only return an AuthenticationError if it
+    received an auth-related 400 or 401 error from auth-server. Otherwise,
+    just return a generic ApolloError.
+    
+    * Add tests for the front-end GQL library to be sure this works
+    correctly.
+    
+    Fixes #6400.</pre>
+    </body>
+  </html>
