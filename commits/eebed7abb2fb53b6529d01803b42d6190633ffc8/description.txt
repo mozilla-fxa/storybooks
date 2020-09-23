@@ -1,0 +1,8 @@
+commit eebed7abb2fb53b6529d01803b42d6190633ffc8
+Merge: a8b0b12a2 fd18dd5b0
+Author: Ben Bangert <ben@groovie.org>
+Date:   Wed Sep 23 14:05:17 2020 -0700
+
+    Merge pull request #6496 from mozilla/refactor/cleanup-proxy
+    
+    refactor(event-broker): cleanup proxy logic

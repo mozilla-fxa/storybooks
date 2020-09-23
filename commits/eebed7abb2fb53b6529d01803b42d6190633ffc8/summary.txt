@@ -1,0 +1,1 @@
+Merge pull request #6496 from mozilla/refactor/cleanup-proxy
