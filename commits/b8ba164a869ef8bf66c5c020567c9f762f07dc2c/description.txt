@@ -1,0 +1,8 @@
+commit b8ba164a869ef8bf66c5c020567c9f762f07dc2c
+Merge: 35ebd4b47 c5a6fafab
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Sep 23 14:58:40 2020 -0400
+
+    Merge pull request #6467 from mozilla/6253-tooltip-component
+    
+    task(fxa-settings): Tooltip component

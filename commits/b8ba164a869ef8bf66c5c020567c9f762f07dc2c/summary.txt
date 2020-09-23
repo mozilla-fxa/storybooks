@@ -1,0 +1,1 @@
+Merge pull request #6467 from mozilla/6253-tooltip-component
