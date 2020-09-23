@@ -1,0 +1,1 @@
+Merge pull request #6520 from mozilla/5094-connected-services-skeleton

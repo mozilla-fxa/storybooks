@@ -1,0 +1,8 @@
+commit 35ebd4b47625a14e09b3e9096c56a1c1fcd42f28
+Merge: 142f24557 aca7f8aae
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Sep 23 14:58:19 2020 -0400
+
+    Merge pull request #6520 from mozilla/5094-connected-services-skeleton
+    
+    task(fxa-settings): Connected Services skeleton
