@@ -1,0 +1,7 @@
+commit 6d6beec8eeb13f7f9970df439bdd3c30d33b9711
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Sep 23 00:10:09 2020 +0000
+
+    task(fxa-settings): filtering connected devices
+    
+    - fixes #5096

@@ -1,8 +1,0 @@
-commit 2f4c5419f6af34af252f1ef8a7137170569c9f27
-Merge: 4e2390247 c1cb45e9d
-Author: Barry Chen <bchen@mozilla.com>
-Date:   Wed Sep 2 16:52:43 2020 -0500
-
-    Merge pull request #6363 from mozilla/train-186
-    
-    main <- 186.1
