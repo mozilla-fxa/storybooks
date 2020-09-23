@@ -1,0 +1,1 @@
+Merge pull request #6525 from mozilla/dependabot/npm_and_yarn/google-libphonenumber-3.2.13

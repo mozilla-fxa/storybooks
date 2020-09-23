@@ -1,0 +1,8 @@
+commit 142f24557c3e14d6f29b1da8e5ca80c8df09069c
+Merge: 5daa7a12c c3a204ae5
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Sep 23 11:19:04 2020 -0400
+
+    Merge pull request #6525 from mozilla/dependabot/npm_and_yarn/google-libphonenumber-3.2.13
+    
+    chore(deps): bump google-libphonenumber from 3.2.9 to 3.2.13
