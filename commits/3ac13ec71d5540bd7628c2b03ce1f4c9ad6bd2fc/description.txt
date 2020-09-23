@@ -1,0 +1,8 @@
+commit 3ac13ec71d5540bd7628c2b03ce1f4c9ad6bd2fc
+Merge: f09a23098 50180a2dc
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Wed Sep 23 10:58:49 2020 -0400
+
+    Merge pull request #6527 from mozilla/dependabot/npm_and_yarn/subscriptions-transport-ws-0.9.18
+    
+    chore(deps): bump subscriptions-transport-ws from 0.9.16 to 0.9.18
