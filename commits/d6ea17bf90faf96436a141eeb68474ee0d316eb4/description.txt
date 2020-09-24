@@ -1,0 +1,8 @@
+commit d6ea17bf90faf96436a141eeb68474ee0d316eb4
+Merge: 9ea400f59 7af1524b2
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Sep 24 12:31:21 2020 -0400
+
+    Merge pull request #6537 from mozilla/5096-filter-connected-services
+    
+    task(fxa-settings): filtering connected devices
