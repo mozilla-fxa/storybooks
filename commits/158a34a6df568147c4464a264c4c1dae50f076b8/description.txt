@@ -1,0 +1,5 @@
+commit 158a34a6df568147c4464a264c4c1dae50f076b8
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Thu Sep 24 09:43:00 2020 -0700
+
+    chore(deps): updated cldr-core
