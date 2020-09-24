@@ -1,0 +1,8 @@
+commit 2357ca3bc823a69e76a1707403d1704bcdaa612a
+Merge: 58d635faa 9c8dd7de0
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Sep 24 11:49:44 2020 -0400
+
+    Merge pull request #6313 from mozilla/fxa-4851
+    
+    chore(tests): Add settings v2 initial functional testing
