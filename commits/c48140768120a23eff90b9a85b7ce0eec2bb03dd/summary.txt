@@ -1,0 +1,1 @@
+feat(settings): added passwordChange call to new settings
