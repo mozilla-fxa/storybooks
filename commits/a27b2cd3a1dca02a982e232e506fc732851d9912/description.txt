@@ -1,0 +1,8 @@
+commit a27b2cd3a1dca02a982e232e506fc732851d9912
+Merge: 2357ca3bc 40ba7aa03
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Sep 24 11:57:09 2020 -0400
+
+    Merge pull request #6541 from mozilla/dependabot/npm_and_yarn/keyv-4.0.3
+    
+    chore(deps): bump keyv from 3.0.0 to 4.0.3
