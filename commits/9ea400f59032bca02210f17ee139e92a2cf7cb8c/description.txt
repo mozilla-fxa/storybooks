@@ -1,0 +1,8 @@
+commit 9ea400f59032bca02210f17ee139e92a2cf7cb8c
+Merge: a27b2cd3a 90b9fc4cc
+Author: Ben Bangert <ben@groovie.org>
+Date:   Thu Sep 24 09:07:50 2020 -0700
+
+    Merge pull request #6544 from mozilla/feat/issue-6493
+    
+    feat(auth-server): delete stripe record

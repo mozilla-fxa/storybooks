@@ -1,0 +1,1 @@
+Merge pull request #6544 from mozilla/feat/issue-6493
