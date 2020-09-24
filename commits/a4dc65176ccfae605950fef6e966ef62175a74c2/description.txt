@@ -1,0 +1,8 @@
+commit a4dc65176ccfae605950fef6e966ef62175a74c2
+Merge: eebed7abb 690a6b31f
+Author: Jody Heavener <j.heavener@gmail.com>
+Date:   Wed Sep 23 20:05:25 2020 -0400
+
+    Merge pull request #6442 from mozilla/jh/6249/settings-standardize-errors
+    
+    feat(settings): standardize error/success messages and reporting

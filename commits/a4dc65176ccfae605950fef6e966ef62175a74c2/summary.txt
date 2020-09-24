@@ -1,0 +1,1 @@
+Merge pull request #6442 from mozilla/jh/6249/settings-standardize-errors
