@@ -1,1 +1,0 @@
-Merge pull request #6365 from mozilla/yarn-relock
