@@ -1,7 +1,0 @@
-commit 28066579aa4f989688ebe2ab4a7ddde1117f9f35
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Wed Sep 2 15:20:25 2020 -0400
-
-    chore(payments): cleanup of pre-SCA code in payments-server
-    
-    fixes #5928
