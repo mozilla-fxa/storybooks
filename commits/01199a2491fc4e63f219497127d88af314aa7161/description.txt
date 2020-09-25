@@ -1,0 +1,5 @@
+commit 01199a2491fc4e63f219497127d88af314aa7161
+Author: Vijay Budhram <vbudhram@gmail.com>
+Date:   Fri Sep 25 12:12:44 2020 -0400
+
+    fix(tests): Store test results in insights
