@@ -1,0 +1,8 @@
+commit 8d0cb87e1848614f58a9728a4c4738c29ef7ec2b
+Merge: b35a2bce1 3c77fe5aa
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Sep 25 09:22:19 2020 -0700
+
+    Merge pull request #6548 from mozilla/dependabot/npm_and_yarn/types/storybook__addon-actions-5.2.1
+    
+    chore(deps-dev): bump @types/storybook__addon-actions from 3.4.3 to 5.2.1
