@@ -1,0 +1,8 @@
+commit 8fd593fcf089b07c67ae997081344e0b1bdc44cd
+Merge: 8fe183f62 01122d032
+Author: Jackie Munroe <jackiemunroe@users.noreply.github.com>
+Date:   Fri Sep 25 10:36:44 2020 -0700
+
+    Merge pull request #6547 from jackiemunroe/fxa-2400_crud_accountCustomers
+    
+    feat(shared): add CRUD methods for maintaining fxa user and customer relationship
