@@ -1,0 +1,8 @@
+commit 06c7615457137aa6438bdb41ad18d0d646f7ae2b
+Merge: cae263032 e0b044cfd
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Fri Sep 25 09:07:21 2020 -0500
+
+    Merge pull request #6551 from mozilla/dependabot/npm_and_yarn/fast-text-encoding-1.0.3
+    
+    chore(deps): bump fast-text-encoding from 1.0.2 to 1.0.3
