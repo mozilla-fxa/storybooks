@@ -1,0 +1,8 @@
+commit b35a2bce1126407e8880ac6d28676bb91e9e2869
+Merge: 06c761545 c48140768
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Fri Sep 25 08:54:51 2020 -0700
+
+    Merge pull request #6523 from mozilla/change-pw
+    
+    feat(settings): added passwordChange call to new settings

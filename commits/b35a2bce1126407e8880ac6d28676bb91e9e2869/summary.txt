@@ -1,0 +1,1 @@
+Merge pull request #6523 from mozilla/change-pw
