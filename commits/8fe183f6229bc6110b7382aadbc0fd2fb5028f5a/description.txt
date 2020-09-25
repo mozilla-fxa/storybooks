@@ -1,0 +1,8 @@
+commit 8fe183f6229bc6110b7382aadbc0fd2fb5028f5a
+Merge: 8d0cb87e1 325c2f4aa
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Fri Sep 25 12:47:55 2020 -0400
+
+    Merge pull request #6546 from mozilla/test-circle-insights, r=@dannycoates
+    
+    fix(tests): Store test results in insights

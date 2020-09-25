@@ -1,0 +1,1 @@
+Merge pull request #6546 from mozilla/test-circle-insights, r=@dannycoates
