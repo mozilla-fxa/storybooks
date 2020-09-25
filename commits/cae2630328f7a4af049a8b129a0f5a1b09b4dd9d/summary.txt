@@ -1,0 +1,1 @@
+Merge pull request #6550 from mozilla/dependabot/npm_and_yarn/types/backbone-1.4.4

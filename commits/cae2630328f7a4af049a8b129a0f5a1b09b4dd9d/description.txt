@@ -1,0 +1,8 @@
+commit cae2630328f7a4af049a8b129a0f5a1b09b4dd9d
+Merge: b9bdd9d9d 2e4261131
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Fri Sep 25 09:06:00 2020 -0500
+
+    Merge pull request #6550 from mozilla/dependabot/npm_and_yarn/types/backbone-1.4.4
+    
+    chore(deps-dev): bump @types/backbone from 1.4.2 to 1.4.4
