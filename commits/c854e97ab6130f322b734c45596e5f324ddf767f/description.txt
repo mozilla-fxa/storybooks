@@ -1,0 +1,8 @@
+commit c854e97ab6130f322b734c45596e5f324ddf767f
+Merge: 8fd593fcf f23e6dcbf
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Mon Sep 28 11:31:44 2020 -0400
+
+    Merge pull request #6557 from mozilla/dependabot/npm_and_yarn/acorn-8.0.1
+    
+    chore(deps-dev): bump acorn from 5.7.4 to 8.0.1

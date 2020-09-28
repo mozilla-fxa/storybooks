@@ -1,0 +1,1 @@
+Merge pull request #6557 from mozilla/dependabot/npm_and_yarn/acorn-8.0.1
