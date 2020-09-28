@@ -1,0 +1,7 @@
+/*! asmCrypto v0.22.0, (c) 2018 asmCrypto.js, opensource.org/licenses/MIT */
+
+/**
+ * @file {@link http://asmjs.org Asm.js} implementation of the {@link https://en.wikipedia.org/wiki/Advanced_Encryption_Standard Advanced Encryption Standard}.
+ * @author Artem S Vybornov <vybornov@gmail.com>
+ * @license MIT
+ */

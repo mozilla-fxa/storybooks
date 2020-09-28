@@ -1,0 +1,1 @@
+Merge pull request #6559 from mozilla/dependabot/npm_and_yarn/duration-js-4.0.0
