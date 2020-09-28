@@ -1,1 +1,0 @@
-Merge pull request #6377 from mozilla/jh/6359/settings-ios-user-dropdown

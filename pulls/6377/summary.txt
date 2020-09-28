@@ -1,1 +1,0 @@
-fix(settings): fix vertical spacing in avatar dropdown
