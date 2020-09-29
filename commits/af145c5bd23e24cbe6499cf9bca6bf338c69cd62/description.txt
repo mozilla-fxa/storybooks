@@ -1,8 +1,0 @@
-commit af145c5bd23e24cbe6499cf9bca6bf338c69cd62
-Merge: 51a2ac381 41d54a195
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Tue Sep 8 14:53:54 2020 -0400
-
-    Merge pull request #6381 from mozilla/jh/6219/123done-version
-    
-    feat(123done): add version route

@@ -1,8 +1,0 @@
-commit 063bd5c61ecf898df9f677014664c8fc684d1d21
-Merge: af145c5bd 05a00a0ae
-Author: Dave Justice <djustice@mozilla.com>
-Date:   Tue Sep 8 16:30:55 2020 -0400
-
-    Merge pull request #6382 from mozilla/update-deps-9/8
-    
-    task(monorepo): update deps 9/8
