@@ -1,0 +1,5 @@
+commit 345a64750b0843d919ef438ab6a118e3ee0c7586
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Tue Sep 29 15:34:42 2020 -0700
+
+    feat(settings): added validation to change password
