@@ -1,0 +1,7 @@
+commit 2c4f3781f03f8274aafdca8f10e394d79fdd9f1d
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Tue Sep 29 18:47:05 2020 +0000
+
+    task(fxa-settings): mobile navigation tweaks
+    
+    - fixes #4874
