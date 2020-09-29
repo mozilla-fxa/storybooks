@@ -1,8 +1,0 @@
-commit e69012f941a4876166042b25ea09ddc3b7603725
-Merge: 92931882b cc4b03073
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Tue Sep 8 11:16:25 2020 -0400
-
-    Merge pull request #6380 from mozilla/fxa-2499, r=@jodyheavener
-    
-    fix(recovery): Use the existing accountResetToken if account model has it set

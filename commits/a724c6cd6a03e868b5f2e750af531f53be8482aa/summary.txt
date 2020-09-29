@@ -1,0 +1,1 @@
+Merge pull request #6534 from chenba/2555-settings-amplitude

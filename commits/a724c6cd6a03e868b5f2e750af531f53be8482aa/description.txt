@@ -1,0 +1,8 @@
+commit a724c6cd6a03e868b5f2e750af531f53be8482aa
+Merge: 4531e3ff8 c34a98bd8
+Author: Barry Chen <bchen@mozilla.com>
+Date:   Tue Sep 29 10:26:49 2020 -0500
+
+    Merge pull request #6534 from chenba/2555-settings-amplitude
+    
+    feat(settings): emit settings view Amplitude event
