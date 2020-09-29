@@ -1,0 +1,8 @@
+commit 4531e3ff82f5eae9e1a66180285f28487a8e2a7c
+Merge: 2ae9af866 eb87e7dae
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Tue Sep 29 11:08:41 2020 -0400
+
+    Merge pull request #6569 from mozilla/dependabot/npm_and_yarn/webpack-cli-3.3.12
+    
+    chore(deps): bump webpack-cli from 3.3.11 to 3.3.12
