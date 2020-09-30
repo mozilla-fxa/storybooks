@@ -1,0 +1,5 @@
+commit cdf079c8aaa9747eaa599c2b665ab58c1ab83072
+Author: Jon Buckley <jbuckley@mozilla.com>
+Date:   Wed Sep 30 17:39:14 2020 -0400
+
+    Release 1.189.1

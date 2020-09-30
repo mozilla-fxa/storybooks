@@ -1,1 +1,0 @@
-Merge pull request #6396 from mozilla/6342-force-2fa-fix
