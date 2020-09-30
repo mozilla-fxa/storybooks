@@ -1,8 +1,0 @@
-commit e59441851dc1d4b6172e7a6940c0052b1e8de2fd
-Merge: 4d9aa7bf0 a47764c89
-Author: Vijay Budhram <vbudhram@mozilla.com>
-Date:   Wed Sep 9 10:40:01 2020 -0400
-
-    Merge pull request #6384 from mozilla/fix-logging
-    
-    fix(logging: trace log geodb failures

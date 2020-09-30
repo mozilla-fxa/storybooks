@@ -1,0 +1,5 @@
+commit 9439d7290ecca2c68443b77c4fde46db81a36324
+Author: Vijay Budhram <vbudhram@gmail.com>
+Date:   Tue Sep 29 16:27:11 2020 -0400
+
+    fix(tests): update functional testing docs and settings tests

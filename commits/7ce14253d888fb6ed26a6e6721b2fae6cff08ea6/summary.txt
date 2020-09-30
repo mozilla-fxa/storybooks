@@ -1,1 +1,0 @@
-Merge pull request #6366 from chenba/2494-bad-card-first-delete
