@@ -1,6 +1,0 @@
-commit 4e9984d35d09d7318c71b4487305e3efeadcabd3
-Merge: 7ce14253d 6e22bc02d
-Author: Jody Heavener <j.heavener@gmail.com>
-Date:   Wed Sep 9 14:26:00 2020 -0400
-
-    Merge pull request #6322 from mozilla/jh/alertbar-hook

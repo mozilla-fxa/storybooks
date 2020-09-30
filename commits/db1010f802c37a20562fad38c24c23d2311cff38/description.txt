@@ -1,0 +1,8 @@
+commit db1010f802c37a20562fad38c24c23d2311cff38
+Merge: 44bbb161d a239cfe4c
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Sep 30 11:47:21 2020 -0700
+
+    Merge pull request #6575 from mozilla/dependabot/npm_and_yarn/urijs-1.19.2
+    
+    chore(deps): bump urijs from 1.19.1 to 1.19.2

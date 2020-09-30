@@ -1,0 +1,1 @@
+Merge pull request #6575 from mozilla/dependabot/npm_and_yarn/urijs-1.19.2
