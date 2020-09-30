@@ -1,0 +1,8 @@
+commit 5fd65f3e09c1e9ef0b91f7b2428f6a79ba905e17
+Merge: f5ec82645 2c4f3781f
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Sep 30 16:42:32 2020 -0400
+
+    Merge pull request #6572 from mozilla/4874-nav-updates
+    
+    task(fxa-settings): mobile navigation tweaks
