@@ -1,0 +1,8 @@
+commit 44bbb161d958f084c1bb39902554f69a2333de90
+Merge: 06bbb7794 73cdc6228
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Wed Sep 30 12:31:54 2020 -0400
+
+    Merge pull request #6567 from mozilla/dependabot/npm_and_yarn/node-zendesk-2.0.3
+    
+    chore(deps): bump node-zendesk from 1.4.0 to 2.0.3
