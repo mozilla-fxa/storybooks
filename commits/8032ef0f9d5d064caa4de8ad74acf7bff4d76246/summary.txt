@@ -1,0 +1,1 @@
+feat(settings): added validation to change password
