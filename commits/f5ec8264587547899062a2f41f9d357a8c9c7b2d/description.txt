@@ -1,0 +1,8 @@
+commit f5ec8264587547899062a2f41f9d357a8c9c7b2d
+Merge: db1010f80 7d7c7a9ac
+Author: Danny Coates <dannycoates@gmail.com>
+Date:   Wed Sep 30 11:47:55 2020 -0700
+
+    Merge pull request #6576 from mozilla/dependabot/npm_and_yarn/moment-timezone-0.5.31
+    
+    chore(deps): bump moment-timezone from 0.5.11 to 0.5.31
