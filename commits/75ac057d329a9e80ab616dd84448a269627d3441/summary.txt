@@ -1,1 +1,0 @@
-chore(deps): bump file-loader in /packages/fxa-content-server
