@@ -1,0 +1,8 @@
+commit 220090de9af52c8ee0d786ff429b0639506dc587
+Merge: 40543ef2c a3c678948
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Oct 1 10:15:00 2020 -0400
+
+    Merge pull request #6588 from mozilla/replace-send-with-vpn
+    
+    chore(marketing): update marketing for vpn
