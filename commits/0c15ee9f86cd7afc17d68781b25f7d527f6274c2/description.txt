@@ -1,0 +1,8 @@
+commit 0c15ee9f86cd7afc17d68781b25f7d527f6274c2
+Merge: 7a4afec1b 32c117bed
+Author: Vijay Budhram <vbudhram@mozilla.com>
+Date:   Thu Oct 1 11:04:07 2020 -0400
+
+    Merge pull request #6577 from mozilla/fxa-4850
+    
+    fix(tests): update functional testing docs and settings tests
