@@ -1,8 +1,0 @@
-commit 0b4626ec9f98cb3258b95c6d32fd926e515f0557
-Merge: 26acd6234 148bef705
-Author: Jared Hirsch <ohai@6a68.net>
-Date:   Thu Sep 10 08:41:58 2020 -0700
-
-    Merge pull request #6368 from mozilla/ppid-jwt-wheeeee
-    
-    fix(oauth): do not issue JWT access tokens that both use PPIDs and grant access to profile scopes

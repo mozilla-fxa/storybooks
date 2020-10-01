@@ -1,0 +1,1 @@
+Merge pull request #6566 from mozilla/4867-bento-menu

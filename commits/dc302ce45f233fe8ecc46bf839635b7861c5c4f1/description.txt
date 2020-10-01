@@ -1,0 +1,8 @@
+commit dc302ce45f233fe8ecc46bf839635b7861c5c4f1
+Merge: 0c15ee9f8 ba9f35c44
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Oct 1 12:00:48 2020 -0400
+
+    Merge pull request #6566 from mozilla/4867-bento-menu
+    
+    task(fxa-settings): add BentoMenu component

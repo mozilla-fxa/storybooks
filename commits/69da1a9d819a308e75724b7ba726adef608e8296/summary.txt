@@ -1,1 +1,0 @@
-fix(admin-panel): stop using helmet.xssFilter because we don't want its default value
