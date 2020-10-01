@@ -1,0 +1,8 @@
+commit 40543ef2c300a48cd8d5c5742498b2d2546fc9b5
+Merge: 8110e515b 347b777b6
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Oct 1 02:05:35 2020 -0400
+
+    Merge pull request #6587 from mozilla/dependabot/npm_and_yarn/types/storybook__addon-links-5.2.1
+    
+    chore(deps-dev): bump @types/storybook__addon-links from 3.3.5 to 5.2.1
