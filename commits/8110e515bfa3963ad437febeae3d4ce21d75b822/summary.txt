@@ -1,0 +1,1 @@
+Merge pull request #6585 from mozilla/dependabot/npm_and_yarn/hapi/hoek-9.1.0

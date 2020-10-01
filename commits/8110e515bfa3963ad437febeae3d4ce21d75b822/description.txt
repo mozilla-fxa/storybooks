@@ -1,0 +1,8 @@
+commit 8110e515bfa3963ad437febeae3d4ce21d75b822
+Merge: 4056d667b 112811204
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Oct 1 01:58:24 2020 -0400
+
+    Merge pull request #6585 from mozilla/dependabot/npm_and_yarn/hapi/hoek-9.1.0
+    
+    chore(deps): bump @hapi/hoek from 8.5.1 to 9.1.0
