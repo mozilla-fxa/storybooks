@@ -1,0 +1,1 @@
+fix(tests): update functional testing docs and settings tests
