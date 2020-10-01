@@ -1,0 +1,8 @@
+commit 7a4afec1b5a012afc7d470bca27163b4544105ee
+Merge: 220090de9 c91d73623
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Oct 1 10:42:01 2020 -0400
+
+    Merge pull request #6584 from mozilla/nav-fixed-fix
+    
+    fix(fxa-settings): fix nav mobile styles takeover
