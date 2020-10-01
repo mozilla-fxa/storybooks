@@ -1,8 +1,0 @@
-commit 8ddc5515a9f4fbe592f0c0bfde9c4e9809ca772e
-Merge: 23958c6e0 5e48c0cce
-Author: Jared Hirsch <ohai@6a68.net>
-Date:   Thu Sep 10 08:08:00 2020 -0700
-
-    Merge pull request #6395 from mozilla/lower-ttls
-    
-    fix(oauth): lower access token lifetimes to six hours plus five minutes
