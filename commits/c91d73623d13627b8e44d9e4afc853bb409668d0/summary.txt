@@ -1,0 +1,1 @@
+fix(fxa-settings): fix nav mobile styles takeover

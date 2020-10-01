@@ -1,0 +1,8 @@
+commit c91d73623d13627b8e44d9e4afc853bb409668d0
+Author: Dave Justice <djustice@mozilla.com>
+Date:   Thu Oct 1 02:12:30 2020 +0000
+
+    fix(fxa-settings): fix nav mobile styles takeover
+    
+    - addresses issue with nav staying full width on mobile covering
+    up our buttons
