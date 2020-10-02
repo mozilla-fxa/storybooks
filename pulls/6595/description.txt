@@ -1,0 +1,15 @@
+commit 2fa3f8a2b78f50a0f116bd73d58e5af6e71cf829
+Author: Lauren Zugai <lauren@zugai.com>
+Date:   Wed Sep 30 13:40:55 2020 -0500
+
+    fix(admin-panel): Fix connection to admin server in dev, remove unneeded Apollo dependencies, update README
+    
+    Because:
+    * The admin panel can't connect to the admin server in development
+    * We use '@apollo/client' in fxa-settings and should be consistent, preferring one package over a lot of separated dependencies
+    
+    This commit:
+    * Changes the gql server port to 8095
+    * Adds oidc-claim-id-token-email auth header in development
+    * Removes react-apollo, apollo-boost, apollo-client etc. in favor of @apollo/client
+    * Includes doc updates for admin-panel and admin-server

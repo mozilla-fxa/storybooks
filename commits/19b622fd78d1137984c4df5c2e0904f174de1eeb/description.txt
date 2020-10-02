@@ -1,8 +1,0 @@
-commit 19b622fd78d1137984c4df5c2e0904f174de1eeb
-Merge: 945148dce a98ab01f0
-Author: Jon Buckley <jbuckley@mozilla.com>
-Date:   Thu Sep 10 20:19:12 2020 -0400
-
-    Merge pull request #6413 from mozilla/fxa-auth-version-json-file
-    
-    fix(docker): Copy version.json into expected path /app/version.json

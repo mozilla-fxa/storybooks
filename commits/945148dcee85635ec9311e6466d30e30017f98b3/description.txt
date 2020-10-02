@@ -1,8 +1,0 @@
-commit 945148dcee85635ec9311e6466d30e30017f98b3
-Merge: fbb0f7145 4a5e8869e
-Author: Jon Buckley <jbuckley@mozilla.com>
-Date:   Thu Sep 10 14:24:08 2020 -0400
-
-    Merge pull request #6155 from mozilla/jrgm-run-remote-test-targets
-    
-    fix(tests): add job to run tests against remote target
